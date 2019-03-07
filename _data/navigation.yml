@@ -1,40 +1,44 @@
 # Site navigation links
 
 - title: "Platform description"
-  url: https://benthic-bruvs-field-manual.github.io/platform-description
-  excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
+  url: https://multibeam-echosounder-field-manual.github.io/platform-description
+  excerpt: ""
   image: /5x8/00_5x8.jpg
 - title: "Scope"
-  url: https://benthic-bruvs-field-manual.github.io//scope
-  excerpt: "Scope for the benthic stereo-BRUVs field manual"
+  url: https://multibeam-echosounder-field-manual.github.io/scope
+  excerpt: "Scope for the multibeam echosounder field manual"
   image: /5x8/01_5x8.jpg
-- title: "Stereo-BRUVs in marine monitoring"
-  url: https://benthic-bruvs-field-manual.github.io//stereo-bruvs-in-marine-monitoring
-  excerpt: "Uses and history of stereo-BRUVs"
+- title: "Multibeam Acoustics for Marine Monitoring"
+  url: https://multibeam-echosounder-field-manual.github.io/multibeam-acoustics-for-marine-monitoring
+  excerpt: ""
   image: /5x8/02_5x8.jpg
-- title: "Equipment"
-  url: https://benthic-bruvs-field-manual.github.io//equipment
-  excerpt: "Equipment"
+- title: "Pre-Survey Preparations"
+  url: https://multibeam-echosounder-field-manual.github.io/pre-survey-preparations
+  excerpt: ""
   image: /5x8/03_5x8.jpg
-- title: "Pre-survey planning"
-  url: https://benthic-bruvs-field-manual.github.io//pre-survey-planning
-  excerpt: "Calibrating and pre-survey checklist"
+- title: "Data Acquisition"
+  url: https://multibeam-echosounder-field-manual.github.io/data-acquisition
+  excerpt: "Installation offsets, Data logging, Sound velocity profiles, Geodetic parameters, Survey speed, Line spacing, Pulse length, Tides and GPS tides and Data type"
   image: /5x8/04_5x8.jpg
-- title: "Field procedures"
-  url: https://benthic-bruvs-field-manual.github.io//field-procedures
-  excerpt: "Arrival on site, deployment, retrieval, retrieval of snagged or lost BRUV and fieldwork data management"
+- title: "Data Processing"
+  url: https://multibeam-echosounder-field-manual.github.io/data-processing
+  excerpt: "Bathymetric and Backscatter data processing"
   image: /5x8/05_5x8.jpg
-- title: "Post-survey procedures"
-  url: https://benthic-bruvs-field-manual.github.io//post-survey-procedures
-  excerpt: "Data management, processing video footage, quality control, data curation and data release"
+- title: "Data Interpretation"
+  url: https://multibeam-echosounder-field-manual.github.io/data-interpretation 
+  excerpt: ""
   image: /5x8/06_5x8.jpg
-- title: "Field manual maintenance"
-  url: https://benthic-bruvs-field-manual.github.io//field-manual-maintenance
-  excerpt: "Version control and an example metadata table"
+- title: "Data Release"
+  url: https://multibeam-echosounder-field-manual.github.io/data-release
+  excerpt: ""
   image: /5x8/07_5x8.jpg
 - title: "References"
-  url: https://benthic-bruvs-field-manual.github.io//references
+  url: https://multibeam-echosounder-field-manual.github.io//references
   excerpt: "Literature cited"
+  image: /5x8/08_5x8.jpg
+- title: "Field Manual Maintenance"
+  url: https://multibeam-echosounder-field-manual.github.io/field-manual-maintenance
+  excerpt: ""
   image: /5x8/08_5x8.jpg
 - title: "Field Manual Homepage"
   url: https://marine-sampling-field-manual.github.io/
