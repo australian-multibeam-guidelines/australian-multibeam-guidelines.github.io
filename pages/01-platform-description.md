@@ -7,8 +7,6 @@ image:
   feature: /banners/01_banner.jpg
 toc: true
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
-
 # Platform description
 
 Swath mapping systems use acoustic technology to collect information on the bathymetry (topography) and the backscatter (impedance) of the seafloor (Figure 3.1). These systems can either be mounted on a ship, autonomous underwater vehicle (AUV), remotely operated vehicle (ROV) or an autonomous surface vehicle (ASV). They work by transmitting a sound pulse, called a ping, through a transmitter at a specific frequency (or are able to sweep through a range of frequencies). This same ping is then recorded through a receiver placed very close to the transmitter. The elapsed time that the ping takes to reach the seafloor and return to the receiver is used to measure the depth of the water. Certain attributes of the shape of the sound-wave are used to infer characteristics about the seafloor (geomorphology, substrate type) (Figure 3.1 a-d). 
