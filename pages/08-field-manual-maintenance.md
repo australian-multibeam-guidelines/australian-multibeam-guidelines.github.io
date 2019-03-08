@@ -8,11 +8,11 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
+In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual was updated in 2018 as Version 2. Future updates will be undertaken as needed with available resources, reflecting user feedback and new developments (e.g. data discoverability and accessibility).
 
  
 
-The version control for Chapter 5 (field manual for Benthic BRUVs) is below:
+The version control for Chapter 3 (field manual for MBES) is below:
 
  
 
@@ -34,171 +34,7 @@ The version control for Chapter 5 (field manual for Benthic BRUVs) is below:
   </tr>
   <tr>
     <td>2</td>
-    <td>Relevant updates, including Data Release sections based on NESP, AODN, IMOS, GA, and CSIRO projects</td>
-    <td>Early 2019</td>
+    <td>Minor corrections and updates, including links to Australian Multibeam Guidelines; J Daniell added as co-author based on extensive contributions as reviewer for V1</td>
+    <td>Mid 2019</td>
   </tr>
 </table>
-
-
-Table 5.2 Example metadata sheet for benthic stereo-BRUV fieldwork. Left and right memory card numbers must be recorded for each camera pair.
-
-<table>
-  <tr>
-    <td>Date</td>
-    <td>Site</td>
-    <td>BRUV#</td>
-    <td>Cam. Left #</td>
-    <td>Cam. Right#</td>
-    <td>Time in</td>
-    <td>Location in</td>
-    <td>Time out</td>
-    <td>Depth</td>
-    <td>Comments</td>
-  </tr>
-  <tr>
-    <td>2017-10-25</td>
-    <td>SITE-A</td>
-    <td>15</td>
-    <td>12</td>
-    <td>10</td>
-    <td>08:00</td>
-    <td>(115.12E; 32.54S)</td>
-    <td>10:15</td>
-    <td>95m</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-
