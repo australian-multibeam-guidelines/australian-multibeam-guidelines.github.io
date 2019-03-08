@@ -8,81 +8,58 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-Althaus F, Hill N, Ferrari R, Edwards L, Przeslawski R, Schönberg CH,  Stuart-Smith R,  Barrett N, Edgar G, and Colquhoun J. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
+Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
 
-Boutros N, Shortis MR, Harvey ES (2015) A comparison of calibration methods and system configurations of underwater stereo-video systems for applications in marine ecology. Limnol Oceanogr Methods 13:224–236
+Anderson, J. T., D. V. Holliday, R. Kloser, D. Reid, Y. Simard, C. Brown, R. Chapman, R. Coggan, R. Kieser, W. Michaels, A. Orlowski, J. Preston, J. Simmonds, and A. Stepnowski. 2007. Acoustic seabed classification of marine and physical and biological landscapes. Denmark.
 
-Cappo M, Harvey E, Shortis M (2007) 2Counting and measuring fish with baited video techniques - an overview. In: Lyle J, Furlani DM, Buxton CD (eds) Proceedings of the 2006 Australian Society of Fish Biology conference and workshop cutting edge technologies in fish and fisheries science. ASFB, p 101–114
+Buchanan, C., M. Spinoccia, K. Picard, O. Wilson, M. J. Sexton, S. Hodgekin, R. Parums, and P. J. W. Siwabessy. 2013. Standard Operation Procedure for a Multibeam Survey: Acquisition & Processing., Geoscience Australia: Canberra.
 
-Cappo M, Speare P, De’ath G (2004) Comparison of baited remote underwater video stations (BRUVS) and prawn (shrimp) trawls for assessments of fish biodiversity in inter-reefal areas of the Great Barrier Reef Marine Park. J Exp Mar Bio Ecol 302:123–152
+Butler, C., V. Lucieer, P. Walsh, E. Flukes, and C. Johnson. 2017. Seamap Australia (Version 1.0) the development of a national marine classification scheme for the Australian continental shelf. University of Tasmania.
 
-[Coghlan AR, McLean DL, Harvey ES, Langlois TJ (2017) Does fish behaviour bias abundance and length information collected by baited underwater video? J Exp Mar Bio Ecol 497:143–151](http://paperpile.com/b/cxZoCG/7rH1)
+CHS. 2013. Canadian Survey Management Guidelines. Fisheries and Oceans Canada, Canada.
 
-Collins DL, Langlois TJ, Bond T, Holmes TH, Harvey ES, Fisher R, McLean DL (2017) A novel stereo-video method to investigate fish–habitat relationships. Methods Ecol Evol 8:116–125
+Collier, J. S., and C. J. Brown. 2005. Correlation of sidescan backscatter with grain size distribution of surficial seabed sediments. Marine Geology 214:431-449.
 
-Colton MA, Swearer SE (2010) A comparison of two survey methods: differences between underwater visual census and baited remote underwater video. Mar Ecol Prog Ser 400:19–36
+Edward, S., and T. Martin. 2015. Geophysical Surveying and Mapping (GSM): Shallow water multibeam surveying standard operating procedure. CSIRO.
 
-Dorman SR, Harvey ES, Newman SJ (2012) Bait effects in sampling coral reef fish assemblages with stereo-BRUVs. PLoS One 7:e41538
+Gavrilov, A. and  I. Parnum. 2010. Fluctuations of seafloor backscatter data from multibeam sonar systems. IEEE Journal of Oceanic Engineering. 35 (2): pp. 209-219.
 
-Fitzpatrick C, McLean D, Harvey ES (2013) Using artificial illumination to survey nocturnal reef fish. Fish Res 146:41–50
+Hamilton, L. J., Parnum, I. 2011. Acoustic seabed segmentation from direct statistical clustering of entire multibeam sonar backscatter curves. Continental Shelf Research 31:138-148.
 
-Foster SD, Hosack GR, Lawrence E, Przeslawski R, Hedge P, Caley MJ, Barrett NS, Williams A, Li J, Lynch T, Dambacher JM, Sweatman HPA, Hayes KR (2017) Spatially balanced designs that incorporate legacy sites. Methods Ecol Evol 8:1433–1442
+Lucieer, V., and G. Lamarche. 2011. Unsupervised fuzzy classification and object-based image analysis of multibeam data to map deep water substrates, Cook Strait, New Zealand. Continental Shelf Research 31:1236-1247.
 
-Goetze JS, Jupiter SD, Langlois TJ, Wilson SK, Harvey ES, Bond T, Naisilisili W (2015) Diver operated video most accurately detects the impacts of fishing within periodically harvested closures. J Exp Mar Bio Ecol 462:74–82
+Lucieer, V. L., N. Hill, N. S. Barrett, and S. Nichol. 2013. Do marine substrates 'look' and 'sound' the same? Supervised classification of multibeam acoustic data using autonomous underwater vehicle images. Estuarine, Coastal and Shelf Science 117:94-106.
 
-Harasti D, Malcolm H, Gallen C, Coleman MA, Jordan A, Knott NA (2015) Appropriate set times to represent patterns of rocky reef fishes using baited video. J Exp Mar Bio Ecol 463:173–180
+McArthur, M. A., B. P. Brooke, R. Przeslawski, D. A. Ryan, V. L. Lucieer, S. Nichol, A. W. McCallum, C. Mellin, I. D. Cresswell, and L. C. Radke. 2010. On the use of abiotic surrogates to describe marine benthic biodiversity. Estuarine, Coastal and Shelf Science 88:21-32.
 
-Hardinge J, Harvey ES, Saunders BJ, Newman SJ (2013) A little bait goes a long way: The influence of bait quantity on a temperate fish assemblage sampled using stereo-BRUVs. J Exp Mar Bio Ecol 449:250–260
+McGonigle, C., C. Brown, and R. Quinn. 2010. Insonification orientation and its relevance for image-based classification of multibeam sonar. Ices Journal of Marine Science 67:1010-1023.
 
-Harvey ES, Cappo M, Butler JJ, Hall N, Kendrick GA (2007) Bait attraction affects the performance of remote underwater video stations in assessment of demersal fish community structure. Mar Ecol Prog Ser 350:245–254
+Monk, J., N. S. Barrett, N. A. Hill, V. L. Lucieer, S. L. Nichol, P. J. W. Siwabessy, and S. B. Williams. 2016. Outcropping reef ledges drive patterns of epibenthic assemblage diversity on cross-shelf habitats. Biodiversity and Conservation 25:485-502.
 
-Harvey ES, Cappo M, Kendrick GA, McLean DL (2013) Coastal fish assemblages reflect geological and oceanographic gradients within an Australian zootone. PLoS One 8:e80955
+Picard, K., Austine, K., Bergersen, N., Cullen, R., Dando, N., Donohue, D., Edwards, S., Ingleton, T., Jordan, A., Lucieer, V., Parnum, I., Siwabessy, J., Spinoccia, M., Talbot-Smith, R., Waterson, C., Barrett, N., Beaman, R., Bergersen, D., Boyd, M., Brace, B., Brooke, B., Cantrill, O., Case, M., Dunne, S., Fellows, M., Harris, U., Ierodiaconou, D., Johnstone, E., Kennedy, P., Leplastrier, A., Lewis, A., Lytton, S., Mackay, K., McLennan, S., Mitchell, C., Nichol, S., Post, A., Price, A., Przeslawski, R., Pugsley, L., Quadros, N., Smith, J., Stewart, W., Sullivan J., Tran, M., Whiteway, T., 2018. Australian Multibeam Guidelines. Record 2018/19. Geoscience Australia, Canberra. http://dx.doi.org/10.11636/Record.2018.019
 
-Harvey E, Fletcher D, Shortis M (2001) Improving the statistical power of length estimates of reef fish: a comparison of estimates determined visually by divers with estimates produced by a stereo-video system. Fishery bulletin-national oceanic and atmospheric administration. 99:72–80
+Porter-Smith, R., V. D. Lyne, R. J. Kloser, and V. L. Lucieer. 2012. Catchment-based classification of Australia's continental slope canyons. Marine Geology 303-306:183-192.
 
-Hill NA, Barrett N, Lawrence E, Hulls J, Dambacher JM, Nichol S, Williams A, Hayes KR (2014) Quantifying Fish Assemblages in Large, Offshore Marine Protected Areas: An Australian Case Study. PLoS One 9:e110831
+Rattray, A., D. Ierodiaconou, L. Laurenson, S. Burq, and M. Reston. 2009. Hydro-acoustic remote sensing of benthic biological communities on the shallow South East Australian continental shelf. Estuarine, Coastal and Shelf Science 84:237-245.
 
-Holmes TH, Wilson SK, Travers MJ, Langlois TJ, Evans RD, Moore GI, Douglas RA, Shedrawi G, Harvey ES, Hickey K (2013) A comparison of visual-and stereo-video based fish community assessment methods in tropical and temperate marine waters of Western Australia. Limnol Oceanogr Methods 11:337–350
+Sinquin, J. M., C. Vrignaud, and G. Mathieu. 2016. DORIS Software: A tool to process sound velocity profiles. Hydro International, Online:[ https://www.hydro-international.com/content/article/new-tool-to-process-sound-velocity-profiles?output=pdf](https://www.hydro-international.com/content/article/new-tool-to-process-sound-velocity-profiles?output=pdf)
 
-Langlois TJ (2017) Habitat-annotation-of-forward-facing- benthic-imagery: R code and user manual version 1.0.1. URL https://doi.org/10.5281/zenodo.893622 [accessed 18 Sept 2017].
-
-Langlois TJ, Bellchambers LM, Fisher R, Shiell GR, Goetze J, Fullwood L, Evans SN, Konzewitsch N, Harvey ES, Pember MB (2017) Investigating ecosystem processes using targeted fisheries closures: can small-bodied invertivore fish be used as indicators for the effects of western rock lobster fishing? Mar Freshwater Res 68:1251–1259
-
-Langlois TJ, Chabanet P, Dominique P, Harvey ES (2006) Baited underwater video for assessing reef fish populations in marine reserves. SPS Fisheries Newsletter 118:53–57
-
-Langlois TJ, Fitzpatrick BR, Fairclough DV, Wakefield CB, Alex Hesp S, McLean DL, Harvey ES, Meeuwig JJ (2012) Similarities between Line Fishing and Baited Stereo-Video Estimations of Length-Frequency: Novel Application of Kernel Density Estimates. PLoS One 7:e45973
-
-Langlois TJ, Harvey ES, Fitzpatrick B, Meeuwig JJ, Shedrawi G, Watson DL (2010) Cost-efficient sampling of fish assemblages: comparison of baited video stations and diver video transects. Aquat Biol 9:155–168
-
-Langlois TJ, Newman SJ, Cappo M, Harvey ES, Rome BM, Skepper CL, Wakefield CB (2015) Length selectivity of commercial fish traps assessed from in situ comparisons with stereo-video: Is there evidence of sampling bias? Fish Res 161:145–155
-
-Logan JM, Young MA, Harvey ES, Schimel A, Ierodiaconou D (2017) Combining underwater video methods improves effectiveness of demersal fish assemblage surveys across habitats. Mar Ecol Prog Ser 582:181–200
-
-Lowry M, Folpp H, Gregson M, Suthers I (2012) Comparison of baited remote underwater video (BRUV) and underwater visual census (UVC) for assessment of artificial reefs in estuaries. J Exp Mar Bio Ecol 416-417:243–253
-
-Malcolm HA, Schultz AL, Sachs P, Johnstone N, Jordan A (2015) Decadal Changes in the Abundance and Length of Snapper (Chrysophrys auratus) in Subtropical Marine Sanctuaries. PLoS One 10:e0127616
-
-Mallet D, Pelletier D (2014) Underwater video techniques for observing coastal marine biodiversity: A review of sixty years of publications (1952–2012). Fish Res 154:44–62
-
-Marouchos A, Sherlock M, Barker B, Williams A (2011) Development of a stereo deepwater Baited Remote Underwater Video System (DeepBRUVS). In: OCEANS 2011 IEEE - Spain.p 1–5
-
-McLean DL, Langlois TJ, Newman SJ, Holmes TH, Birt MJ, Bornt KR, Bond T, Collins DL, Evans SN, Travers MJ, Wakefield CB, Babcock RC, Fisher R (2016) Distribution, abundance, diversity and habitat associations of fishes across a bioregion experiencing rapid coastal development. Estuar Coast Shelf Sci 178:36–47
-
-[Merritt D, Donovan MK, Kelley C, Waterhouse L, Parke M, Wong K, Drazen JC (2011) BotCam: a baited camera system for nonextractive monitoring of bottomfish species. Fish Bull 109:56–67](http://paperpile.com/b/cxZoCG/eVZN)
-
-Rochet MJ, Trenkel VM (2003) Which community indicators can measure the impact of fishing? A review and proposals. Can J Fish Aquat Sci 60:86–99
-
-Schobernd ZH, Bacheler NM, Conn PB (2013) Examining the utility of alternative video monitoring metrics for indexing reef fish abundance. Can J Fish Aquat Sci 71:464–471
-
-Watson DL, Anderson MJ, Kendrick GA, Nardi K, Harvey ES (2009) Effects of protection from fishing on the lengths of targeted and non-targeted fish species at the Houtman Abrolhos Islands, Western Australia. Mar Ecol Prog Ser 384:241–249
-
-Whitmarsh SK, Fairweather PG, Huveneers C (2017) What is Big BRUVver up to? Methods and uses of baited underwater video. Rev Fish Biol Fish 27:53–73
-
-Willis, T. J., R. B. Millar, and R. C. Babcock. 2000. Detection of spatial variability in relative density of fishes: Comparison of visual census, angling, and baited underwater video. Mar Ecol Prog Ser 198:249–260.
-
-Zintzen V, Anderson MJ, Roberts CD, Harvey ES, Stewart AL, Struthers CD (2012) Diversity and composition of demersal fishes along a depth gradient assessed by baited remote underwater stereo-video. PLoS One 7:e4852
+Watson, S. J., Whittaker, J. M., Lucieer, V., Coffin, M. F., & Lamarche, G. 2017. Erosional and depositional processes on the submarine flanks of Ontong Java and Nukumanu atolls, western equatorial Pacific Ocean. *Marine Geology*, *392*, 122-139.
 
  
 
  
 
+3 An interferometric multibeam measures the angle of the incoming sound wave fronts in a time sequence of samples. Slant range is obtained from the time of the sample and speed of sound.
+
+ 
+
+4 A beamforming multibeam mathematically forms a set of "beams" and detects the range to the seabed in each beam.
+
+ 
+
+5 The sidelobes are smaller beams that are away from the main beam. These sidelobes represent energy received in undesired directions which can never be completely eliminated.
+
+ 
+
+6 In the field of digital signal processing, the sampling theorem is a fundamental bridge between continuous-time signals (often called "analog signals") and discrete-time signals (often called "digital signals"). It establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal of finite bandwidth.
