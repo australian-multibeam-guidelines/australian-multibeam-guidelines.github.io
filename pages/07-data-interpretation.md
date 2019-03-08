@@ -4,7 +4,7 @@ permalink: /data-interpretation
 title: "Data Interpretation"
 excerpt: ""
 image:
-  feature: /banners/06_banner.jpg
+  feature: /banners/07_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
