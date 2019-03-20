@@ -973,14 +973,13 @@ The version control for Chapter 3 (field manual for MBES) is below:
 
 ## References
 
-
-    Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
-
-
-    Anderson, J. T., D. V. Holliday, R. Kloser, D. Reid, Y. Simard, C. Brown, R. Chapman, R. Coggan, R. Kieser, W. Michaels, A. Orlowski, J. Preston, J. Simmonds, and A. Stepnowski. 2007. Acoustic seabed classification of marine and physical and biological landscapes. Denmark.
+Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
 
 
-    Buchanan, C., M. Spinoccia, K. Picard, O. Wilson, M. J. Sexton, S. Hodgekin, R. Parums, and P. J. W. Siwabessy. 2013. Standard Operation Procedure for a Multibeam Survey: Acquisition & Processing., Geoscience Australia: Canberra.
+Anderson, J. T., D. V. Holliday, R. Kloser, D. Reid, Y. Simard, C. Brown, R. Chapman, R. Coggan, R. Kieser, W. Michaels, A. Orlowski, J. Preston, J. Simmonds, and A. Stepnowski. 2007. Acoustic seabed classification of marine and physical and biological landscapes. Denmark.
+
+
+Buchanan, C., M. Spinoccia, K. Picard, O. Wilson, M. J. Sexton, S. Hodgekin, R. Parums, and P. J. W. Siwabessy. 2013. Standard Operation Procedure for a Multibeam Survey: Acquisition & Processing., Geoscience Australia: Canberra.
 
 
     Butler, C., V. Lucieer, P. Walsh, E. Flukes, and C. Johnson. 2017. Seamap Australia (Version 1.0) the development of a national marine classification scheme for the Australian continental shelf. University of Tasmania. 
