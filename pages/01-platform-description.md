@@ -18,7 +18,7 @@ During the development of Version 1 of this manual, a broader assessment of mult
 
 In order to avoid duplication of details, this field manual will provide a procedure for specific planning, acquisition and processing steps relevant to marine monitoring. Where applicable, it will refer to the _Australian Multibeam Guidelines_ (Picard et al. 2018) for further details of operational steps. It will also provide further specific details of pre- and post-surveying considerations required for marine monitoring activities when planning swath mapping surveys.  This will include surveys required for both broad scale mapping to inform the development of habitat maps, and those being conducted as a component of monitoring.  Further details of marine sampling platforms used to ground truth acoustic data, and to monitor of ecological indicators are presented in the accompanying NESP field manuals (Chapters 4-9).
 
-![alt_text](images/image_0.jpg "image_tooltip")
+![alt_text](images/image_0.jpg)
 
 
 Figure 3.1. a) Multibeam transducer mounted on the hull of a ship in the (b) gondola. c) Multibeam acoustic bathymetry image c) coincident seafloor backscatter image and d) interpreted geomorphology map. (reference: Watson et al., 2017).
