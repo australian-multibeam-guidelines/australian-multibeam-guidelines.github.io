@@ -11,7 +11,7 @@ image:
 The use of MBES for mapping and monitoring marine habitats has experienced a rapid increase since 2000 (Figure 3.3), and there is now a wealth of knowledge from which we can synthesise a ‘best practices’ document.
 
 
-![image alt text](image_2.png)
+![image alt text](images/figures/image_2.png)
 
 Figure 3.3. Annual total of peer reviewed papers featuring multibeam mapping for seafloor survey (Web of Science 2017- search words "multibeam seafloor habitat survey").
 
@@ -23,7 +23,7 @@ To meet these objectives, there are two particular needs for mapping and surveyi
 
  
 
- ![image alt text](image_3.png)
+ ![image alt text](images/figures/image_3.png)
 
 Figure 3.4. Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)). For generalised MBES survey workflow, refer to Figure 2 of the Australian Multibeam Guidelines (Picard et al., 2018).
 

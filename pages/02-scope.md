@@ -21,7 +21,7 @@ This field manual details the specific four main phases of a seabed mapping surv
 
  
 
-![image alt text](image_1.png)
+![image alt text](images/figures/image_1.png)
 
 Figure 3.2. Workflow from MBES survey design to spatial data products and reporting
 
