@@ -24,14 +24,14 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 |  **[Multibeam Acoustics for Marine Monitoring](https://multibeam-echosounder-field-manual.github.io/multibeam-acoustics-for-marine-monitoring)** |
 |  **[Pre-Survey Preparations](https://multibeam-echosounder-field-manual.github.io/pre-survey-preparations)**                                   |
 |  **[Data Acquisition](https://multibeam-echosounder-field-manual.github.io/data-acquisition)**                                                   |
-|       - [Installation offsets](https://multibeam-echosounder-field-manual.github.io/data-acquisition#installation-offsets)</li>                    |
-|       - [Data logging](https://multibeam-echosounder-field-manual.github.io/data-acquisition#data-logging)                                     |
-|       - [Sound velocity profiles](https://multibeam-echosounder-field-manual.github.io/data-acquisition#sound-velocity-profiles)                |
-|       - [Geodetic parameters](https://multibeam-echosounder-field-manual.github.io/data-acquisition#geodetic-parameters)                      |
-|       - [Survey speed](https://multibeam-echosounder-field-manual.github.io/data-acquisition#survey-speed)                                  |
-|       - [Line spacing](https://multibeam-echosounder-field-manual.github.io/data-acquisition#line-spacing)                                     |
-|       - [Pulse length](https://multibeam-echosounder-field-manual.github.io/data-acquisition#pulse-length)                                   |
-|       - [Tides and GPS tides](https://multibeam-echosounder-field-manual.github.io/data-acquisition#tides-and-gps-tides)                        |
+|       _[Installation offsets](https://multibeam-echosounder-field-manual.github.io/data-acquisition#installation-offsets)_                   |
+|       _[Data logging](https://multibeam-echosounder-field-manual.github.io/data-acquisition#data-logging)_                                     |
+|       _[Sound velocity profiles](https://multibeam-echosounder-field-manual.github.io/data-acquisition#sound-velocity-profiles)_                |
+|       _[Geodetic parameters](https://multibeam-echosounder-field-manual.github.io/data-acquisition#geodetic-parameters)_                      |
+|       _[Survey speed](https://multibeam-echosounder-field-manual.github.io/data-acquisition#survey-speed)_                                  |
+|       _[Line spacing](https://multibeam-echosounder-field-manual.github.io/data-acquisition#line-spacing)_                                     |
+|       _[Pulse length](https://multibeam-echosounder-field-manual.github.io/data-acquisition#pulse-length)_                                   |
+|       _[Tides and GPS tides](https://multibeam-echosounder-field-manual.github.io/data-acquisition#tides-and-gps-tides)_                        |
 |  **[Data Processing](https://multibeam-echosounder-field-manual.github.io/data-processing)**                                                    |
 |       - [Bathymetric data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#bathymetric-data-processing)         |
 |       - [Backscatter data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#backscatter-data-processing)         |
