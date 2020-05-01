@@ -33,8 +33,8 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 |       _[Pulse length](https://multibeam-echosounder-field-manual.github.io/data-acquisition#pulse-length)_                                   |
 |       _[Tides and GPS tides](https://multibeam-echosounder-field-manual.github.io/data-acquisition#tides-and-gps-tides)_                        |
 |  **[Data Processing](https://multibeam-echosounder-field-manual.github.io/data-processing)**                                                    |
-|       _[Bathymetric data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#bathymetric-data-processing) _        |
-|       _[Backscatter data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#backscatter-data-processing) _        |
+|       _[Bathymetric data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#bathymetric-data-processing)_        |
+|       _[Backscatter data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#backscatter-data-processing)_        |
 |  **[Data Interpretation](https://multibeam-echosounder-field-manual.github.io/data-interpretation)**                                             |
 |  **[Data Release](https://multibeam-echosounder-field-manual.github.io/data-release)**                                                           |
 |  **[Field Manual Maintenance](https://multibeam-echosounder-field-manual.github.io/field-manual-maintenance)**                                   |
