@@ -17,7 +17,7 @@ page.button1.external_url:
 Chapter citation:
 Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mapping field manual for multibeam sonar. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp 42-64. 
 
-|  Contents                                                                                                                                       |
+| Chapter Contents                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
 |  **[Platform Description](https://multibeam-echosounder-field-manual.github.io/platform-description)**   
 |  __[Scope](https://multibeam-echosounder-field-manual.github.io/scope)__                                                                        |
