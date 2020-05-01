@@ -58,7 +58,7 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 |     - [Geodetic parameters](https://multibeam-echosounder-field-manual.github.io/data-acquisition#geodetic-parameters)                      |
 |     - [Survey speed](https://multibeam-echosounder-field-manual.github.io/data-acquisition#survey-speed)                                  |
 |     - [Line spacing](https://multibeam-echosounder-field-manual.github.io/data-acquisition#line-spacing)                                     |
-|     - [Pulse length](https://multibeam-echosounder-field-manual.github.io/data-acquisition#pulse-length                                    |
+|     - [Pulse length](https://multibeam-echosounder-field-manual.github.io/data-acquisition#pulse-length)                                   |
 |     - [Tides and GPS tides](https://multibeam-echosounder-field-manual.github.io/data-acquisition#tides-and-gps-tides)                        |
 |  ** [Data Processing](https://multibeam-echosounder-field-manual.github.io/data-processing)**                                                    |
 |     - [Bathymetric data processing](https://multibeam-echosounder-field-manual.github.io/data-processing#bathymetric-data-processing)         |
