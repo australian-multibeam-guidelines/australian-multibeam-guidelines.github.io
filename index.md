@@ -41,42 +41,4 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 |  **[References](https://multibeam-echosounder-field-manual.github.io/references)**                                                               |
 
 
-
-
- $(document).ready(function(){
-  $(window).scroll(function(){
-      if ($(this).scrollTop() > 100) {
-          $('.scrollUpButton').fadeIn();
-      } else {
-          $('.scrollUpButton').fadeOut();
-      }
-  });
-  $('.scrollUpButton').click(function(){
-      $("html, body").animate({ scrollTop: 0 }, 500);
-      return false;
-  });
- });
-Step 2 - The CSS
-
-.scrollUpButton {
- display: none;
- opacity: 0.6;
- position: fixed;
- bottom: 10px;
- right: 10px;
- display: none;
- background: #000;
- color: #fff;
- font-size: 1.5em;
- text-decoration: none;
- padding: 5px 10px 5px 10px;
-}
-.scrollUpButton:hover, .scrollUpButton:focus {
- outline: none;
- text-decoration: none;
- color: #fff;
- opacity: 1;
-}
-Step 3 - The HTML (Add this somewhere before the closing body tag)
-
-<a href="#" class="scrollUpButton">&#9650</a>
+<a href="#" class="scrollUpButton">Top</a>
