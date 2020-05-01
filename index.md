@@ -19,10 +19,12 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 
 {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
 
-# Chapter Contents
-### [Platform Description](https://multibeam-echosounder-field-manual.github.io/platform-description)
-### [Scope](https://multibeam-echosounder-field-manual.github.io/scope)
-### [Multibeam Acoustics for Marine Monitoring](https://multibeam-echosounder-field-manual.github.io/multibeam-acoustics-for-marine-monitoring)
+# Chapter Contents |
+--- |
+### [Platform Description](https://multibeam-echosounder-field-manual.github.io/platform-description) |
+### [Scope](https://multibeam-echosounder-field-manual.github.io/scope) |
+### [Multibeam Acoustics for Marine | Monitoring](https://multibeam-echosounder-field-manual.github.io/multibeam-acoustics-for-marine-monitoring) |
+
 ### [Pre-Survey Preparations](https://multibeam-echosounder-field-manual.github.io/pre-survey-preparations)
 ### [Data Acquisition](https://multibeam-echosounder-field-manual.github.io/data-acquisition)
 ##### * [Installation offsets](https://multibeam-echosounder-field-manual.github.io/data-acquisition#installation-offsets)
