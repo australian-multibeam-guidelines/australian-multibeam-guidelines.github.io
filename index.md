@@ -41,4 +41,4 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 |  **[References](https://multibeam-echosounder-field-manual.github.io/references)**                                                               |
 
 
-<a href="#" class="scrollUpButton">Top</a>
+<a href="#" class="scrollUpButton">Back to top</a>
