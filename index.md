@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Seafloor Mapping for Multibeam Sonar"
+title: "Seafloor Mapping Field Manual for Multibeam Sonar"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
