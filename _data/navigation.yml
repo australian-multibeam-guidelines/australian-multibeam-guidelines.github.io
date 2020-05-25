@@ -1,50 +1,50 @@
 # Site navigation links
 - title: "Multibeam echosounder field manual home"
-  url: https://multibeam-echosounder-field-manual.github.io/
+  url: https://australian-multibeam-guidelines.github.io/
   excerpt: "Authors, citation and give feedback"
   image: /5x8/Home-blue_5x8.jpg
 - title: "Download field manual"
-  url: https://multibeam-echosounder-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter3_MBES.pdf
+  url: https://australian-multibeam-guidelines.github.io/files/FieldManuals_NESPMarineHub_Chapter3_MBES.pdf
   excerpt: "Download chapter as a PDF"
   image: /5x8/download_5x8.jpg
 - title: "Platform description"
-  url: https://multibeam-echosounder-field-manual.github.io/platform-description
+  url: https://australian-multibeam-guidelines.github.io/platform-description
   excerpt: ""
   image: /5x8/01_5x8.jpg
 - title: "Scope"
-  url: https://multibeam-echosounder-field-manual.github.io/scope
+  url: https://australian-multibeam-guidelines.github.io/scope
   excerpt: "Scope for the multibeam echosounder field manual"
   image: /5x8/02_5x8.jpg
 - title: "Multibeam Acoustics for Marine Monitoring"
-  url: https://multibeam-echosounder-field-manual.github.io/multibeam-acoustics-for-marine-monitoring
+  url: https://australian-multibeam-guidelines.github.io/multibeam-acoustics-for-marine-monitoring
   excerpt: ""
   image: /5x8/03_5x8.jpg
 - title: "Pre-Survey Preparations"
-  url: https://multibeam-echosounder-field-manual.github.io/pre-survey-preparations
+  url: https://australian-multibeam-guidelines.github.io/pre-survey-preparations
   excerpt: ""
   image: /5x8/04_5x8.jpg
 - title: "Data Acquisition"
-  url: https://multibeam-echosounder-field-manual.github.io/data-acquisition
+  url: https://australian-multibeam-guidelines.github.io/data-acquisition
   excerpt: "Installation offsets, Data logging, Sound velocity profiles, Geodetic parameters, Survey speed, Line spacing, Pulse length, Tides and GPS tides and Data type"
   image: /5x8/05_5x8.jpg
 - title: "Data Processing"
-  url: https://multibeam-echosounder-field-manual.github.io/data-processing
+  url: https://australian-multibeam-guidelines.github.io/data-processing
   excerpt: "Bathymetric and Backscatter data processing"
   image: /5x8/06_5x8.jpg
 - title: "Data Interpretation"
-  url: https://multibeam-echosounder-field-manual.github.io/data-interpretation 
+  url: https://australian-multibeam-guidelines.github.io/data-interpretation 
   excerpt: ""
   image: /5x8/07_5x8.jpg
 - title: "Data Release"
-  url: https://multibeam-echosounder-field-manual.github.io/data-release
+  url: https://australian-multibeam-guidelines.github.io/data-release
   excerpt: ""
   image: /5x8/08_5x8.jpg
 - title: "Field Manual Maintenance"
-  url: https://multibeam-echosounder-field-manual.github.io/field-manual-maintenance
+  url: https://australian-multibeam-guidelines.github.io/field-manual-maintenance
   excerpt: ""
   image: /5x8/09_5x8.jpg
 - title: "References"
-  url: https://multibeam-echosounder-field-manual.github.io/references
+  url: https://australian-multibeam-guidelines.github.io/references
   excerpt: "Literature cited"
   image: /5x8/10_5x8.jpg
 - title: "Field Manual Homepage"
