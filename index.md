@@ -19,8 +19,8 @@ Lucieer V, Picard K, Siwabessy J, Jordan A, Tran M, Monk J. 2018. Seafloor mappi
 
 | Chapter Contents                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Platform Description](https://multibeam-echosounder-field-manual.github.io/platform-description)**   
-|  __[Scope](https://multibeam-echosounder-field-manual.github.io/scope)__                                                                        |
+|  **[Platform Description](https://australian-multibeam-guidelines.github.io/platform-description)**   
+|  __[Scope](https://australian-multibeam-guidelines.github.io/scope)__                                                                        |
 |  **[Multibeam Acoustics for Marine Monitoring](https://australian-multibeam-guidelines.github.io/multibeam-acoustics-for-marine-monitoring)** |
 |  **[Pre-Survey Preparations](https://australian-multibeam-guidelines.github.io/pre-survey-preparations)**                                   |
 |  **[Data Acquisition](https://australian-multibeam-guidelines.github.io/data-acquisition)**                                                   |
