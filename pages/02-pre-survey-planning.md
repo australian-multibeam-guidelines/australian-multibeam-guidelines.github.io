@@ -205,68 +205,41 @@ _Table 6 Overview of required metadata._
   <tr>
     <td>Metadata Fields</td>
     <td><ul>
-
-<li>Survey Title
-
-<li>Survey ID
-
-<li>Abstract
-
-<li>Lineage
-</li>
-</ul></td>
-    <td><ul>
-
-<li>Data Owner 
-
-<li>Custodian
-
-<li>Country (data ownership)
-
-<li>Collecting Entity
-
-<li>Attribution Licence
-
-<li>Legal Constraints
-
-<li>Access Constraints
-
-<li>Use Constraints
-</li>
-</ul></td>
-    <td><ul>
-
-<li>Survey Area (general)
-
-<li>Bounding Box
-
-<li>Coordinate reference system-bounding Box
-
-<li>Coordinate reference system–Survey Data
-
-<li>Geodetic Datum of the survey
-
-<li>Horizontal datum
-
-<li>Vertical datum
-</li>
-</ul></td>
-    <td><ul>
-
-<li>Instrument type
-
-<li>Sensor type
-
-<li>Sensor Frequency
-
-<li>Platform type
-
-<li>Platform name
-</li>
-</ul></td>
-  </tr>
+    <li>Survey Title
+    <li>Survey ID
+    <li>Abstract
+    <li>Lineage</li>
+   </ul></td>
+   <td><ul>
+    <li>Data Owner 
+    <li>Custodian
+    <li>Country (data ownership)
+    <li>Collecting Entity
+    <li>Attribution Licence
+    <li>Legal Constraints
+    <li>Access Constraints
+    <li>Use Constraints</li>
+   </ul></td>
+   <td><ul>
+    <li>Survey Area (general)
+    <li>Bounding Box
+    <li>Coordinate reference system-bounding Box
+    <li>Coordinate reference system–Survey Data
+    <li>Geodetic Datum of the survey
+    <li>Horizontal datum
+    <li>Vertical datum</li>
+   </ul></td>
+   <td><ul>
+    <li>Instrument type
+    <li>Sensor type
+    <li>Sensor Frequency
+    <li>Platform type
+    <li>Platform name</li>
+   </ul></td>
+</tr>
 </tbody>
 </table>
+<br>
 
 This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation) which outlines the Mobilisation, Calibration and Validation reports.
 
