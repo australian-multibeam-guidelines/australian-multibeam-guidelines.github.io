@@ -232,9 +232,6 @@ _Table 6 Overview of required metadata._
     <li>Sensor Frequency</li>
     <li>Platform type</li>
     <li>Platform name</li>
-      </tr>
-</tbody>
-</table>
 <br>
 
 This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation) which outlines the Mobilisation, Calibration and Validation reports.
