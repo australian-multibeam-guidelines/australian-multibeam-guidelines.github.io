@@ -10,7 +10,7 @@ layout: home
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 
-The acquisition of data is the most expensive element of a seabed mapping project. Therefore it is essential that this phase of a survey is optimised by undertaking adequate pre-survey planning. This section of the guidelines identifies key aspects of the planning phase that can be improved for more efficient and effective surveys. They also present tools and resources available that can help [(Table 3)](#bookmark=id.2jxsxqh). These resources are also hosted on the [AusSeabed](http://www.ausseabed.gov.au/) website, and we encourage using the website to discover the full breath of available resources and future updates. The IHO C-13 Manual on Hydrography also provides an appendix on planning considerations and how to best calculate survey timings.
+The acquisition of data is the most expensive element of a seabed mapping project. Therefore it is essential that this phase of a survey is optimised by undertaking adequate pre-survey planning. This section of the guidelines identifies key aspects of the planning phase that can be improved for more efficient and effective surveys. They also present tools and resources available that can help (Table 3). These resources are also hosted on the [AusSeabed](http://www.ausseabed.gov.au/) website, and we encourage using the website to discover the full breath of available resources and future updates. The IHO C-13 Manual on Hydrography also provides an appendix on planning considerations and how to best calculate survey timings.
 
 _Table 3 Summary list of pre-survey planning tools proposed in the section_
 
@@ -77,29 +77,25 @@ Hydrobib provides integrated utilities for survey planning. It is more specific 
 
 
 
-    4. 
-National coverage consultation and upcoming survey register
+# National coverage consultation and upcoming survey register
 AusSeabed is currently developing a suite of pre-survey to view the current extent of national bathymetry data holdings, consult a map of national seabed mapping priority areas, and utilise a survey coordination tool to register and query upcoming surveys. These tools are aimed at providing seabed mappers with information to promote collaboration in areas of common interest and eliminate repeat collection. This initiative is likely to benefit all parties by reducing overall costs and facilitating more efficient collection efforts in Australian waters.
 
 Seamap Australia is a complementary mapping and analysis service that provides information about the Australian shelf (e.g. seafloor imagery, habitat classification) that may also inform proposed mapping areas (Lucieer et al., 2017).
 
-
-
-        1. 
-Existing Data coverage 
+## Existing Data coverage 
 Before planning a survey we recommend consulting the [Bathymetry coverage](http://www.ausseabed.gov.au/surveys-data/bathymetry) layer hosted on the AusSeabed website to avoid the collection of duplicate data. The identify tool in this portal provides metadata information for each coverage polygon submitted to AusSeabed. This ensures that users are able to attain data custodian and contact details for surveys already conducted that might meet some or all of their needs. The layer contains the spatial extents and metadata of all surveys submitted to Geoscience Australia (GA) by AusSeabed collaborators and external third-parties. It is being continually developed to display national data coverage, with input from an increasing number of organisations.
 
 The GA [MARS database](http://dbforms.ga.gov.au/pls/www/npm.mars.search) contains information on seabed sediment samples collected in Australian waters, analysed, and provided to GA. Links to other data samples collected by different entities is acknowledged as an item for future development..
 
 
 
-        2.  National Bathymetry priorities
+## National Bathymetry priorities
 
 The AusSeabed website also hosts an interactive map of [national bathymetry priorities](http://ausseabed.gov.au/surveys-data/priorities) that describes areas that are considered important to government in terms of safety of life at sea, conservation, and environmental monitoring. It is recommended that this tool be consulted in the early stages of survey planning to see if the voyage will be covering any areas of government interest. 
 
 
 
-        3. AusSeabed Coordination Tool
+## AusSeabed Coordination Tool
 
 It is also highly recommended that the upcoming survey layer is consulted on the AusSeabed portal in the early stages of survey planning to look for collaboration opportunities should there be other organisations planning to carry out work in areas of close proximity. Upcoming survey plans can be registered using the [AusSeabed Coordination Tool](https://planning.ausseabed.gov.au/login) to enable further collaboration and future tracking of new data. The tool allows users to display the planned extent and details of an upcoming survey and collects a set of metadata that are considered a minimum for any seabed mapping activity (
 
@@ -108,11 +104,7 @@ It is also highly recommended that the upcoming survey layer is consulted on the
 [section 2.3.1.3](#heading=h.147n2zr)) that can be utilised for the survey report and data submission following the survey. If desired, a more detailed planning document can also be attached. To request a user log in for access to the survey coordination tool email [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au?subject=Request%20for%20profile%20to%20use%20AusSeabed%20Coordination%20Tool).
 
 
-
-    5. 
-
-
-## 2.2 Research and survey permits
+# Research and survey permits
 
 Various permissions are required to undertake research in Commonwealth, State and Territory waters. Due to the complexity of laws and intersecting jurisdiction’s, information on this page should be treated as a guide only and information from the relevant governing bodies should be consulted to ascertain that the correct permissions have been acquired prior to any research undertaking. 
 
@@ -120,36 +112,25 @@ Operators should contact and inform relevant national and local authorities well
 
 
 
-    6. 
-Seabed mapping data collection considerations 
+# Seabed mapping data collection considerations 
 The **objectives** of MBES surveys conducted by mapping programs are to collect seafloor data to identify, delineate and map biogenic, anthropogenic and geological features. This objective requires particular data to be collected that can a) chart the water depths creating a high resolution bathymetric map at an appropriate resolution in regards to the target habitat or feature and b) be able to differentiate boundaries between different substrate and/or habitat types.
 
 This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](#bookmark=id.3u2rp3q) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
 
 
 
-        4. 
-Data type, formats, and metadata
+## Data type, formats, and metadata
 In 2019, AusSeabed held a workshop on data formats and metadata attributes to establish an agreed set of preferences for the delivery and acquisition of seabed data. The outcomes of that workshop underpin the information presented in the following sections, as a set of best practice policies to maximise the utility of collected open data. 
 
-
-
-            1. 
-Data type
+### Data type
 The types of data derived from a MBES survey are: 
-
-
-
 *   bathymetry: essential
 *   seabed backscatter: essential
 *   water column backscatter: encouraged
 
 The minimum essential requirements of any seafloor mapping survey are the bathymetric data and seabed backscatter data (the collection of which may require manual activation). Water column backscatter data acquisition is encouraged if the system can collect it. In addition to scientific applications, water column data is a common method used to confirm least depth over features and to identify bathymetric artefacts. It is both used in terms of 3D visualisation of the seabed and in observing oceanographic turbulence, such as internal waves, which may result in bathymetric artefacts (Hughes-Clarke, 2017b). 
 
-
-
-            2. 
-Data levels and file formats
+### Data levels and file formats
 Consistent definitions of data levels allow the community to reduce ambiguity when discussing, delivering, processing or describing data. The AusSeabed definitions of data levels has been modelled on those prescribed by NASA for Earth Observations data products. The following definitions were discussed, refined and agreed to at the 2019 AusSeabed metadata and standards workshop (Table 6). 
 
 _Table 4 AusSeabed Data Level Definitions_
@@ -452,12 +433,7 @@ Specifications needed for ASCII xyz include metadata for xyz, header information
 </table>
 
 
- 
-
-
-
-            3. 
-Metadata
+### Metadata
 Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](#bookmark=id.3dhjn8m). 
 
 _Table 6 Overview of required metadata._
@@ -557,67 +533,24 @@ This set of metadata is not exhaustive, and a large number of specific survey, c
 
 [section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
 
-
-
-        5. 
-Survey area characterization
+## Survey area characterization
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
-
-
-
 *   survey duration and size of the area
-*   depth range as this will affect line planning (
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.5.5"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 2.5.5](#heading=h.111kx3o)) and acquisition parameter settings (
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3](#heading=h.2afmg28))
+*   depth range as this will affect line planning ([section 2.5.5](#heading=h.111kx3o)) and acquisition parameter settings ([section 4.3](#heading=h.2afmg28))
 *   wind and wave conditions and seasonal weather changes
 *   tidal regime and tidal infrastructure
 *   feature detection and sounding density requirements; reflected in required pulse repetition (ping rates), swath width and survey speed
-*   the nature of the seabed, which is important for seabed backscatter data acquisition (
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3.2](#heading=h.39kk8xu)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered (
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.6"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 2.6](#heading=h.206ipza)).
-*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter (
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3.2](#heading=h.39kk8xu))
+*   the nature of the seabed, which is important for seabed backscatter data acquisition ([section 4.3.2](#heading=h.39kk8xu)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered ([section 2.6](#heading=h.206ipza)).
+*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter ([section 4.3.2](#heading=h.39kk8xu))
 *   the time of year and relevance to whale migrations for low frequency instruments
 *   potential interactions with surface fishing gear
 
-
-
-        6. 
-Data representation (seafloor coverage and resolution)
+## Data representation (seafloor coverage and resolution)
 Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](#bookmark=id.32hioqz) It is important to consider that the** **data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. For more details on the two systems, refer to [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison).
 
-Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections 
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "3.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[3.3](#heading=h.2r0uhxc) and 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "3.4"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[3.4](#heading=h.1664s55)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 5.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 5.2](#heading=h.36ei31r)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
+Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](#heading=h.2r0uhxc) and [3.4](#heading=h.1664s55)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](#heading=h.36ei31r)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
 
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
-
-
 
 _Table 7 MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
 
@@ -810,818 +743,6 @@ H
    </td>
    <td>21.82
    </td>Pre-survey planning
-The acquisition of data is the most expensive element of a seabed mapping project. Therefore it is essential that this phase of a survey is optimised by undertaking adequate pre-survey planning. This section of the guidelines identifies key aspects of the planning phase that can be improved for more efficient and effective surveys. They also present tools and resources available that can help [(Table 3)](#bookmark=id.2jxsxqh). These resources are also hosted on the [AusSeabed](http://www.ausseabed.gov.au/) website, and we encourage using the website to discover the full breath of available resources and future updates. The IHO C-13 Manual on Hydrography also provides an appendix on planning considerations and how to best calculate survey timings.
-
-_Table 3 Summary list of pre-survey planning tools proposed in the section_
-
-
-<table>
-  <tr>
-   <td>Tool or Resource
-   </td>
-   <td>Description
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://bit.ly/3haiN8v">Upcoming Survey Register</a></strong>
-   </td>
-   <td>Register the survey to encourage collaboration and contribute to national coverage
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="http://www.ausseabed.gov.au/">National Coverage</a></strong>
-   </td>
-   <td>Coverage of MBES dataset by various agencies.
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="http://www.iogp.org/geomatics/#ssdm">Seabed Survey Data Model</a></strong>
-   </td>
-   <td>The SSDM is a GIS model that has been developed since 2010 by the International Association of Oil & Gas Producers (IOGP) to facilitate management, integration and sharing of survey data at all levels, i.e. international, national, local, etc. (<a href="http://www.iogp.org/bookstore/product/guidelines-for-the-use-of-the-seabed-survey-data-model/">IOGP, 2017</a>).
-   </td>
-  </tr>
-  <tr>
-   <td><strong>A priori tools</strong>
-<p>
-<strong>1) <a href="https://www.rijkswaterstaat.nl/formulieren/aanvraagformulier-software-hydrografische-normen.aspx">Amust</a> </strong>
-<p>
-<strong>2) <a href="https://hydrochart.dk/hydrobib/">Hydrobib</a></strong>
-   </td>
-   <td>These tools help to determine expected uncertainties for a system. 
-<p>
-Amust link points to a registration page on the Rijkswaterstaat (Dutch Hydrographic Service) website. See also <a href="#bookmark=id.odc9jc">Appendix E</a> for a list of possible errors to take into account.  
-<p>
-Hydrobib provides integrated utilities for survey planning. It is more specific to R2Sonic echosounder, but can be adopted for other echosounders.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Datum tools</strong>
-<p>
-<strong><a href="https://vdatum.noaa.gov/">1) VDatum</a></strong>
-<p>
-<strong>2) <a href="http://www.icsm.gov.au/what-we-do/permanent-committee-tides-and-mean-sea-level">AusCoastVDT</a></strong>
-   </td>
-   <td>1) Designed to vertically transform geospatial data among a variety of tidal, orthometric and ellipsoidal vertical datums.
-<p>
-2) A vertical datum transformation tool for the Australian coast.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Line planning tool</strong>
-   </td>
-   <td>Most survey acquisition software packages (QPS, EIVA, HYPACK) have line planning capability built into them. See also <strong><a href="https://hydrochart.dk/hydrobib/">Hydrobib</a> </strong>above
-   </td>
-  </tr>
-</table>
-
-
-
-
-    4. 
-National coverage consultation and upcoming survey register
-AusSeabed is currently developing a suite of pre-survey to view the current extent of national bathymetry data holdings, consult a map of national seabed mapping priority areas, and utilise a survey coordination tool to register and query upcoming surveys. These tools are aimed at providing seabed mappers with information to promote collaboration in areas of common interest and eliminate repeat collection. This initiative is likely to benefit all parties by reducing overall costs and facilitating more efficient collection efforts in Australian waters.
-
-Seamap Australia is a complementary mapping and analysis service that provides information about the Australian shelf (e.g. seafloor imagery, habitat classification) that may also inform proposed mapping areas (Lucieer et al., 2017).
-
-
-
-        1. 
-Existing Data coverage 
-Before planning a survey we recommend consulting the [Bathymetry coverage](http://www.ausseabed.gov.au/surveys-data/bathymetry) layer hosted on the AusSeabed website to avoid the collection of duplicate data. The identify tool in this portal provides metadata information for each coverage polygon submitted to AusSeabed. This ensures that users are able to attain data custodian and contact details for surveys already conducted that might meet some or all of their needs. The layer contains the spatial extents and metadata of all surveys submitted to Geoscience Australia (GA) by AusSeabed collaborators and external third-parties. It is being continually developed to display national data coverage, with input from an increasing number of organisations.
-
-The GA [MARS database](http://dbforms.ga.gov.au/pls/www/npm.mars.search) contains information on seabed sediment samples collected in Australian waters, analysed, and provided to GA. Links to other data samples collected by different entities is acknowledged as an item for future development..
-
-
-
-        2.  National Bathymetry priorities
-
-The AusSeabed website also hosts an interactive map of [national bathymetry priorities](http://ausseabed.gov.au/surveys-data/priorities) that describes areas that are considered important to government in terms of safety of life at sea, conservation, and environmental monitoring. It is recommended that this tool be consulted in the early stages of survey planning to see if the voyage will be covering any areas of government interest. 
-
-
-
-        3. AusSeabed Coordination Tool
-
-It is also highly recommended that the upcoming survey layer is consulted on the AusSeabed portal in the early stages of survey planning to look for collaboration opportunities should there be other organisations planning to carry out work in areas of close proximity. Upcoming survey plans can be registered using the [AusSeabed Coordination Tool](https://planning.ausseabed.gov.au/login) to enable further collaboration and future tracking of new data. The tool allows users to display the planned extent and details of an upcoming survey and collects a set of metadata that are considered a minimum for any seabed mapping activity (
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.3.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 2.3.1.3](#heading=h.147n2zr)) that can be utilised for the survey report and data submission following the survey. If desired, a more detailed planning document can also be attached. To request a user log in for access to the survey coordination tool email [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au?subject=Request%20for%20profile%20to%20use%20AusSeabed%20Coordination%20Tool).
-
-
-
-    5. 
-
-
-## 2.2 Research and survey permits
-
-Various permissions are required to undertake research in Commonwealth, State and Territory waters. Due to the complexity of laws and intersecting jurisdiction’s, information on this page should be treated as a guide only and information from the relevant governing bodies should be consulted to ascertain that the correct permissions have been acquired prior to any research undertaking. 
-
-Operators should contact and inform relevant national and local authorities well in advance of any intended survey work ashore and afloat. These include the local harbour authority that should be consulted at all stages of the planning and execution of any harbour surveys, marine reserves, etc. Be mindful that approvals and permits (e.g. Environment Protection and Biodiversity Conservation, Environmental Plan, local marine parks permits, etc.) may be needed before undertaking a survey. Legislation for approvals is slightly different in each state. More information regarding legislation and permitting can be found on the [AusSeabed](https://ausseabed.gov.au/resources/permit) website. [Appendix C](#bookmark=id.2uxtw84) provides a list of Authorities that may need to be consulted and some links to general research permits for state waters.
-
-
-
-    6. 
-Seabed mapping data collection considerations 
-The **objectives** of MBES surveys conducted by mapping programs are to collect seafloor data to identify, delineate and map biogenic, anthropogenic and geological features. This objective requires particular data to be collected that can a) chart the water depths creating a high resolution bathymetric map at an appropriate resolution in regards to the target habitat or feature and b) be able to differentiate boundaries between different substrate and/or habitat types.
-
-This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](#bookmark=id.3u2rp3q) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
-
-
-
-        4. 
-Data type, formats, and metadata
-In 2019, AusSeabed held a workshop on data formats and metadata attributes to establish an agreed set of preferences for the delivery and acquisition of seabed data. The outcomes of that workshop underpin the information presented in the following sections, as a set of best practice policies to maximise the utility of collected open data. 
-
-
-
-            1. 
-Data type
-The types of data derived from a MBES survey are: 
-
-
-
-*   bathymetry: essential
-*   seabed backscatter: essential
-*   water column backscatter: encouraged
-
-The minimum essential requirements of any seafloor mapping survey are the bathymetric data and seabed backscatter data (the collection of which may require manual activation). Water column backscatter data acquisition is encouraged if the system can collect it. In addition to scientific applications, water column data is a common method used to confirm least depth over features and to identify bathymetric artefacts. It is both used in terms of 3D visualisation of the seabed and in observing oceanographic turbulence, such as internal waves, which may result in bathymetric artefacts (Hughes-Clarke, 2017b). 
-
-
-
-            2. 
-Data levels and file formats
-Consistent definitions of data levels allow the community to reduce ambiguity when discussing, delivering, processing or describing data. The AusSeabed definitions of data levels has been modelled on those prescribed by NASA for Earth Observations data products. The following definitions were discussed, refined and agreed to at the 2019 AusSeabed metadata and standards workshop (Table 6). 
-
-_Table 4 AusSeabed Data Level Definitions_
-
-
-<table>
-  <tr>
-   <td rowspan="2" ><strong>Level</strong>
-   </td>
-   <td rowspan="2" ><strong>Definition</strong>
-   </td>
-   <td colspan="4" ><strong>Examples</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>MBES
-   </td>
-   <td>Delayed Heave/ Ellipsoid/Nav
-   </td>
-   <td>SVP
-   </td>
-   <td>Tide
-   </td>
-  </tr>
-  <tr>
-   <td>L0
-   </td>
-   <td>Unprocessed instrument data 
-<p>
-Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as any and all artefacts.
-   </td>
-   <td>Observed by sensor \
-*.all
-   </td>
-   <td>Observed by sensor \
-*.000
-   </td>
-   <td>Observed \
-*.raw
-   </td>
-   <td>Observed, proprietary formats
-   </td>
-  </tr>
-  <tr>
-   <td>L1
-   </td>
-   <td>Data merged with ancillary information
-<p>
-Reconstructed L0 MBES data undergoes correction with ancillary information either from within the L0 data itself or the separately calculated ancillary files collected by the ancillary system (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. 
-   </td>
-   <td>Processed depth \
-Integration of L1 ancillary information (uncleaned and unfiltered)
-   </td>
-   <td colspan="3" >N/A: Data proceeds straight to L2
-   </td>
-  </tr>
-  <tr>
-   <td>L2
-   </td>
-   <td>Derived geophysical/georeferenced variables
-<p>
-L1 data undergoes cleaning and filtering to create the first ‘usable’ multibeam data.
-   </td>
-   <td>Bathymetry product \
-Cleaned & filtered
-   </td>
-   <td>Processed to SBET
-   </td>
-   <td>Processed to *.txt
-   </td>
-   <td>Processed to *.txt
-   </td>
-  </tr>
-  <tr>
-   <td>L3
-   </td>
-   <td>Variables mapped on a grid
-<p>
-L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce charts/gridded products etc. L3 products cannot be backwards engineered into L2.
-   </td>
-   <td>Additional value added, or data sampled (e.g. chart, slope map, geomorphology)
-   </td>
-   <td colspan="3" >N/A: L2 is the final ‘product’ for ancillary data types, and not all ancillary data have an L1 form. For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product.
-   </td>
-  </tr>
-</table>
-
-
-A set of data formats has been recommended for each of the data levels and types described above based on community consultation. Delivering processed data outputs in as many of the preferred formats as possible ensures that data can be utilised easily by the wider community, increasing the net benefit of the data. It should be noted that, when available, open source formats are always preferred over proprietary formats, for any sensor, at any data level. 
-
-_Table 5 Preferred data formats by data type and level._
-
-
-<table>
-  <tr>
-   <td rowspan="2" ><strong>Level</strong>
-   </td>
-   <td rowspan="2" ><strong>Notes</strong>
-   </td>
-   <td colspan="4" ><strong>Preferred Formats</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Bathymetry</strong>
-   </td>
-   <td><strong>Backscatter</strong>
-   </td>
-   <td><strong>Navigation</strong>
-   </td>
-   <td><strong>Ancillary Data</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>L0
-   </td>
-   <td>L0 data is native format, as recorded by the sensor. It should include all necessary datagrams required for a comprehensive bathymetry and backscatter processing, including raw backscatter per beam (BA) and raw backscatter in time series (TS), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.
-<p>
-*Navigation data currently has no open source format options. Also for nav/attitude data time zone should be in UTC and projection should be WGS84, ITRF, or GDA2020 with an ellipsoidal height datum.
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>.all (.mb56, .mb58), .s7k (.mb88), .kmall (.mb261), .xse (.mb94)
-
-<p>
-<strong>Priority 2</strong>
-<ul>
-
-<li>.gsf (might be only format possible for R2sonic
-
-<p>
-<strong>Priority 3</strong>
-<ul>
-
-<li>XTF
-
-<p>
- \
-
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>Same as for bathymetry and also other proprietary formats that solely collect backscatter/sidescan. 
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1*</strong>
-<ul>
-
-<li>Any proprietary formats that contain navigation and attitude (for example .000).
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>ASCII (txt, csv) of raw observations including georeferencing and time.
-<p>
-
-    <strong>Priority 2</strong>
-<ul>
-
-<li>Proprietary formats
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>L1
-   </td>
-   <td>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud. \
-
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>.gsf, .las/.laz
-<p>
-
-    <strong>Priority  2</strong>
-<ul>
-
-<li>Any proprietary data formats
-<p>
-
-    <strong>Priority 3</strong>
-<ul>
-
-<li>ASCII point cloud \
-
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>.gsf
-
-<p>
-<strong>Priority 2</strong>
-<ul>
-
-<li>Proprietary formats
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-   <td><strong>N/A</strong>
-   </td>
-   <td><strong>N/A</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>L2
-   </td>
-   <td>If you are going to provide L2 data you should also include all raw data (including auxiliary data) in L0 format that allow for processing at any stages if required. L2 should contain data that is of L3 reproducible product.
-   </td>
-   <td>Identical to L1 as L2 is mostly done within L1 producing software
-   </td>
-   <td>Identical to L1 as L2 is mostly done within L1 producing software
-   </td>
-   <td>SBET data + RMS (for generation of TPU)
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>Text files: (ASCII .txt, NetCDF, .csv)
-
-<p>
-<strong>Priority 2</strong>
-<ul>
-
-<li>Proprietary
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>L3
-   </td>
-   <td>L3 should include sounding density and uncertainty. Header information, sign convention, and horizontal and vertical datum are required to accompany any ASCII formats. \
- \
-Separate .asc files for respective sounding density and uncertainty need to accompany the main depth .asc file. This also applies to any data types that are restricted to a single layer/band. 
-<p>
-Specifications needed for ASCII xyz include metadata for xyz, header information in metadata, positive/negative depth field, and vertical datum.
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>BAG (v1.6.4)
-
-<li> 32-bit floating point GeoTIFF (.tiff)
-<p>
-
-<strong>Priority 2</strong>
-<ul>
-
-<li>ASCII XYZ
-
-<li> .las/.laz \
-
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>32-bit floating point GeoTIFF (.tiff)
-</li>
-</ul>
-   </td>
-   <td><strong>Priority 1</strong>
-<ul>
-
-<li>ASCII XYZ and sensor trackline shape file (GeoJSON)
-</li>
-</ul>
-   </td>
-   <td><strong>N/A</strong>
-   </td>
-  </tr>
-</table>
-
-
- 
-
-
-
-            3. 
-Metadata
-Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](#bookmark=id.3dhjn8m). 
-
-_Table 6 Overview of required metadata._
-
-
-<table>
-  <tr>
-   <td><strong>Metadata Category</strong>
-   </td>
-   <td><strong>General</strong>
-   </td>
-   <td><strong>Citation</strong>
-   </td>
-   <td><strong>Survey </strong>
-   </td>
-   <td><strong>Technical</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Metadata Fields
-   </td>
-   <td>
-<ul>
-
-<li>Survey Title
-
-<li>Survey ID
-
-<li>Abstract
-
-<li>Lineage
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Data Owner 
-
-<li>Custodian
-
-<li>Country (data ownership)
-
-<li>Collecting Entity
-
-<li>Attribution Licence
-
-<li>Legal Constraints
-
-<li>Access Constraints
-
-<li>Use Constraints
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Survey Area (general)
-
-<li>Bounding Box
-
-<li>Coordinate reference system-bounding Box
-
-<li>Coordinate reference system–Survey Data
-
-<li>Geodetic Datum of the survey
-
-<li>Horizontal datum
-
-<li>Vertical datum
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Instrument type
-
-<li>Sensor type
-
-<li>Sensor Frequency
-
-<li>Platform type
-
-<li>Platform name
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 6.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
-
-
-
-        5. 
-Survey area characterization
-Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
-
-
-
-*   survey duration and size of the area
-*   depth range as this will affect line planning (
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.5.5"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 2.5.5](#heading=h.111kx3o)) and acquisition parameter settings (
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3](#heading=h.2afmg28))
-*   wind and wave conditions and seasonal weather changes
-*   tidal regime and tidal infrastructure
-*   feature detection and sounding density requirements; reflected in required pulse repetition (ping rates), swath width and survey speed
-*   the nature of the seabed, which is important for seabed backscatter data acquisition (
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3.2](#heading=h.39kk8xu)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered (
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.6"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 2.6](#heading=h.206ipza)).
-*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter (
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.3.2](#heading=h.39kk8xu))
-*   the time of year and relevance to whale migrations for low frequency instruments
-*   potential interactions with surface fishing gear
-
-
-
-        6. 
-Data representation (seafloor coverage and resolution)
-Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](#bookmark=id.32hioqz) It is important to consider that the** **data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. For more details on the two systems, refer to [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison).
-
-Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections 
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "3.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[3.3](#heading=h.2r0uhxc) and 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "3.4"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[3.4](#heading=h.1664s55)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 5.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 5.2](#heading=h.36ei31r)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
-
-If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
-
-
-
-_Table 7 MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td colspan="6" ><strong>Beam Width (deg)	</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>0.5</strong>
-   </td>
-   <td><strong>0.7</strong>
-   </td>
-   <td><strong>1</strong>
-   </td>
-   <td><strong>2</strong>
-   </td>
-   <td><strong>3</strong>
-   </td>
-   <td><strong>4</strong>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="10" >D
-<p>
-E
-<p>
-P
-<p>
-T
-<p>
-H
-<p>
-(m)
-   </td>
-   <td><strong>10</strong>
-   </td>
-   <td>0.09
-   </td>
-   <td>0.12
-   </td>
-   <td>0.17
-   </td>
-   <td>0.35
-   </td>
-   <td>0.52
-   </td>
-   <td>0.70
-   </td>
-  </tr>
-  <tr>
-   <td><strong>25</strong>
-   </td>
-   <td>0.22
-   </td>
-   <td>0.31
-   </td>
-   <td>0.44
-   </td>
-   <td>0.87
-   </td>
-   <td>1.31
-   </td>
-   <td>1.74
-   </td>
-  </tr>
-  <tr>
-   <td><strong>50</strong>
-   </td>
-   <td>0.44
-   </td>
-   <td>0.61
-   </td>
-   <td>0.87
-   </td>
-   <td>1.74
-   </td>
-   <td>2.62
-   </td>
-   <td>3.49
-   </td>
-  </tr>
-  <tr>
-   <td><strong>75</strong>
-   </td>
-   <td>0.65
-   </td>
-   <td>0.92
-   </td>
-   <td>1.31
-   </td>
-   <td>2.62
-   </td>
-   <td>3.92
-   </td>
-   <td>5.23
-   </td>
-  </tr>
-  <tr>
-   <td><strong>100</strong>
-   </td>
-   <td>0.87
-   </td>
-   <td>1.22
-   </td>
-   <td>1.75
-   </td>
-   <td>3.49
-   </td>
-   <td>5.23
-   </td>
-   <td>6.97
-   </td>
-  </tr>
-  <tr>
-   <td><strong>250</strong>
-   </td>
-   <td>2.18
-   </td>
-   <td>3.05
-   </td>
-   <td>4.36
-   </td>
-   <td>8.72
-   </td>
-   <td>13.08
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>500</strong>
-   </td>
-   <td>4.36
-   </td>
-   <td>6.11
-   </td>
-   <td>8.73
-   </td>
-   <td>17.45
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>1000</strong>
-   </td>
-   <td>8.73
-   </td>
-   <td>12.22
-   </td>
-   <td>17.45
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>1500</strong>
-   </td>
-   <td>13.09
-   </td>
-   <td>18.33
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>2500</strong>
-   </td>
-   <td>21.8
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
 
 It is important to highlight that identification of features of specific sizes rely on a combination of parameters. It is generally accepted that when using side scan sonar as the feature detection tool, that a minimum of five boresight hits are made on the feature target. When using MBES as the feature detection tool, the common requirement is to achieve a minimum 3 along track hits and 3 across track hits on the feature target. The above requirements are to be considered conservative and in line with accepted sampling theory. Refer to section 7.5 from AHO (2018) for further information.
 
@@ -1630,7 +751,6 @@ The general formula to calculate the depth at which five pulses should ensonify 
 
 
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 
 Where:
@@ -1646,9 +766,7 @@ t = along track dimension of target to be detected (metres)
 prr = pulse repetition rate (pulses per second (Hz))
 
 
-
-        7. 
-Quality assessment / uncertainty scheme
+## Quality assessment / uncertainty scheme
 The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](#bookmark=id.3ls5o66) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
 
 However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](#bookmark=id.17dp8vu)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  

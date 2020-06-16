@@ -953,7 +953,7 @@ _Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
 
 
 
-## Appendix G – IHO Standards
+## Appendix G – IHO Standards <br>
 
 _Table G12 IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
 
