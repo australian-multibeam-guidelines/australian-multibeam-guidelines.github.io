@@ -1,9 +1,9 @@
 ---
 permalink: /pre-survey-planning
 title: "Pre-survey Planning"
-excerpt: ""
+excerpt: "<br>"
 image:
-  feature: /banners/02_banner.jpg
+  feature: /banners/multibeam-banner.jpg
 layout: home
 
 ---

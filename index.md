@@ -4,7 +4,7 @@ permalink: /
 title: "Australian Multibeam Guidelines"
 excerpt: "AusSeabed"
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/multibeam-banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
