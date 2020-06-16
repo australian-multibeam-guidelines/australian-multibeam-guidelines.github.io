@@ -191,7 +191,92 @@ _Table 5 Preferred data formats by data type and level._
 Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](#bookmark=id.3dhjn8m). 
 
 _Table 6 Overview of required metadata._
+<table>
+  <tr>
+   <td><strong>Metadata Category</strong>
+   </td>
+   <td><strong>General</strong>
+   </td>
+   <td><strong>Citation</strong>
+   </td>
+   <td><strong>Survey </strong>
+   </td>
+   <td><strong>Technical</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Metadata Fields
+   </td>
+   <td>
+<ul>
 
+<li>Survey Title
+
+<li>Survey ID
+
+<li>Abstract
+
+<li>Lineage
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Data Owner 
+
+<li>Custodian
+
+<li>Country (data ownership)
+
+<li>Collecting Entity
+
+<li>Attribution Licence
+
+<li>Legal Constraints
+
+<li>Access Constraints
+
+<li>Use Constraints
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Survey Area (general)
+
+<li>Bounding Box
+
+<li>Coordinate reference system-bounding Box
+
+<li>Coordinate reference system–Survey Data
+
+<li>Geodetic Datum of the survey
+
+<li>Horizontal datum
+
+<li>Vertical datum
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Instrument type
+
+<li>Sensor type
+
+<li>Sensor Frequency
+
+<li>Platform type
+
+<li>Platform name
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
 
 This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
 
