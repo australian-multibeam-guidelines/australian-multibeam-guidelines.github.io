@@ -13,8 +13,6 @@ The acquisition of data is the most expensive element of a seabed mapping projec
 
 _Table 3 Summary list of pre-survey planning tools proposed in the section_
 
-
-
 # National coverage consultation and upcoming survey register
 AusSeabed is currently developing a suite of pre-survey to view the current extent of national bathymetry data holdings, consult a map of national seabed mapping priority areas, and utilise a survey coordination tool to register and query upcoming surveys. These tools are aimed at providing seabed mappers with information to promote collaboration in areas of common interest and eliminate repeat collection. This initiative is likely to benefit all parties by reducing overall costs and facilitating more efficient collection efforts in Australian waters.
 
@@ -28,34 +26,26 @@ The GA [MARS database](http://dbforms.ga.gov.au/pls/www/npm.mars.search) contain
 
 
 ## National Bathymetry priorities
-
 The AusSeabed website also hosts an interactive map of [national bathymetry priorities](http://ausseabed.gov.au/surveys-data/priorities) that describes areas that are considered important to government in terms of safety of life at sea, conservation, and environmental monitoring. It is recommended that this tool be consulted in the early stages of survey planning to see if the voyage will be covering any areas of government interest. 
 
 
 
 ## AusSeabed Coordination Tool
-
 It is also highly recommended that the upcoming survey layer is consulted on the AusSeabed portal in the early stages of survey planning to look for collaboration opportunities should there be other organisations planning to carry out work in areas of close proximity. Upcoming survey plans can be registered using the [AusSeabed Coordination Tool](https://planning.ausseabed.gov.au/login) to enable further collaboration and future tracking of new data. The tool allows users to display the planned extent and details of an upcoming survey and collects a set of metadata that are considered a minimum for any seabed mapping activity (
 
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.3.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [section 2.3.1.3](#heading=h.147n2zr)) that can be utilised for the survey report and data submission following the survey. If desired, a more detailed planning document can also be attached. To request a user log in for access to the survey coordination tool email [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au?subject=Request%20for%20profile%20to%20use%20AusSeabed%20Coordination%20Tool).
 
-
 # Research and survey permits
-
 Various permissions are required to undertake research in Commonwealth, State and Territory waters. Due to the complexity of laws and intersecting jurisdiction’s, information on this page should be treated as a guide only and information from the relevant governing bodies should be consulted to ascertain that the correct permissions have been acquired prior to any research undertaking. 
 
 Operators should contact and inform relevant national and local authorities well in advance of any intended survey work ashore and afloat. These include the local harbour authority that should be consulted at all stages of the planning and execution of any harbour surveys, marine reserves, etc. Be mindful that approvals and permits (e.g. Environment Protection and Biodiversity Conservation, Environmental Plan, local marine parks permits, etc.) may be needed before undertaking a survey. Legislation for approvals is slightly different in each state. More information regarding legislation and permitting can be found on the [AusSeabed](https://ausseabed.gov.au/resources/permit) website. [Appendix C](#bookmark=id.2uxtw84) provides a list of Authorities that may need to be consulted and some links to general research permits for state waters.
-
-
 
 # Seabed mapping data collection considerations 
 The **objectives** of MBES surveys conducted by mapping programs are to collect seafloor data to identify, delineate and map biogenic, anthropogenic and geological features. This objective requires particular data to be collected that can a) chart the water depths creating a high resolution bathymetric map at an appropriate resolution in regards to the target habitat or feature and b) be able to differentiate boundaries between different substrate and/or habitat types.
 
 This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](#bookmark=id.3u2rp3q) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
-
-
 
 ## Data type, formats, and metadata
 In 2019, AusSeabed held a workshop on data formats and metadata attributes to establish an agreed set of preferences for the delivery and acquisition of seabed data. The outcomes of that workshop underpin the information presented in the following sections, as a set of best practice policies to maximise the utility of collected open data. 
@@ -74,15 +64,9 @@ Consistent definitions of data levels allow the community to reduce ambiguity wh
 _Table 4 AusSeabed Data Level Definitions_
 
 
-
-
-
 A set of data formats has been recommended for each of the data levels and types described above based on community consultation. Delivering processed data outputs in as many of the preferred formats as possible ensures that data can be utilised easily by the wider community, increasing the net benefit of the data. It should be noted that, when available, open source formats are always preferred over proprietary formats, for any sensor, at any data level. 
 
 _Table 5 Preferred data formats by data type and level._
-
-
-
 
 
 ### Metadata
@@ -91,13 +75,7 @@ Metadata consistency is an essential aspect of data management and a key step in
 _Table 6 Overview of required metadata._
 
 
-
-
-This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 6.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
+This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
 
 ## Survey area characterization
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
@@ -119,9 +97,6 @@ Horizontal and vertical accuracy are two key factors of resolution that should a
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
 _Table 7 MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
-
-
-
 
 It is important to highlight that identification of features of specific sizes rely on a combination of parameters. It is generally accepted that when using side scan sonar as the feature detection tool, that a minimum of five boresight hits are made on the feature target. When using MBES as the feature detection tool, the common requirement is to achieve a minimum 3 along track hits and 3 across track hits on the feature target. The above requirements are to be considered conservative and in line with accepted sampling theory. Refer to section 7.5 from AHO (2018) for further information.
 
@@ -170,11 +145,7 @@ Regardless of which method is used to deploy the swath system, it is important t
 This [website](http://www.bathyswath.com/installTransducers) provides additional information on various possible mounts and considerations. Note that the working group is not endorsing the company that this information is taken from.
 
 ## Dimension control of sensor offsets
-Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 3.2](#heading=h.2dlolyb)).
+Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](#heading=h.2dlolyb)).
 
 # Project team
 The project team should include personnel with relevant and adequate experience in swath acoustic instrumentation and survey requirements. These may consist of qualified people from various backgrounds, such as geophysicists, geologists, engineers, and hydrographic surveyors, but also increasingly includes marine ecologists and spatial analysts that manage seafloor mapping programs. 
@@ -188,13 +159,7 @@ Seabed mapping surveys conducted within the Australian EEZ shall be referenced t
 
 Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](#bookmark=id.3tbugp1); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
 
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image2.png "image_tooltip")
-
 
 _Figure 2 Extent of GDA2020 on the Australian continental shelf (Geoscience Australia)_
 
@@ -203,15 +168,7 @@ Proposed Horizontal control should be reviewed for accuracy and if local control
 Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Grid.
 
 ### Tidal or ellipsoidal datum
-The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "2.5.2.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[2.5.2.1](#heading=h.37m2jsg) and 
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "2.5.2.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[2.5.2.2](#heading=h.1mrcu09)). While mapping however, the sounding datum should be used. 
+The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections [2.5.2.1](#heading=h.37m2jsg) and [2.5.2.2](#heading=h.1mrcu09)). While mapping however, the sounding datum should be used. 
 
 
 
@@ -225,16 +182,12 @@ _Figure 3 Schematic of datum and associated reduction information (Mills & Dodd,
 
 Regardless of the datum used for the final products, the following points need to be considered:
 
-
-
 *   direct tide from the GNSS (GPS tide) should be recorded
 *   all data should be acquired and processed in WGS84 or ITRF if available
 *   all raw GNSS observations should be kept to allow post-processing 
 *   all efforts should be made to improve positions to the highest accuracy possible, and post-processing will usually also improve horizontal positioning and minimise heave artefacts.
 
 Typically, post-processing would involve:
-
-
 
 *   offshore: Precise Point Positioning (PPP) corrections using the final International GNSS Service (IGS) products
 *   coastal regions: kinematic post processing against land based fixed GNSS base stations, either permanent or deployed.
@@ -284,19 +237,19 @@ Survey line planning will vary based on the seafloor mapping objectives. However
 6. <span style="text-decoration:underline;">Regular checks</span>: where there is an object of interest on the seabed detected in the survey, additional lines should be run to better delineate the feature and overall area.
 7. <span style="text-decoration:underline;">Crosslines</span>: crosslines are essential quality indicators, especially for data uncertainty management, and hence it is **highly recommended** to plan multiple crosslines. 
 
-    As a minimum, one cross line per “block” of data mapped should be acquired. Crossline(s) should normally be run last so that the cross line can be run perpendicularly across the whole extent of the data block collected. 
+   As a minimum, one cross line per “block” of data mapped should be acquired. Crossline(s) should normally be run last so that the cross line can be run perpendicularly across the whole extent of the data block collected. 
 
 8. <span style="text-decoration:underline;">Turn data</span>: consists of data that is recorded during a vessel turning from one survey line to the next. While data quality may not be at its best during turns due to poor MRU stabilisation, this data nevertheless provides new information that can be useful for some users. 
 
-    It is thus strongly recommended to record turns as a separate file (i.e. stop recording before the turn, record the turn, and start recording new line.).
+   It is thus strongly recommended to record turns as a separate file (i.e. stop recording before the turn, record the turn, and start recording new line.).
 
 9. <span style="text-decoration:underline;">Transit data</span>: consists of data generally acquired between port and the primary survey area and is used as “discovery” data. Data from transit or passage sounding, contributes significantly to the national good by increasing knowledge of our seabed, and oceanography. 
 
-    Transit data should be:
+Transit data should be:
 
-    1. logged whenever possible unless the sea conditions are deemed too bad
-    2. collected over new ground, i.e. not where previously mapped
-    3. recorded and identified as a separate file to the primary survey lines
+   1. logged whenever possible unless the sea conditions are deemed too bad
+   2. collected over new ground, i.e. not where previously mapped
+   3. recorded and identified as a separate file to the primary survey lines
 10. <span style="text-decoration:underline;">File length</span>: depending on the system used, the rate of data acquisition and data type being collected, the size of the digital file recorded will vary. To avoid data loss and facilitate data management, it is recommended that file size be managed and data collected as smaller files in preference to large continuous files.
 
 Where **seabed backscatter data is the primary objective** of the survey, the same recommendations as above apply with the following exceptions:
@@ -306,12 +259,7 @@ Where **seabed backscatter data is the primary objective** of the survey, the sa
 11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees [(Figure 4](#bookmark=id.261ztfg); Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
 
 
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image4.png "image_tooltip")
-
 
 _Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
@@ -319,11 +267,7 @@ _Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
 12. <span style="text-decoration:underline;">Repeated seabed backscatter survey</span>: For survey using the same swath system, it is recommended that the survey strategies, such as survey direction and orientations, and the system settings are kept identical. Frequency should also not be changed.
 
-See 
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 4.2](#heading=h.3vac5uf) which provides information regarding the project structure and nomenclature
+See [section 4.2](#heading=h.3vac5uf) which provides information regarding the project structure and nomenclature
 
 ## Seabed samples
 Seabed samples are often acquired during a seafloor mapping survey for various purposes, including seabed characterisation and seafloor backscatter data calibration. It is thus recommended that procedures outlined in the relevant chapters of the ‘Field manuals for marine sampling to monitor Australian waters’ (Przeslawski and Foster 2018) are followed. 
@@ -331,18 +275,6 @@ Seabed samples are often acquired during a seafloor mapping survey for various p
 This manual recommends sending the samples to Geoscience Australia for analyses, such as grain-size, carbonate content, and results will be delivered in [MARS](http://dbforms.ga.gov.au/pls/www/npm.mars.search) public database. This analysis of samples contributes significantly to the knowledge of our seabed.
 
 # Submission of plan, data and notifications
-See sections 
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "2.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[2.1.3](#heading=h.2xcytpi), 
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "7"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[7](#heading=h.3x8tuzt) and 
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "4.6"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[4.6](#heading=h.1gf8i83).
+See sections [2.1.3](#heading=h.2xcytpi), [7](#heading=h.3x8tuzt) and [4.6](#heading=h.1gf8i83).
 
 
