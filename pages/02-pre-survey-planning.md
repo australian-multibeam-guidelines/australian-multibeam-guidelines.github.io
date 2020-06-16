@@ -13,66 +13,6 @@ The acquisition of data is the most expensive element of a seabed mapping projec
 
 _Table 3 Summary list of pre-survey planning tools proposed in the section_
 
-<table>
-  <tr>
-   <td>Tool or Resource
-   </td>
-   <td>Description
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://bit.ly/3haiN8v">Upcoming Survey Register</a></strong>
-   </td>
-   <td>Register the survey to encourage collaboration and contribute to national coverage
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="http://www.ausseabed.gov.au/">National Coverage</a></strong>
-   </td>
-   <td>Coverage of MBES dataset by various agencies.
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="http://www.iogp.org/geomatics/#ssdm">Seabed Survey Data Model</a></strong>
-   </td>
-   <td>The SSDM is a GIS model that has been developed since 2010 by the International Association of Oil & Gas Producers (IOGP) to facilitate management, integration and sharing of survey data at all levels, i.e. international, national, local, etc. (<a href="http://www.iogp.org/bookstore/product/guidelines-for-the-use-of-the-seabed-survey-data-model/">IOGP, 2017</a>).
-   </td>
-  </tr>
-  <tr>
-   <td><strong>A priori tools</strong>
-<p>
-<strong>1) <a href="https://www.rijkswaterstaat.nl/formulieren/aanvraagformulier-software-hydrografische-normen.aspx">Amust</a> </strong>
-<p>
-<strong>2) <a href="https://hydrochart.dk/hydrobib/">Hydrobib</a></strong>
-   </td>
-   <td>These tools help to determine expected uncertainties for a system. 
-<p>
-Amust link points to a registration page on the Rijkswaterstaat (Dutch Hydrographic Service) website. See also <a href="#bookmark=id.odc9jc">Appendix E</a> for a list of possible errors to take into account.  
-<p>
-Hydrobib provides integrated utilities for survey planning. It is more specific to R2Sonic echosounder, but can be adopted for other echosounders.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Datum tools</strong>
-<p>
-<strong><a href="https://vdatum.noaa.gov/">1) VDatum</a></strong>
-<p>
-<strong>2) <a href="http://www.icsm.gov.au/what-we-do/permanent-committee-tides-and-mean-sea-level">AusCoastVDT</a></strong>
-   </td>
-   <td>1) Designed to vertically transform geospatial data among a variety of tidal, orthometric and ellipsoidal vertical datums.
-<p>
-2) A vertical datum transformation tool for the Australian coast.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Line planning tool</strong>
-   </td>
-   <td>Most survey acquisition software packages (QPS, EIVA, HYPACK) have line planning capability built into them. See also <strong><a href="https://hydrochart.dk/hydrobib/">Hydrobib</a> </strong>above
-   </td>
-  </tr>
-</table>
-
-
 
 
 # National coverage consultation and upcoming survey register
