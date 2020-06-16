@@ -86,7 +86,7 @@ Vessel draft may be difficult to measure. However, it is possible to approximate
 # _Sound velocity_
 To ensure proper calibrated sound velocity reading, at least one probe (SVS or SVP) needs to be independently calibrated. Use a comparative method to validate other sensors (SVS at head and SVP). Assess speed of sound at the swath sonar head against SVP at same depth below surface. Where possible, compare SVP readings with external sensors (e.g. derived sound velocity from CTD).
 
-# _Tidal station _
+# _Tidal station_
 For shallow inshore work (&lt;30m), water level tidal observations, including local environmental effects, should be conducted for a minimum period of 35 days. If this is not possible, predictions based on tidal constituents may be used and in this instance tidal stations should be installed and calibrated as directed by ICSM (2004).
 
 # Patch test
