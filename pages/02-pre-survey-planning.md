@@ -141,7 +141,55 @@ _Table 4 AusSeabed Data Level Definitions_
 A set of data formats has been recommended for each of the data levels and types described above based on community consultation. Delivering processed data outputs in as many of the preferred formats as possible ensures that data can be utilised easily by the wider community, increasing the net benefit of the data. It should be noted that, when available, open source formats are always preferred over proprietary formats, for any sensor, at any data level. 
 
 _Table 5 Preferred data formats by data type and level._
-
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">Level</th>
+    <th rowspan="2">Notes</th>
+    <th colspan="4">Preferred Formats</th>
+  </tr>
+  <tr>
+    <td>Bathymetry</td>
+    <td>Backscatter</td>
+    <td>Navigation</td>
+    <td>Ancillary Data</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>L0</td>
+    <td>L0 data is native format, as recorded by the sensor. It should include all necessary datagrams required for a comprehensive bathymetry and backscatter processing, including raw backscatter per beam (BA) and raw backscatter in time series (TS), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.<br>*Navigation data currently has no open source format options. Also for nav/attitude data time zone should be in UTC and projection should be WGS84, ITRF, or GDA2020 with an ellipsoidal height datum.</td>
+    <td>Priority 1<br>.all (.mb56, .mb58), .s7k (.mb88), .kmall (.mb261), .xse (.mb94)<br>Priority 2<br>.gsf (might be only format possible for R2sonic<br>Priority 3<br>XTF<br><br></td>
+    <td>Priority 1<br>Same as for bathymetry and also other proprietary formats that solely collect backscatter/sidescan. </td>
+    <td>Priority 1*<br>Any proprietary formats that contain navigation and attitude (for example .000).</td>
+    <td>Priority 1<br>ASCII (txt, csv) of raw observations including georeferencing and time.<br>Priority 2<br>Proprietary formats</td>
+  </tr>
+  <tr>
+    <td>L1</td>
+    <td>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud.<br></td>
+    <td>Priority 1<br>.gsf, .las/.laz<br>Priority  2<br>Any proprietary data formats<br>Priority 3<br>ASCII point cloud<br></td>
+    <td>Priority 1<br>.gsf<br>Priority 2<br>Proprietary formats</td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>L2</td>
+    <td>If you are going to provide L2 data you should also include all raw data (including auxiliary data) in L0 format that allow for processing at any stages if required. L2 should contain data that is of L3 reproducible product.</td>
+    <td>Identical to L1 as L2 is mostly done within L1 producing software</td>
+    <td>Identical to L1 as L2 is mostly done within L1 producing software</td>
+    <td>SBET data + RMS (for generation of TPU)</td>
+    <td>Priority 1<br>Text files: (ASCII .txt, NetCDF, .csv)<br>Priority 2<br>Proprietary</td>
+  </tr>
+  <tr>
+    <td>L3</td>
+    <td>L3 should include sounding density and uncertainty. Header information, sign convention, and horizontal and vertical datum are required to accompany any ASCII formats.Separate .asc files for respective sounding density and uncertainty need to accompany the main depth .asc file. This also applies to any data types that are restricted to a single layer/band. <br>Specifications needed for ASCII xyz include metadata for xyz, header information in metadata, positive/negative depth field, and vertical datum.</td>
+    <td>Priority 1<br>BAG (v1.6.4)<br> 32-bit floating point GeoTIFF (.tiff)<br>Priority 2<br>ASCII XYZ<br> .las/.laz<br></td>
+    <td>Priority 1<br>32-bit floating point GeoTIFF (.tiff)</td>
+    <td>Priority 1<br>ASCII XYZ and sensor trackline shape file (GeoJSON)</td>
+    <td>N/A</td>
+  </tr>
+</tbody>
+</table>
 
 ### Metadata
 Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](#bookmark=id.3dhjn8m). 
