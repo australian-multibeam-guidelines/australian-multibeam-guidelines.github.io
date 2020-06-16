@@ -3,36 +3,36 @@
   url: https://australian-multibeam-guidelines.github.io/files/FieldManuals_NESPMarineHub_Chapter3_MBES.pdf
   excerpt: "Download chapter as a PDF"
   image: /5x8/download_5x8.jpg
-- title: "Platform description"
-  url: https://australian-multibeam-guidelines.github.io/platform-description
+- title: "Introduction"
+  url: https://australian-multibeam-guidelines.github.io/introduction
   excerpt: ""
   image: /5x8/01_5x8.jpg
-- title: "Scope"
-  url: https://australian-multibeam-guidelines.github.io/scope
-  excerpt: "Scope for the multibeam echosounder field manual"
-  image: /5x8/02_5x8.jpg
-- title: "Multibeam Acoustics for Marine Monitoring"
-  url: https://australian-multibeam-guidelines.github.io/multibeam-acoustics-for-marine-monitoring
+- title: "Pre-survey Planning"
+  url: https://australian-multibeam-guidelines.github.io/pre-survey-planning
   excerpt: ""
   image: /5x8/03_5x8.jpg
-- title: "Pre-Survey Preparations"
-  url: https://australian-multibeam-guidelines.github.io/pre-survey-preparations
+- title: "Mobilisation, Calibration and Validation"
+  url: https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation
   excerpt: ""
   image: /5x8/04_5x8.jpg
-- title: "Data Acquisition"
-  url: https://australian-multibeam-guidelines.github.io/data-acquisition
-  excerpt: "Installation offsets, Data logging, Sound velocity profiles, Geodetic parameters, Survey speed, Line spacing, Pulse length, Tides and GPS tides and Data type"
+- title: "Acquisition"
+  url: https://australian-multibeam-guidelines.github.io/acquisition
+  excerpt: ""
   image: /5x8/05_5x8.jpg
 - title: "Data Processing"
   url: https://australian-multibeam-guidelines.github.io/data-processing
-  excerpt: "Bathymetric and Backscatter data processing"
+  excerpt: ""
   image: /5x8/06_5x8.jpg
-- title: "Data Interpretation"
-  url: https://australian-multibeam-guidelines.github.io/data-interpretation 
+- title: "Reports"
+  url: https://australian-multibeam-guidelines.github.io/reports 
   excerpt: ""
   image: /5x8/07_5x8.jpg
 - title: "Data Release"
   url: https://australian-multibeam-guidelines.github.io/data-release
+  excerpt: ""
+  image: /5x8/08_5x8.jpg
+- title: "Multibeam acoustics for marine monitoring"
+  url: https://australian-multibeam-guidelines.github.io/marine-monitoring
   excerpt: ""
   image: /5x8/08_5x8.jpg
 - title: "Field Manual Maintenance"
@@ -42,5 +42,9 @@
 - title: "References"
   url: https://australian-multibeam-guidelines.github.io/references
   excerpt: "Literature cited"
+  image: /5x8/10_5x8.jpg
+  - title: "Appendices"
+  url: https://australian-multibeam-guidelines.github.io/appendices
+  excerpt: ""
   image: /5x8/10_5x8.jpg
 
