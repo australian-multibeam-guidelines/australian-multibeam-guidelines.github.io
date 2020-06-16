@@ -232,52 +232,6 @@ _Table 6 Overview of required metadata._
 </tbody>
 </table>
 
-
-
-
-<table>
-<thead>
-  <tr>
-    <th><strong>Metadata Category</strong></th>
-    <th><strong>General</strong></th>
-    <th><strong>Citation</strong></th>
-    <th><strong>Survey</strong> </th>
-    <th><strong>Technical</strong></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Metadata Fields</td>
-    <td><ul>
-    <li>Survey Title</li>
-    <li>Survey ID</li>
-    <li>Abstract</li>
-    <li>Lineage</li>
-   <td><ul>
-    <li>Data Owner</li>
-    <li>Custodian</li>
-    <li>Country (data ownership)</li>
-    <li>Collecting Entity</li>
-    <li>Attribution Licence</li>
-    <li>Legal Constraints</li>
-    <li>Access Constraints</li>
-    <li>Use Constraints</li>
-   <td><ul>
-    <li>Survey Area (general)</li>
-    <li>Bounding Box</li>
-    <li>Coordinate reference system-bounding Box</li>
-    <li>Coordinate reference system–Survey Data</li>
-    <li>Geodetic Datum of the survey</li>
-    <li>Horizontal datum</li>
-    <li>Vertical datum</li>
-   <td><ul>
-    <li>Instrument type</li>
-    <li>Sensor type</li>
-    <li>Sensor Frequency</li>
-    <li>Platform type</li>
-    <li>Platform name</li>
-<br>
-
 This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation) which outlines the Mobilisation, Calibration and Validation reports.
 
 # _Survey area characterization_
