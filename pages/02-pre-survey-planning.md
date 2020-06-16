@@ -9,11 +9,9 @@ layout: home
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-
 The acquisition of data is the most expensive element of a seabed mapping project. Therefore it is essential that this phase of a survey is optimised by undertaking adequate pre-survey planning. This section of the guidelines identifies key aspects of the planning phase that can be improved for more efficient and effective surveys. They also present tools and resources available that can help (Table 3). These resources are also hosted on the [AusSeabed](http://www.ausseabed.gov.au/) website, and we encourage using the website to discover the full breath of available resources and future updates. The IHO C-13 Manual on Hydrography also provides an appendix on planning considerations and how to best calculate survey timings.
 
 _Table 3 Summary list of pre-survey planning tools proposed in the section_
-
 
 <table>
   <tr>
