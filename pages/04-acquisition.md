@@ -93,15 +93,13 @@ A notification report should include a snapshot of the scan image, coordinates, 
 
 _Table 8 Contact details of management agencies to notify for wrecks_
 <table>
-<thead>
-  <tr>
-    <th>Commonwealth:<br>Historic Heritage SectionDepartment of the Environment and EnergyGPO Box 787CANBERRA ACT 2601Tel: (02) 6274 2116Website: <a href="http://www.environment.gov.au/heritage/historic-shipwrecks">www.environment.gov.au/heritage/historic-shipwrecks</a></th>
-    <th>Northern Territory:<br>Heritage BranchDepartment of Lands, Planning and the EnvironmentGPO Box 1680DARWIN NT 0801Tel: (08) 8999 5039Email: heritage@nt.gov.auWebsite: <a href="http://www.dlp.nt.gov.au/heritage/maritime-heritage">www.dlp.nt.gov.au/heritage/maritime-heritage</a></th>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
 <tbody>
+  <tr>
+    <td>Commonwealth:<br>Historic Heritage SectionDepartment of the Environment and EnergyGPO Box 787CANBERRA ACT 2601Tel: (02) 6274 2116Website: <a href="http://www.environment.gov.au/heritage/historic-shipwrecks">www.environment.gov.au/heritage/historic-shipwrecks</a></td>
+    <td>Northern Territory:<br>Heritage BranchDepartment of Lands, Planning and the EnvironmentGPO Box 1680DARWIN NT 0801Tel: (08) 8999 5039Email: heritage@nt.gov.auWebsite: <a href="http://www.dlp.nt.gov.au/heritage/maritime-heritage">www.dlp.nt.gov.au/heritage/maritime-heritage</a></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>Commonwealth:<br>Great Barrier Reef Marine Park AuthorityHeritage, International and GovernanceProject Manager, Maritime Cultural HeritageGPO Box 1379TOWNSVILLE QLD Tel: (07) 4750 0618 <br>Email: <a href="mailto:info@gbrmpa.gov.au">info@gbrmpa.gov.au</a>Website: <a href="http://www.gbrmpa.gov.au/">www.gbrmpa.gov.au/</a> </td>
     <td>South Australia:<br>State Heritage UnitDepartment for Environment, Water and Natural ResourcesGPO Box 1047ADELAIDE SA 5001Tel: 08) 8124 4960Email: DEWNRheritage@sa.gov.auWebsite: <a href="http://www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage%20">www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage </a></td>
