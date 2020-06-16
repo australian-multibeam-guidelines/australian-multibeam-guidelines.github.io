@@ -18,19 +18,19 @@ AusSeabed is currently developing a suite of pre-survey to view the current exte
 
 Seamap Australia is a complementary mapping and analysis service that provides information about the Australian shelf (e.g. seafloor imagery, habitat classification) that may also inform proposed mapping areas (Lucieer et al., 2017).
 
-## Existing Data coverage 
+# _Existing Data coverage_
 Before planning a survey we recommend consulting the [Bathymetry coverage](http://www.ausseabed.gov.au/surveys-data/bathymetry) layer hosted on the AusSeabed website to avoid the collection of duplicate data. The identify tool in this portal provides metadata information for each coverage polygon submitted to AusSeabed. This ensures that users are able to attain data custodian and contact details for surveys already conducted that might meet some or all of their needs. The layer contains the spatial extents and metadata of all surveys submitted to Geoscience Australia (GA) by AusSeabed collaborators and external third-parties. It is being continually developed to display national data coverage, with input from an increasing number of organisations.
 
 The GA [MARS database](http://dbforms.ga.gov.au/pls/www/npm.mars.search) contains information on seabed sediment samples collected in Australian waters, analysed, and provided to GA. Links to other data samples collected by different entities is acknowledged as an item for future development..
 
 
 
-## National Bathymetry priorities
+# _National Bathymetry priorities_
 The AusSeabed website also hosts an interactive map of [national bathymetry priorities](http://ausseabed.gov.au/surveys-data/priorities) that describes areas that are considered important to government in terms of safety of life at sea, conservation, and environmental monitoring. It is recommended that this tool be consulted in the early stages of survey planning to see if the voyage will be covering any areas of government interest. 
 
 
 
-## AusSeabed Coordination Tool
+# _AusSeabed Coordination Tool_
 It is also highly recommended that the upcoming survey layer is consulted on the AusSeabed portal in the early stages of survey planning to look for collaboration opportunities should there be other organisations planning to carry out work in areas of close proximity. Upcoming survey plans can be registered using the [AusSeabed Coordination Tool](https://planning.ausseabed.gov.au/login) to enable further collaboration and future tracking of new data. The tool allows users to display the planned extent and details of an upcoming survey and collects a set of metadata that are considered a minimum for any seabed mapping activity (
 
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.3.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -47,7 +47,7 @@ The **objectives** of MBES surveys conducted by mapping programs are to collect 
 
 This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](#bookmark=id.3u2rp3q) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
 
-## Data type, formats, and metadata
+# _Data type, formats, and metadata_
 In 2019, AusSeabed held a workshop on data formats and metadata attributes to establish an agreed set of preferences for the delivery and acquisition of seabed data. The outcomes of that workshop underpin the information presented in the following sections, as a set of best practice policies to maximise the utility of collected open data. 
 
 ### Data type
@@ -77,7 +77,7 @@ _Table 6 Overview of required metadata._
 
 This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
 
-## Survey area characterization
+# _Survey area characterization_
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
 *   survey duration and size of the area
 *   depth range as this will affect line planning ([section 2.5.5](#heading=h.111kx3o)) and acquisition parameter settings ([section 4.3](#heading=h.2afmg28))
@@ -89,7 +89,7 @@ Operational requirements, gear availability and technical capacity will determin
 *   the time of year and relevance to whale migrations for low frequency instruments
 *   potential interactions with surface fishing gear
 
-## Data representation (seafloor coverage and resolution)
+# _Data representation (seafloor coverage and resolution)_
 Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](#bookmark=id.32hioqz) It is important to consider that the** **data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. For more details on the two systems, refer to [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison).
 
 Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](#heading=h.2r0uhxc) and [3.4](#heading=h.1664s55)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](#heading=h.36ei31r)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
@@ -120,7 +120,7 @@ t = along track dimension of target to be detected (metres)
 prr = pulse repetition rate (pulses per second (Hz))
 
 
-## Quality assessment / uncertainty scheme
+# _Quality assessment / uncertainty scheme_
 The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](#bookmark=id.3ls5o66) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
 
 However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](#bookmark=id.17dp8vu)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  
@@ -129,7 +129,7 @@ Regardless of the standards used, it is important to provide quality and uncerta
 
 
 
-## Platforms & Systems
+# _Platforms & Systems_
 Seabed mapping can be conducted from a variety of platforms, including ships, which can have hull or pole-mounted systems, towed-platform or automated underwater and remotely operated vehicles (AUV and ROV respectively). While this guideline provides information that applies to any platform, this section only provides general information on the various platforms and does not address the specific requirements of each. Refer to the material referenced for more information.
 
 
@@ -144,7 +144,7 @@ Regardless of which method is used to deploy the swath system, it is important t
 
 This [website](http://www.bathyswath.com/installTransducers) provides additional information on various possible mounts and considerations. Note that the working group is not endorsing the company that this information is taken from.
 
-## Dimension control of sensor offsets
+# _Dimension control of sensor offsets_
 Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](#heading=h.2dlolyb)).
 
 # Project team
@@ -152,7 +152,7 @@ The project team should include personnel with relevant and adequate experience 
 
 It is recommended that for all survey reports each team member should be identified. This provides traceability for decisions and the data acquired. It is also highly recommended that a member of the team has completed professional training in the principles and operation of swath systems and provides evidence of recent field experience with swath acoustic systems.
 
-## Field survey instructions
+# _Field survey instructions_
 
 ### Geodetic control and Horizontal Datum 
 Seabed mapping surveys conducted within the Australian EEZ shall be referenced to a geodetic reference frame based on the International Terrestrial Reference System (ITRS), e.g. ITRF 2014 (GRS80 Spheroid) during collection.
@@ -204,14 +204,12 @@ When surveying for the purposes of nautical charting, it is essential to have kn
 
 For specific advice regarding recommended tidal infrastructure for your survey area, please contact the Australian Hydrographic Office ([tides.support@defence.gov.au](file:///C:\Users\u99337\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\13SAM0XD\tides.support@defence.gov.au)).
 
-## Sound velocity profiling
+# _Sound velocity profiling_
 Sound Velocity Profiling (SVP) of the water column is essential to the acquisition of swath mapping data, and is used for ray tracing through the water column. SVP influences directly the accuracy and uncertainty of both the horizontal and vertical position of each sounding and its impact is greatest towards the outer beams of the swath (farthest sounding). 
 
 Physical processes such as fresh water influx, solar warming of the upper water column, presence of mesoscale currents, and storm mixing can affect the temperature and salinity profile, and hence the SVP. These changes can occur at various spatial and temporal scales and can sometimes be observed in the water column backscatter data. 
 
 Acquisition of SVPs must be planned to identify the relevant number and distribution of profiles, and monitored carefully during the survey. It is recommended to commence a survey area with frequent SVPs until the behaviour of the water column is understood and then reduce the time and spatial interval as required to maintain best quality depth data. It is recommended that SVPs are conducted with a minimum interval of 6 hours. If sounding is restricted to the daytime only then SVPs should be conducted at the beginning and end of the day as the absolute minimum, but this is not recommended. The SVP can be determined using one of the following methods:
-
-
 
 1. direct observation via deployment of a SVP measuring device 
 2. calculation of the SVP through deployment of an expendable bathy thermograph (XBT)
@@ -219,12 +217,12 @@ Acquisition of SVPs must be planned to identify the relevant number and distribu
 4. calculation of the SVP using CTD (Conductivity/Temperature/Depth) data and applying the [UNESCO formula](https://www.usna.edu/Users/physics/ejtuchol/documents/SP411/Chapter4.pdf)
 5. calculation of the SVP from sea surface temperature and climatology using SVP builder software (Sinquin et al. 2016).
 
-## Time and date
+# _Time and date_
 All digital data, field notebooks (logs) and samples should be set and recorded using the Coordinated Universal Time (UTC) and associated date. 
 
 For descriptive text used in reporting, the time zone should be clearly specified (AWST, ACST, and AEST).
 
-## Line planning
+# _Line planning_
 Survey line planning will vary based on the seafloor mapping objectives. However, the following minimum recommendations have to be taken into consideration:
 
 
@@ -269,7 +267,7 @@ _Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
 See [section 4.2](#heading=h.3vac5uf) which provides information regarding the project structure and nomenclature
 
-## Seabed samples
+# _Seabed samples_
 Seabed samples are often acquired during a seafloor mapping survey for various purposes, including seabed characterisation and seafloor backscatter data calibration. It is thus recommended that procedures outlined in the relevant chapters of the ‘Field manuals for marine sampling to monitor Australian waters’ (Przeslawski and Foster 2018) are followed. 
 
 This manual recommends sending the samples to Geoscience Australia for analyses, such as grain-size, carbonate content, and results will be delivered in [MARS](http://dbforms.ga.gov.au/pls/www/npm.mars.search) public database. This analysis of samples contributes significantly to the knowledge of our seabed.
