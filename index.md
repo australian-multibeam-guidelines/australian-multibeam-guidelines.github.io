@@ -58,26 +58,18 @@ Version: 1801
 
 | Chapter Contents                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Platform Description](https://australian-multibeam-guidelines.github.io/platform-description)**   
+|  **[Introduction](https://australian-multibeam-guidelines.github.io/introduction)**   
 |  __[Scope](https://australian-multibeam-guidelines.github.io/scope)__                                                                        |
-|  **[Multibeam Acoustics for Marine Monitoring](https://australian-multibeam-guidelines.github.io/multibeam-acoustics-for-marine-monitoring)** |
-|  **[Pre-Survey Preparations](https://australian-multibeam-guidelines.github.io/pre-survey-preparations)**                                   |
-|  **[Data Acquisition](https://australian-multibeam-guidelines.github.io/data-acquisition)**                                                   |
-|       _[Installation offsets](https://australian-multibeam-guidelines.github.iodata-acquisition#installation-offsets)_                   |
-|       _[Data logging](https://australian-multibeam-guidelines.github.io/data-acquisition#data-logging)_                                     |
-|       _[Sound velocity profiles](https://australian-multibeam-guidelines.github.io/data-acquisition#sound-velocity-profiles)_                |
-|       _[Geodetic parameters](https://australian-multibeam-guidelines.github.io/data-acquisition#geodetic-parameters)_                      |
-|       _[Survey speed](https://australian-multibeam-guidelines.github.io/data-acquisition#survey-speed)_                                  |
-|       _[Line spacing](https://australian-multibeam-guidelines.github.io/data-acquisition#line-spacing)_                                     |
-|       _[Pulse length](https://australian-multibeam-guidelines.github.io/data-acquisition#pulse-length)_                                   |
-|       _[Tides and GPS tides](https://australian-multibeam-guidelines.github.io/data-acquisition#tides-and-gps-tides)_                        |
-|  **[Data Processing](https://australian-multibeam-guidelines.github.io/data-processing)**                                                    |
-|       _[Bathymetric data processing](https://australian-multibeam-guidelines.github.io/data-processing#bathymetric-data-processing)_        |
-|       _[Backscatter data processing](https://australian-multibeam-guidelines.github.io/data-processing#backscatter-data-processing)_        |
-|  **[Data Interpretation](https://australian-multibeam-guidelines.github.io/data-interpretation)**                                             |
-|  **[Data Release](https://australian-multibeam-guidelines.github.io/data-release)**                                                           |
+|  **[Pre-survey Planning](https://australian-multibeam-guidelines.github.io/pre-survey-planning)** |
+|  **[Mobilisation, Calibration and Validation](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation)**                                   |
+|  **[Acquisition](https://australian-multibeam-guidelines.github.io/acquisition)**                                                   |
+|       _[Data Processing](https://australian-multibeam-guidelines.github.iodata-acquisition#data-processing)_                   |
+|       _[Reports](https://australian-multibeam-guidelines.github.io/data-acquisition#reports)_                                     |
+|       _[Data Release](https://australian-multibeam-guidelines.github.io/data-acquisition#data-release)_                |
+|       _[Multibeam acoustics for marine monitoring](https://australian-multibeam-guidelines.github.io/marine-monitoring)_                      |
 |  **[Field Manual Maintenance](https://australian-multibeam-guidelines.github.io/field-manual-maintenance)**                                   |
 |  **[References](https://australian-multibeam-guidelines.github.io/references)**                                                               |
+|  **[Appendices](https://australian-multibeam-guidelines.github.io/appendices)**                                                               |
 
 
 <a href="#" class="scrollUpButton">Back to top</a>
