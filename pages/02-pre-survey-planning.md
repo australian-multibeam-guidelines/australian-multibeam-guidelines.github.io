@@ -145,10 +145,10 @@ _Table 5 Preferred data formats by data type and level._
     <th colspan="4">Preferred Formats</th>
   </tr>
   <tr>
-    <td>Bathymetry</td>
-    <td>Backscatter</td>
-    <td>Navigation</td>
-    <td>Ancillary Data</td>
+    <td><strong>Bathymetry</strong></td>
+    <td><strong>Backscatter</strong></td>
+    <td><strong>Navigation</strong></td>
+    <td><strong>Ancillary Data</strong></td>
   </tr>
 </thead>
 <tbody>
@@ -165,8 +165,8 @@ _Table 5 Preferred data formats by data type and level._
     <td>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud.<br></td>
     <td><strong>Priority 1</strong><br>.gsf, .las/.laz<br><strong>Priority  2</strong><br>Any proprietary data formats<br><strong>Priority 3</strong><br>ASCII point cloud<br></td>
     <td><strong>Priority 1</strong><br>.gsf<br><strong>Priority 2<br>Proprietary formats</strong></td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td><strong>N/A</strong></td>
+    <td><strong>N/A</strong></td>
   </tr>
   <tr>
     <td>L2</td>
@@ -182,7 +182,7 @@ _Table 5 Preferred data formats by data type and level._
     <td><strong>Priority 1</strong><br>BAG (v1.6.4)<br> 32-bit floating point GeoTIFF (.tiff)<br>Priority 2</strong><br>ASCII XYZ<br> .las/.laz<br></td>
     <td><strong>Priority 1</strong><br>32-bit floating point GeoTIFF (.tiff)</td>
     <td><strong>Priority 1</strong><br>ASCII XYZ and sensor trackline shape file (GeoJSON)</td>
-    <td>N/A</td>
+    <td><strong>N/A</strong></td>
   </tr>
 </tbody>
 </table>
