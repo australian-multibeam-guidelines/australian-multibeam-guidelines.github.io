@@ -151,35 +151,24 @@ Overall these initiatives aim to achieve a number of specific objectives, includ
 *   ensuring better informed management of Australian waters through easy access to a larger set of standards-compliant seabed data
 
 
-
-    1. 
-Scope
-The Australian Multibeam Guidelines were established by the AusSeabed consortium. The guidelines provide recommended procedures for survey planning, data acquisition and submission, from the pre-survey planning phase to the data submission phase. They are designed for a range of audiences, from those experienced in seafloor mapping using multibeam sonar systems, non-experts who are developing mapping capabilities, and those [contracting seafloor mapping](#bookmark=id.tyjcwt) surveys using swath systems[.](#bookmark=id.16x20ju) 
+## Scope
+The Australian Multibeam Guidelines were established by the AusSeabed consortium. The guidelines provide recommended procedures for survey planning, data acquisition and submission, from the pre-survey planning phase to the data submission phase. They are designed for a range of audiences, from those experienced in seafloor mapping using multibeam sonar systems, non-experts who are developing mapping capabilities, and those contracting seafloor mappingsurveys using swath systems. 
 
 These guidelines aim to improve interoperability, discoverability and accessibility of MBES system data, and encourage improved acquisition standards to better meet end-user requirements. We acknowledge that to achieve such an aim, adaptation of the project might be necessary and could impact time and cost. However, in most cases, the inconvenience of varying parameters will be outweighed by the increased utility of the data to a wider user base.
 
-These guidelines provide a minimum set of requirements for seafloor mapping activities conducted in Australian waters. They are designed to complement the purpose-based requirements and associated documentation related to specific survey requirements (e.g., hydrographic surveys; seabed infrastructure planning or installation) [(Figure 1)](#bookmark=id.17dp8vu).
+These guidelines provide a minimum set of requirements for seafloor mapping activities conducted in Australian waters. They are designed to complement the purpose-based requirements and associated documentation related to specific survey requirements (e.g., hydrographic surveys; seabed infrastructure planning or installation) (Figure 1).
+
+
+![alt_text](images/figures/image.png "image_tooltip")
+
+_Figure 1 Anticipated key areas of relevance for the Australian Multibeam Guidelines._
+
+The guidelines include a broad examination of data processing and guidance for data submission (Figure 2) with recommendations for all three types of swath acoustic data (bathymetry, backscatter and water column backscatter) relevant across all water depths and adopt international guidelines where appropriate. They do not include instrument preparation activities such as bench/workshop tests, personnel requirements, or provide survey costing information (see section 5.3.4 of Przeslawski et al. 2018a for MBES Costing). This revision of the Australian Multibeam Guidelines (version 2) contains information previously published in the _Seafloor Mapping Field Manual for Multibeam Sonar_ (Lucieer et al., 2018) as chapter 8_ _(_Multibeam acoustics for marine monitoring_) and, as such, will also succeed the _Seafloor Mapping Field Manual for Multibeam Sonar_ as chapter 3 in the second release of the National Environmental Science Program (NESP) _Field manuals for Marine Sampling to Monitor Australian Waters_ (Przeslawski and Foster, 2018). The decision to make this extension to the guidelines and inclusion in the NESP suite of Field Manuals was made by AusSeabed and the NESP to allow both initiatives to continue with a single reference document to inform seabed mapping and eliminate the complications and community confusion associated with the maintenance of two reference documents with extensive overlap.
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-_Figure 1 Anticipated key areas of relevance for the Australian Multibeam Guidelines. _
-
-The guidelines include a broad examination of data processing and guidance for data submission [(Figure 2)](#bookmark=id.3qwpj7n) with recommendations for all three types of swath acoustic data (bathymetry, backscatter and water column backscatter) relevant across all water depths and adopt international guidelines where appropriate. They do not include instrument preparation activities such as bench/workshop tests, personnel requirements, or provide survey costing information (see section 5.3.4 of Przeslawski et al. 2018a for MBES Costing). This revision of the Australian Multibeam Guidelines (version 2) contains information previously published in the _Seafloor Mapping Field Manual for Multibeam Sonar_ (Lucieer et al., 2018) as chapter 8_ _(_Multibeam acoustics for marine monitoring_) and, as such, will also succeed the _Seafloor Mapping Field Manual for Multibeam Sonar_ as chapter 3 in the second release of the National Environmental Science Program (NESP) _Field manuals for Marine Sampling to Monitor Australian Waters_ (Przeslawski and Foster, 2018). The decision to make this extension to the guidelines and inclusion in the NESP suite of Field Manuals was made by AusSeabed and the NESP to allow both initiatives to continue with a single reference document to inform seabed mapping and eliminate the complications and community confusion associated with the maintenance of two reference documents with extensive overlap.
-
-
-
-    2. 
-How to use guidelines
-To help navigate these guidelines, [Table 2](#bookmark=id.lnxbz9) identifies sections that are more relevant to various user-groups. Glossaries of abbreviations and terms are included in appendices [A](#bookmark=id.338fx5o) and 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "B"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[B](#heading=h.2hio093), and a variety of tools and resources available are included in [Table 3.](#bookmark=id.2jxsxqh) Some tools are still under development and will be shared through the [AusSeabed website](http://www.ausseabed.gov.au/). 
+## How to use guidelines
+To help navigate these guidelines, Table 2 identifies sections that are more relevant to various user-groups. Glossaries of abbreviations and terms are included in appendices [A](https://australian-multibeam-guidelines.github.io/appendices#appendix-a--abbreviations) and [B](https://australian-multibeam-guidelines.github.io/appendices#appendix-b--glossary), and a variety of tools and resources available are included in Table 3. Some tools are still under development and will be shared through the [AusSeabed website](http://www.ausseabed.gov.au/). 
 
 These guidelines do not include a full and comprehensive technical description of MBES systems, but rather, provide a list of pertinent references, such as Hughes-Clarke (2017a). They also refer to related guidelines where relevant.
 
@@ -248,13 +237,8 @@ _Table 2 Relevance to the various user groups by document section number. Howeve
 
 
 
-    3. 
-Related standards and publications
-The following publications provide information to underpin the collection of geospatial data and augment these guidelines. The complete references can be found in 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 9"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 9](#heading=h.243i4a2), but the most recent published versions of key documents are: 
+## Related standards and publications
+The following publications provide information to underpin the collection of geospatial data and augment these guidelines. The complete references can be found in the [References](https://australian-multibeam-guidelines.github.io/references), but the most recent published versions of key documents are: 
 
 
 
@@ -278,4 +262,4 @@ The following publications provide information to underpin the collection of geo
 18.  Lamarche G. and Lurton X., 2017. [Recommendations for improved and coherent acquisition and processing of backscatter data from seafloor-mapping sonars](https://link.springer.com/article/10.1007/s11001-017-9315-6). 
 19. LINZ, 2016, [Contract Survey Specifications for Hydrographic Surveys, Vers. 1.3](https://www.linz.govt.nz/sea/charts/standards-and-technical-specifications-for-our-chart-and-hydrographic-work)
 20. Lucieer V. et al., 2017. [Seamap Australia](http://seamapaustralia.org)
-21. Przeslawski R. et al., 2018. [NESP field Manual for grab and box core sampling](https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter9_Grab_v1.pdf)
+21. Przeslawski R. et al., 2018. [NESP field Manual for grab and box core sampling](https://grabs-and-boxcorers-field-manual.github.io/)

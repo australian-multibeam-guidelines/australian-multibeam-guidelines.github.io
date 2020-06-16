@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Australian Multibeam Guidelines"
-excerpt: "AusSeabed"
+title: "AusSeabed Australian Multibeam Guidelines"
+excerpt: "2020"
 image:
   feature: /banners/multibeam-banner.jpg
 page.button1.external_url:
