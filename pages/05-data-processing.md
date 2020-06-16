@@ -4,7 +4,7 @@ permalink: /data-processing
 title: "Data Processing"
 excerpt: "<br>"
 image:
-  feature: /banners/05_banner.jpg
+  feature: /banners/multibeam-banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 

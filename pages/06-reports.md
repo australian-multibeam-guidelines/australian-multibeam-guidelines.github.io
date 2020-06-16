@@ -4,7 +4,7 @@ permalink: /reports
 title: "Reports"
 excerpt: "<br>"
 image:
-  feature: /banners/06_banner.jpg
+  feature: /banners/multibeam-banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
