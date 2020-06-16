@@ -105,7 +105,7 @@ _Table 4 AusSeabed Data Level Definitions_
 <tbody>
   <tr>
     <td>L0</td>
-    <td>Unprocessed instrument data <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as any and all artefacts.</td>
+    <td><strong>Unprocessed instrument data</strong> <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as any and all artefacts.</td>
     <td>Observed by sensor*.all</td>
     <td>Observed by sensor*.000</td>
     <td>Observed*.raw</td>
@@ -113,13 +113,13 @@ _Table 4 AusSeabed Data Level Definitions_
   </tr>
   <tr>
     <td>L1</td>
-    <td>Data merged with ancillary information<br>Reconstructed L0 MBES data undergoes correction with ancillary information either from within the L0 data itself or the separately calculated ancillary files collected by the ancillary system (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. </td>
+    <td><strong>Data merged with ancillary information</strong><br>Reconstructed L0 MBES data undergoes correction with ancillary information either from within the L0 data itself or the separately calculated ancillary files collected by the ancillary system (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. </td>
     <td>Processed depthIntegration of L1 ancillary information (uncleaned and unfiltered)</td>
     <td colspan="3">N/A: Data proceeds straight to L2</td>
   </tr>
   <tr>
     <td>L2</td>
-    <td>Derived geophysical/georeferenced variables<br>L1 data undergoes cleaning and filtering to create the first ‘usable’ multibeam data.</td>
+    <td><strong>Derived geophysical/georeferenced variables</strong><br>L1 data undergoes cleaning and filtering to create the first ‘usable’ multibeam data.</td>
     <td>Bathymetry productCleaned &amp; filtered</td>
     <td>Processed to SBET</td>
     <td>Processed to *.txt</td>
@@ -127,7 +127,7 @@ _Table 4 AusSeabed Data Level Definitions_
   </tr>
   <tr>
     <td>L3</td>
-    <td>Variables mapped on a grid<br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce charts/gridded products etc. L3 products cannot be backwards engineered into L2.</td>
+    <td><strong>Variables mapped on a grid</strong><br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce charts/gridded products etc. L3 products cannot be backwards engineered into L2.</td>
     <td>Additional value added, or data sampled (e.g. chart, slope map, geomorphology)</td>
     <td colspan="3">N/A: L2 is the final ‘product’ for ancillary data types, and not all ancillary data have an L1 form. For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product.</td>
   </tr>
@@ -155,16 +155,16 @@ _Table 5 Preferred data formats by data type and level._
   <tr>
     <td>L0</td>
     <td>L0 data is native format, as recorded by the sensor. It should include all necessary datagrams required for a comprehensive bathymetry and backscatter processing, including raw backscatter per beam (BA) and raw backscatter in time series (TS), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.<br>*Navigation data currently has no open source format options. Also for nav/attitude data time zone should be in UTC and projection should be WGS84, ITRF, or GDA2020 with an ellipsoidal height datum.</td>
-    <td>Priority 1<br>.all (.mb56, .mb58), .s7k (.mb88), .kmall (.mb261), .xse (.mb94)<br>Priority 2<br>.gsf (might be only format possible for R2sonic<br>Priority 3<br>XTF<br><br></td>
-    <td>Priority 1<br>Same as for bathymetry and also other proprietary formats that solely collect backscatter/sidescan. </td>
-    <td>Priority 1*<br>Any proprietary formats that contain navigation and attitude (for example .000).</td>
-    <td>Priority 1<br>ASCII (txt, csv) of raw observations including georeferencing and time.<br>Priority 2<br>Proprietary formats</td>
+    <td><strong>Priority 1</strong><br>.all (.mb56, .mb58), .s7k (.mb88), .kmall (.mb261), .xse (.mb94)<br><strong>Priority 2</strong><br>.gsf (might be only format possible for R2sonic<br><strong>Priority 3</strong><br>XTF<br><br></td>
+    <td><strong>Priority 1</strong><br>Same as for bathymetry and also other proprietary formats that solely collect backscatter/sidescan. </td>
+    <td><strong>Priority 1*</strong><br>Any proprietary formats that contain navigation and attitude (for example .000).</td>
+    <td><strong>Priority 1</strong><br>ASCII (txt, csv) of raw observations including georeferencing and time.<br>Priority 2</strong><br>Proprietary formats</td>
   </tr>
   <tr>
     <td>L1</td>
     <td>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud.<br></td>
-    <td>Priority 1<br>.gsf, .las/.laz<br>Priority  2<br>Any proprietary data formats<br>Priority 3<br>ASCII point cloud<br></td>
-    <td>Priority 1<br>.gsf<br>Priority 2<br>Proprietary formats</td>
+    <td><strong>Priority 1</strong><br>.gsf, .las/.laz<br><strong>Priority  2</strong><br>Any proprietary data formats<br><strong>Priority 3</strong><br>ASCII point cloud<br></td>
+    <td><strong>Priority 1</strong><br>.gsf<br><strong>Priority 2<br>Proprietary formats</strong></td>
     <td>N/A</td>
     <td>N/A</td>
   </tr>
@@ -174,14 +174,14 @@ _Table 5 Preferred data formats by data type and level._
     <td>Identical to L1 as L2 is mostly done within L1 producing software</td>
     <td>Identical to L1 as L2 is mostly done within L1 producing software</td>
     <td>SBET data + RMS (for generation of TPU)</td>
-    <td>Priority 1<br>Text files: (ASCII .txt, NetCDF, .csv)<br>Priority 2<br>Proprietary</td>
+    <td><strong>Priority 1</strong><br>Text files: (ASCII .txt, NetCDF, .csv)<br><strong>Priority 2</strong><br>Proprietary</td>
   </tr>
   <tr>
     <td>L3</td>
     <td>L3 should include sounding density and uncertainty. Header information, sign convention, and horizontal and vertical datum are required to accompany any ASCII formats.Separate .asc files for respective sounding density and uncertainty need to accompany the main depth .asc file. This also applies to any data types that are restricted to a single layer/band. <br>Specifications needed for ASCII xyz include metadata for xyz, header information in metadata, positive/negative depth field, and vertical datum.</td>
-    <td>Priority 1<br>BAG (v1.6.4)<br> 32-bit floating point GeoTIFF (.tiff)<br>Priority 2<br>ASCII XYZ<br> .las/.laz<br></td>
-    <td>Priority 1<br>32-bit floating point GeoTIFF (.tiff)</td>
-    <td>Priority 1<br>ASCII XYZ and sensor trackline shape file (GeoJSON)</td>
+    <td><strong>Priority 1</strong><br>BAG (v1.6.4)<br> 32-bit floating point GeoTIFF (.tiff)<br>Priority 2</strong><br>ASCII XYZ<br> .las/.laz<br></td>
+    <td><strong>Priority 1</strong><br>32-bit floating point GeoTIFF (.tiff)</td>
+    <td><strong>Priority 1</strong><br>ASCII XYZ and sensor trackline shape file (GeoJSON)</td>
     <td>N/A</td>
   </tr>
 </tbody>
