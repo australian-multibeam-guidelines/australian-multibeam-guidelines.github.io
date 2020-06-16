@@ -428,7 +428,7 @@ Seabed mapping surveys conducted within the Australian EEZ shall be referenced t
 
 Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](#bookmark=id.3tbugp1); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/figures/image2.png "image_tooltip")
 
 _Figure 2 Extent of GDA2020 on the Australian continental shelf (Geoscience Australia)_
 
@@ -439,12 +439,7 @@ Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Gr
 ### Tidal or ellipsoidal datum
 The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections [2.5.2.1](#heading=h.37m2jsg) and [2.5.2.2](#heading=h.1mrcu09)). While mapping however, the sounding datum should be used. 
 
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/figures/image3.png "image_tooltip")
 
 
 _Figure 3 Schematic of datum and associated reduction information (Mills & Dodd, 2014)_
@@ -494,8 +489,6 @@ For descriptive text used in reporting, the time zone should be clearly specifie
 # _Line planning_
 Survey line planning will vary based on the seafloor mapping objectives. However, the following minimum recommendations have to be taken into consideration:
 
-
-
 1. <span style="text-decoration:underline;">Seabed topography</span>: lines should be designed parallel to the general direction of seabed contours as much as possible for swath systems.
 2. <span style="text-decoration:underline;">Depth range</span>: the depth of the survey area changes the swath width and consequently the line spacing.  Large areas should be divided into similar depth ranges so that the requirement to run in-fill lines is reduced. 
 3. <span style="text-decoration:underline;">Swath width (angle)</span>: depends on what type of swath system is used for the project (e.g. dual versus single-head MBES system), and hence the line spacing will differ. It is nearly always necessary to operate the swath system at less than published ‘maximum’ swath angles in order to improve the quality of the data collected and to improve the sounding density of the data collected.
@@ -526,7 +519,7 @@ Where **seabed backscatter data is the primary objective** of the survey, the sa
 11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees [(Figure 4](#bookmark=id.261ztfg); Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/figures/image4.png "image_tooltip")
 
 _Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
