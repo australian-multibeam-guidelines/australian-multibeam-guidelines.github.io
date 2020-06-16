@@ -42,7 +42,7 @@ To achieve this objective, [AusSeabed](http://www.ausseabed.gov.au) was formed, 
 
 
 *   the production of maps identifying priority areas for Commonwealth and State Government agencies
-*   maintenance of the **Australian Multibeam Guidelines **(this document)
+*   maintenance of the **Australian Multibeam Guidelines** (this document)
 *   the [AusSeabed website](http://www.ausseabed.gov.au/) hosting various resources, survey planning and data management tools, including a [data portal](https://portal.ga.gov.au/persona/marine).
 
 _Table 1 Key stakeholders benefiting from better coordination and availability of seabed mapping data and the type of data they preferentially use (note the list is not exhaustive, but intended to give examples)_
