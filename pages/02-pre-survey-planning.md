@@ -194,6 +194,50 @@ _Table 6 Overview of required metadata._
 <table>
 <thead>
   <tr>
+    <th>Metadata Category</th>
+    <th>General</th>
+    <th>Citation</th>
+    <th>Survey </th>
+    <th>Technical</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Metadata Fields</td>
+    <td><li>Survey Title</li>
+    <li>Survey ID</li>
+    <li>Abstract</li>
+    <li>Lineage</li></td>
+    <td><li>Data Owner</li>
+    <li>Custodian</li>
+    <li>Country (data ownership)</li>
+    <li>Collecting Entity</li>
+    <li>Attribution Licence</li>
+    <li>Legal Constraints</li>
+    <li>Access Constraints</li>
+    <li>Use Constraints</li></td>
+    <td><li>Survey Area (general)</li>
+    <li>Bounding Box</li>
+    <li>Coordinate reference system-bounding Box</li>
+    <li>Coordinate reference system–Survey Data</li>
+    <li>Geodetic Datum of the survey</li>
+    <li>Horizontal datum</li>
+    <li>Vertical datum</li></td>
+    <td><li>Instrument type</li>
+    <li>Sensor type</li>
+    <li>Sensor Frequency</li>
+    <li>Platform type</li>
+    <li>Platform name</li></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<thead>
+  <tr>
     <th><strong>Metadata Category</strong></th>
     <th><strong>General</strong></th>
     <th><strong>Citation</strong></th>
