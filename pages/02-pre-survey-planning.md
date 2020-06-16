@@ -254,6 +254,118 @@ Horizontal and vertical accuracy are two key factors of resolution that should a
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
 _Table 7 MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th colspan="6">Beam Width (deg)	</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>0.5</td>
+    <td>0.7</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td rowspan="10">D<br>E<br>P<br>T<br>H<br>(m)</td>
+    <td>10</td>
+    <td>0.09</td>
+    <td>0.12</td>
+    <td>0.17</td>
+    <td>0.35</td>
+    <td>0.52</td>
+    <td>0.70</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>0.22</td>
+    <td>0.31</td>
+    <td>0.44</td>
+    <td>0.87</td>
+    <td>1.31</td>
+    <td>1.74</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>0.44</td>
+    <td>0.61</td>
+    <td>0.87</td>
+    <td>1.74</td>
+    <td>2.62</td>
+    <td>3.49</td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td>0.65</td>
+    <td>0.92</td>
+    <td>1.31</td>
+    <td>2.62</td>
+    <td>3.92</td>
+    <td>5.23</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>0.87</td>
+    <td>1.22</td>
+    <td>1.75</td>
+    <td>3.49</td>
+    <td>5.23</td>
+    <td>6.97</td>
+  </tr>
+  <tr>
+    <td>250</td>
+    <td>2.18</td>
+    <td>3.05</td>
+    <td>4.36</td>
+    <td>8.72</td>
+    <td>13.08</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>500</td>
+    <td>4.36</td>
+    <td>6.11</td>
+    <td>8.73</td>
+    <td>17.45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1000</td>
+    <td>8.73</td>
+    <td>12.22</td>
+    <td>17.45</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1500</td>
+    <td>13.09</td>
+    <td>18.33</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2500</td>
+    <td>21.82</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 It is important to highlight that identification of features of specific sizes rely on a combination of parameters. It is generally accepted that when using side scan sonar as the feature detection tool, that a minimum of five boresight hits are made on the feature target. When using MBES as the feature detection tool, the common requirement is to achieve a minimum 3 along track hits and 3 across track hits on the feature target. The above requirements are to be considered conservative and in line with accepted sampling theory. Refer to section 7.5 from AHO (2018) for further information.
 
