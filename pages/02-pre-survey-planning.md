@@ -482,6 +482,7 @@ Acquisition of SVPs must be planned to identify the relevant number and distribu
 5. calculation of the SVP from sea surface temperature and climatology using SVP builder software (Sinquin et al. 2016).
 
 # _Time and date_
+
 All digital data, field notebooks (logs) and samples should be set and recorded using the Coordinated Universal Time (UTC) and associated date. 
 
 For descriptive text used in reporting, the time zone should be clearly specified (AWST, ACST, and AEST).
