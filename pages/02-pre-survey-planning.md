@@ -205,37 +205,33 @@ _Table 6 Overview of required metadata._
   <tr>
     <td>Metadata Fields</td>
     <td><ul>
-    <li>Survey Title
-    <li>Survey ID
-    <li>Abstract
+    <li>Survey Title</li>
+    <li>Survey ID</li>
+    <li>Abstract</li>
     <li>Lineage</li>
-   </ul></td>
    <td><ul>
-    <li>Data Owner 
-    <li>Custodian
-    <li>Country (data ownership)
-    <li>Collecting Entity
-    <li>Attribution Licence
-    <li>Legal Constraints
-    <li>Access Constraints
+    <li>Data Owner</li>
+    <li>Custodian</li>
+    <li>Country (data ownership)</li>
+    <li>Collecting Entity</li>
+    <li>Attribution Licence</li>
+    <li>Legal Constraints</li>
+    <li>Access Constraints</li>
     <li>Use Constraints</li>
-   </ul></td>
    <td><ul>
-    <li>Survey Area (general)
-    <li>Bounding Box
-    <li>Coordinate reference system-bounding Box
-    <li>Coordinate reference system–Survey Data
-    <li>Geodetic Datum of the survey
-    <li>Horizontal datum
+    <li>Survey Area (general)</li>
+    <li>Bounding Box</li>
+    <li>Coordinate reference system-bounding Box</li>
+    <li>Coordinate reference system–Survey Data</li>
+    <li>Geodetic Datum of the survey</li>
+    <li>Horizontal datum</li>
     <li>Vertical datum</li>
-   </ul></td>
    <td><ul>
-    <li>Instrument type
-    <li>Sensor type
-    <li>Sensor Frequency
-    <li>Platform type
+    <li>Instrument type</li>
+    <li>Sensor type</li>
+    <li>Sensor Frequency</li>
+    <li>Platform type</li>
     <li>Platform name</li>
-   </ul></td>
 </tr>
 </tbody>
 </table>
