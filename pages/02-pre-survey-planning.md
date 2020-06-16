@@ -34,7 +34,7 @@ _Table 3 Summary list of pre-survey planning tools proposed in the section_
   </tr>
   <tr>
     <td>A priori tools<br>1) <a href="https://www.rijkswaterstaat.nl/formulieren/aanvraagformulier-software-hydrografische-normen.aspx">Amust</a> <br><br><br><br><br><br><br><br>2) <a href="https://hydrochart.dk/hydrobib/">Hydrobib</a></td>
-    <td>These tools help to determine expected uncertainties for a system. <br>Amust link points to a registration page on the Rijkswaterstaat (Dutch Hydrographic Service) website. See also <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.odc9jc">Appendix E</a> for a list of possible errors to take into account.  <br><img src="https://lh6.googleusercontent.com/VY-yYTSVr0vJM5jkdVmxkPaHrLOP-mkAp1vC_6Gor0sBgyZvMXKNNxvMJb7iPEjr0DVQOZ1tmwlGyLrGh-8TEdqiCIoH8yATqS--VImRob0mTOZJ2lncXgoP6PPAV6KXsqLTIRbY" alt="G:\Kim_bckup_021217\GA other projects\AusSeabed\Guideline\Templates\AMUST.JPG" width="368" height="219"><br><<br>Hydrobib provides integrated utilities for survey planning. It is more specific to R2Sonic echosounder, but can be adopted for other echosounders.</td>
+    <td>These tools help to determine expected uncertainties for a system. <br>Amust link points to a registration page on the Rijkswaterstaat (Dutch Hydrographic Service) website. See also <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.odc9jc">Appendix E</a> for a list of possible errors to take into account.  <br><img src="https://lh6.googleusercontent.com/VY-yYTSVr0vJM5jkdVmxkPaHrLOP-mkAp1vC_6Gor0sBgyZvMXKNNxvMJb7iPEjr0DVQOZ1tmwlGyLrGh-8TEdqiCIoH8yATqS--VImRob0mTOZJ2lncXgoP6PPAV6KXsqLTIRbY" alt="G:\Kim_bckup_021217\GA other projects\AusSeabed\Guideline\Templates\AMUST.JPG" width="368" height="219"><br><br>Hydrobib provides integrated utilities for survey planning. It is more specific to R2Sonic echosounder, but can be adopted for other echosounders.</td>
   </tr>
   <tr>
     <td>Datum tools<br><a href="https://vdatum.noaa.gov/">1) </a><a href="https://vdatum.noaa.gov/">VDatum</a><br>2) <a href="http://www.icsm.gov.au/what-we-do/permanent-committee-tides-and-mean-sea-level">AusCoastVDT</a></td>
@@ -57,12 +57,8 @@ Before planning a survey we recommend consulting the [Bathymetry coverage](http:
 
 The GA [MARS database](http://dbforms.ga.gov.au/pls/www/npm.mars.search) contains information on seabed sediment samples collected in Australian waters, analysed, and provided to GA. Links to other data samples collected by different entities is acknowledged as an item for future development..
 
-
-
 # _National Bathymetry priorities_
 The AusSeabed website also hosts an interactive map of [national bathymetry priorities](http://ausseabed.gov.au/surveys-data/priorities) that describes areas that are considered important to government in terms of safety of life at sea, conservation, and environmental monitoring. It is recommended that this tool be consulted in the early stages of survey planning to see if the voyage will be covering any areas of government interest. 
-
-
 
 # _AusSeabed Coordination Tool_
 It is also highly recommended that the upcoming survey layer is consulted on the AusSeabed portal in the early stages of survey planning to look for collaboration opportunities should there be other organisations planning to carry out work in areas of close proximity. Upcoming survey plans can be registered using the [AusSeabed Coordination Tool](https://planning.ausseabed.gov.au/login) to enable further collaboration and future tracking of new data. The tool allows users to display the planned extent and details of an upcoming survey and collects a set of metadata that are considered a minimum for any seabed mapping activity (
@@ -96,7 +92,51 @@ The minimum essential requirements of any seafloor mapping survey are the bathym
 Consistent definitions of data levels allow the community to reduce ambiguity when discussing, delivering, processing or describing data. The AusSeabed definitions of data levels has been modelled on those prescribed by NASA for Earth Observations data products. The following definitions were discussed, refined and agreed to at the 2019 AusSeabed metadata and standards workshop (Table 6). 
 
 _Table 4 AusSeabed Data Level Definitions_
-
+<table>
+<thead>
+  <tr>
+    <th rowspan="2">Level</th>
+    <th rowspan="2">Definition</th>
+    <th colspan="4">Examples</th>
+  </tr>
+  <tr>
+    <td>MBES</td>
+    <td>Delayed Heave/ Ellipsoid/Nav</td>
+    <td>SVP</td>
+    <td>Tide</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>L0</td>
+    <td>Unprocessed instrument data <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as any and all artefacts.</td>
+    <td>Observed by sensor*.all</td>
+    <td>Observed by sensor*.000</td>
+    <td>Observed*.raw</td>
+    <td>Observed, proprietary formats</td>
+  </tr>
+  <tr>
+    <td>L1</td>
+    <td>Data merged with ancillary information<br>Reconstructed L0 MBES data undergoes correction with ancillary information either from within the L0 data itself or the separately calculated ancillary files collected by the ancillary system (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. </td>
+    <td>Processed depthIntegration of L1 ancillary information (uncleaned and unfiltered)</td>
+    <td colspan="3">N/A: Data proceeds straight to L2</td>
+  </tr>
+  <tr>
+    <td>L2</td>
+    <td>Derived geophysical/georeferenced variables<br>L1 data undergoes cleaning and filtering to create the first ‘usable’ multibeam data.</td>
+    <td>Bathymetry productCleaned &amp; filtered</td>
+    <td>Processed to SBET</td>
+    <td>Processed to *.txt</td>
+    <td>Processed to *.txt</td>
+  </tr>
+  <tr>
+    <td>L3</td>
+    <td>Variables mapped on a grid<br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce charts/gridded products etc. L3 products cannot be backwards engineered into L2.</td>
+    <td>Additional value added, or data sampled (e.g. chart, slope map, geomorphology)</td>
+    <td colspan="3">N/A: L2 is the final ‘product’ for ancillary data types, and not all ancillary data have an L1 form. For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product.</td>
+  </tr>
+</tbody>
+</table>
 
 A set of data formats has been recommended for each of the data levels and types described above based on community consultation. Delivering processed data outputs in as many of the preferred formats as possible ensures that data can be utilised easily by the wider community, increasing the net benefit of the data. It should be noted that, when available, open source formats are always preferred over proprietary formats, for any sensor, at any data level. 
 
