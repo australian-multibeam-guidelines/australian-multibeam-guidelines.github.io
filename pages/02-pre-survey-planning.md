@@ -192,23 +192,19 @@ Metadata consistency is an essential aspect of data management and a key step in
 
 _Table 6 Overview of required metadata._
 <table>
+<thead>
   <tr>
-   <td><strong>Metadata Category</strong>
-   </td>
-   <td><strong>General</strong>
-   </td>
-   <td><strong>Citation</strong>
-   </td>
-   <td><strong>Survey </strong>
-   </td>
-   <td><strong>Technical</strong>
-   </td>
+    <th><strong>Metadata Category</strong></th>
+    <th><strong>General</strong></th>
+    <th><strong>Citation</strong></th>
+    <th><strong>Survey</strong> </th>
+    <th><strong>Technical</strong></th>
   </tr>
+</thead>
+<tbody>
   <tr>
-   <td>Metadata Fields
-   </td>
-   <td>
-<ul>
+    <td>Metadata Fields</td>
+    <td><ul>
 
 <li>Survey Title
 
@@ -218,10 +214,8 @@ _Table 6 Overview of required metadata._
 
 <li>Lineage
 </li>
-</ul>
-   </td>
-   <td>
-<ul>
+</ul></td>
+    <td><ul>
 
 <li>Data Owner 
 
@@ -239,10 +233,8 @@ _Table 6 Overview of required metadata._
 
 <li>Use Constraints
 </li>
-</ul>
-   </td>
-   <td>
-<ul>
+</ul></td>
+    <td><ul>
 
 <li>Survey Area (general)
 
@@ -258,10 +250,8 @@ _Table 6 Overview of required metadata._
 
 <li>Vertical datum
 </li>
-</ul>
-   </td>
-   <td>
-<ul>
+</ul></td>
+    <td><ul>
 
 <li>Instrument type
 
@@ -273,12 +263,12 @@ _Table 6 Overview of required metadata._
 
 <li>Platform name
 </li>
-</ul>
-   </td>
+</ul></td>
   </tr>
+</tbody>
 </table>
 
-This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](#heading=h.zu0gcz) which outlines the Mobilisation, Calibration and Validation reports.
+This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation) which outlines the Mobilisation, Calibration and Validation reports.
 
 # _Survey area characterization_
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
