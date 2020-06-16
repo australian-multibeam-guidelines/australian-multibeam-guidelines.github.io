@@ -775,14 +775,11 @@ Regardless of the standards used, it is important to provide quality and uncerta
 
 
 
-        8. 
-Platforms & Systems
+## Platforms & Systems
 Seabed mapping can be conducted from a variety of platforms, including ships, which can have hull or pole-mounted systems, towed-platform or automated underwater and remotely operated vehicles (AUV and ROV respectively). While this guideline provides information that applies to any platform, this section only provides general information on the various platforms and does not address the specific requirements of each. Refer to the material referenced for more information.
 
 
-
-            4. 
-Hull or pole-mounted systems
+### Hull or pole-mounted systems
 A hull-mounted system refers to a system fixed to the vessel, and is the most robust way to mount a transducer. However, due consideration must be given to the effects of acoustic interference and bubble sweep down over the face of the MBES transmit and receive arrays.
 
 A pole-mounted system refers to a system fixed to the end of a pole, which is commonly mounted to the side or the bow of the vessel. They are commonly used for smaller installations, allowing for permanent or deployable mounting. Rigidity and minimisation of the vibration of the pole are key to acquiring good quality data. It is also recommended that where possible, the motion reference unit (MRU) be installed and ‘tightly coupled’ on the pole at the transducer. 
@@ -793,32 +790,21 @@ Regardless of which method is used to deploy the swath system, it is important t
 
 This [website](http://www.bathyswath.com/installTransducers) provides additional information on various possible mounts and considerations. Note that the working group is not endorsing the company that this information is taken from.
 
-
-
-        9. 
-Dimension control of sensor offsets
+## Dimension control of sensor offsets
 Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see 
 
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [section 3.2](#heading=h.2dlolyb)).
 
-
-
-    7. 
-Project team
+# Project team
 The project team should include personnel with relevant and adequate experience in swath acoustic instrumentation and survey requirements. These may consist of qualified people from various backgrounds, such as geophysicists, geologists, engineers, and hydrographic surveyors, but also increasingly includes marine ecologists and spatial analysts that manage seafloor mapping programs. 
 
 It is recommended that for all survey reports each team member should be identified. This provides traceability for decisions and the data acquired. It is also highly recommended that a member of the team has completed professional training in the principles and operation of swath systems and provides evidence of recent field experience with swath acoustic systems.
 
+## Field survey instructions
 
-
-    8. 
-Field survey instructions
-
-
-        10. 
-Geodetic control and Horizontal Datum 
+### Geodetic control and Horizontal Datum 
 Seabed mapping surveys conducted within the Australian EEZ shall be referenced to a geodetic reference frame based on the International Terrestrial Reference System (ITRS), e.g. ITRF 2014 (GRS80 Spheroid) during collection.
 
 Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](#bookmark=id.3tbugp1); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
@@ -837,10 +823,7 @@ Proposed Horizontal control should be reviewed for accuracy and if local control
 
 Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Grid.
 
-
-
-        11. 
-Tidal or ellipsoidal datum
+### Tidal or ellipsoidal datum
 The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections 
 
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "2.5.2.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -879,26 +862,17 @@ Typically, post-processing would involve:
 
 Transformation to the required ‘publication datum’ can be made after this process but retains the benefits of being connected to the global datum. These transformations can be done using [AusCoastVDT](https://www.icsm.gov.au/publications/australian-coastal-vertical-datum-transformation-auscoastvdt-software), which is a free software tool with a blanket accuracy of ± 0.5 m for MSL to LAT reductions. AusCoastVDT was developed by the Intergovernmental Committee on Surveying and Mapping, a collaboration between the Australian states, defence force and New Zealand.
 
-
-
-            5. 
-Ellipsoidal Datum
+### Ellipsoidal Datum
 With the advancement of modern GNSS positioning systems and post-processing methods, ellipsoidal datum connections can be employed as an alternative to the Lowest Astronomical Tide (LAT) or chart datum (CD) connections. The GRS80 ellipsoid vertical reference surface has benefits to scientific and environmental disciplines with a consistent surface separation of seafloor features globally.
 
 When used in conjunction with GNSS connected/levelled tide gauge data, connections to CD/LAT can be estimated where required. For details on the issues of this method see “Ellipsoidally Referenced Surveying for Hydrography” (FIG, 2014).
 
-
-
-            6. 
-Tidal Datum
+### Tidal Datum
 When surveying for the purposes of nautical charting, it is essential to have knowledge of local tides. In many areas around Australia, the tidal network infrastructure is sparse and additional temporary tidal infrastructure will be required. To acquire ‘observed tide’ from a tide gauge, a number of tide gauges will need to be installed depending on the tidal complexity of the environment, albeit it is desirable to have at least one gauge installed. 
 
 For specific advice regarding recommended tidal infrastructure for your survey area, please contact the Australian Hydrographic Office ([tides.support@defence.gov.au](file:///C:\Users\u99337\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\13SAM0XD\tides.support@defence.gov.au)).
 
-
-
-        12. 
-Sound velocity profiling
+## Sound velocity profiling
 Sound Velocity Profiling (SVP) of the water column is essential to the acquisition of swath mapping data, and is used for ray tracing through the water column. SVP influences directly the accuracy and uncertainty of both the horizontal and vertical position of each sounding and its impact is greatest towards the outer beams of the swath (farthest sounding). 
 
 Physical processes such as fresh water influx, solar warming of the upper water column, presence of mesoscale currents, and storm mixing can affect the temperature and salinity profile, and hence the SVP. These changes can occur at various spatial and temporal scales and can sometimes be observed in the water column backscatter data. 
@@ -913,18 +887,12 @@ Acquisition of SVPs must be planned to identify the relevant number and distribu
 4. calculation of the SVP using CTD (Conductivity/Temperature/Depth) data and applying the [UNESCO formula](https://www.usna.edu/Users/physics/ejtuchol/documents/SP411/Chapter4.pdf)
 5. calculation of the SVP from sea surface temperature and climatology using SVP builder software (Sinquin et al. 2016).
 
-
-
-        13. 
-Time and date
+## Time and date
 All digital data, field notebooks (logs) and samples should be set and recorded using the Coordinated Universal Time (UTC) and associated date. 
 
 For descriptive text used in reporting, the time zone should be clearly specified (AWST, ACST, and AEST).
 
-
-
-        14. 
-Line planning
+## Line planning
 Survey line planning will vary based on the seafloor mapping objectives. However, the following minimum recommendations have to be taken into consideration:
 
 
@@ -978,18 +946,12 @@ See
 
 [section 4.2](#heading=h.3vac5uf) which provides information regarding the project structure and nomenclature
 
-
-
-        15. 
-Seabed samples
+## Seabed samples
 Seabed samples are often acquired during a seafloor mapping survey for various purposes, including seabed characterisation and seafloor backscatter data calibration. It is thus recommended that procedures outlined in the relevant chapters of the ‘Field manuals for marine sampling to monitor Australian waters’ (Przeslawski and Foster 2018) are followed. 
 
 This manual recommends sending the samples to Geoscience Australia for analyses, such as grain-size, carbonate content, and results will be delivered in [MARS](http://dbforms.ga.gov.au/pls/www/npm.mars.search) public database. This analysis of samples contributes significantly to the knowledge of our seabed.
 
-
-
-    9. 
-Submission of plan, data and notifications
+# Submission of plan, data and notifications
 See sections 
 
 <p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "2.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
