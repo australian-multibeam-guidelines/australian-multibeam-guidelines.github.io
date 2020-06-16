@@ -232,7 +232,7 @@ _Table 6 Overview of required metadata._
     <li>Sensor Frequency</li>
     <li>Platform type</li>
     <li>Platform name</li>
-</tr>
+      </tr>
 </tbody>
 </table>
 <br>
