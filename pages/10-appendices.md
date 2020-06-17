@@ -369,11 +369,11 @@ _Table C1 List of documents relevant to multibeam activities in the Commonwealth
     <td colspan="2">Link</td>
   </tr>
   <tr>
-    <td rowspan="4">Research and monitoring<br></td>
+    <td rowspan="4"><strong>Research and monitoring</strong><br></td>
     <td>All activities</td>
     <td>Australian Marine Parks</td>
     <td>Department of Agriculture, Water and Environment (DAWE)</td>
-    <td>Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act)</td>
+    <td><i>Environment Protection and Biodiversity Conservation Act 1999 (Cth)</i> (EPBC Act)</td>
     <td>Authorisation is required for all zones</td>
     <td colspan="2"><a href="https://parksaustralia.gov.au/marine/contact/">https://parksaustralia.gov.au/marine/contact/</a></td>
   </tr>
@@ -397,12 +397,12 @@ _Table C1 List of documents relevant to multibeam activities in the Commonwealth
     <td>All activities</td>
     <td>Antarctica (south of 60°S)</td>
     <td>DAWE</td>
-    <td>Antarctic Treaty (Environment Protection) Act 1980<br>Antarctic Marine Living Resources Conservation (AMLRC) Act 1981</td>
-    <td>Authorisation and permit required<br>AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area</td>
+    <td>Antarctic Treaty (Environment Protection) Act 1980<br><i>Antarctic Marine Living Resources Conservation (AMLRC) Act 1981</i></td>
+    <td>Authorisation <strong>and</strong> permit required<br><i>AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area</i></td>
     <td colspan="2"><a href="https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits/">https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits//</a></td>
   </tr>
   <tr>
-    <td>Interactions with Cetaceans</td>
+    <td><strong>Interactions with Cetaceans</strong></td>
     <td>Acoustic equipment<br>with received exposure level 160dB re 1 µPa2.s for 95% of shot at 1km range (seismic)</td>
     <td>EEZ 3 – 200nm</td>
     <td>DAWE</td>
@@ -420,16 +420,16 @@ _Table C1 List of documents relevant to multibeam activities in the Commonwealth
     <td colspan="2"><a href="https://www.legislation.gov.au/Details/F2016C00914">https://www.legislation.gov.au/Details/F2016C00914</a></td>
   </tr>
   <tr>
-    <td>Interaction with Heritage</td>
+    <td><strong>Interaction with Heritage</strong></td>
     <td>Historic Ship wrecks</td>
     <td>Continental shelf waters (incl. some areas &gt; 200 nm)</td>
     <td>DAWE</td>
-    <td>Historic Shipwrecks Act 1976 (Cth)</td>
+    <td><i>Historic Shipwrecks Act 1976 (Cth)</i></td>
     <td>Ship wrecks and relics older than 75 years and lying within protected zones. </td>
     <td colspan="2"><a href="http://www.environment.gov.au/heritage/historic-shipwrecks">http://www.environment.gov.au/heritage/historic-shipwrecks</a></td>
   </tr>
   <tr>
-    <td>Restricted vessel movement and moored scientific equipment that create navigation hazards</td>
+    <td><strong>Restricted vessel movement and moored scientific equipment that create navigation hazards</strong></td>
     <td></td>
     <td></td>
     <td>Australian Hydrographic Service AHS<br>Australian Marine Safety AMSA</td>
@@ -438,20 +438,20 @@ _Table C1 List of documents relevant to multibeam activities in the Commonwealth
     <td colspan="2"><a href="https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database">https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database</a><br><a href="mailto:datacentre@hydro.gov.au">datacentre@hydro.gov.au</a><br><a href="mailto:rccaus@amsa.gov.au">rccaus@amsa.gov.au</a></td>
   </tr>
   <tr>
-    <td>Research in the Great Barrier Reef Marine Park GBRMP</td>
+    <td><strong>Research in the Great Barrier Reef Marine Park GBRMP</strong></td>
     <td>Research, except for limited impact research.</td>
     <td>GBRMP</td>
     <td>Great Barrier Reef Marine Park Authority GBRMPA</td>
-    <td>Great Barrier Reef Marine Park Act 1975 (Cth)<br>EPBC Act</td>
+    <td><i>Great Barrier Reef Marine Park Act 1975 (Cth)<br>EPBC Act</i></td>
     <td>Limited impact research may be conducted under a letter of authority issued by an accredited educational or research institutions All other research requires permission</td>
     <td colspan="2"><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits</a><br><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions</a></td>
   </tr>
   <tr>
-    <td>Research around petroleum and other infrastructure</td>
+    <td><strong>Research around petroleum and other infrastructure</strong></td>
     <td></td>
     <td>3nm seaward to EEZ or outer limits of the continental shelf</td>
     <td></td>
-    <td>Sea Installations Act 1987</td>
+    <td><i>Sea Installations Act 1987</i></td>
     <td>Vessels prohibited to go within a safety zone of 500m</td>
     <td colspan="2"><a href="http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations">http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations</a></td>
   </tr>
