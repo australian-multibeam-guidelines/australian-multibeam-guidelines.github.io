@@ -458,48 +458,26 @@ The figure below shows the pattern to use for the patch test of a MBES system wi
 For **backscatter calibration**, run the line schema for various modes. Alternatively, change the settings along a line where the seafloor is expected to be homogeneous.
 
 
-
-<p id="gdcalert68" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert69">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
+![alt_text](images/figures/imageF1.png "image_tooltip")
 
 _Figure F1 Proposed line pattern for single head sonar patch test_
 
 
-
-<p id="gdcalert69" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert70">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
+![alt_text](images/figures/imageF2.png "image_tooltip")
 
 _Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
-
-
 
 
 # Appendix G – IHO Standards <br>
 
 _Table G12 IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
 
+![alt_text](images/figures/imageG1.png "image_tooltip")
 
 
-<p id="gdcalert70" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert71">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
 _Table G2 HIPP standards for hydrographic surveys (AHO, 2018)_
 
-
-
-<p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
-
+![alt_text](images/figures/imageG2.png "image_tooltip")
 
 # Appendix H – Records templates
 
