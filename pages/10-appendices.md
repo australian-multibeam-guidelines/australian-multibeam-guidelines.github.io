@@ -882,3 +882,382 @@ _Table H1 Required Metadata for data submitted to AusSeabed_
 ![alt_text](images/figures/imageH2.png "image_tooltip")
 
 # _H.4 Report of Survey template_
+
+
+<p>
+The following template has been modified from AHO Survey Summary Template, which can be found in full <a href="http://www.hydro.gov.au/prodserv/data/hydro-data.htm">here</a>. Guidance on Confidence Levels and Error Ellipse scaling is contained in ICSM (2014a), uncertainties from IHO publication S-44 or by contacting the Bathymetric Data Assessment Section at the Australian Hydrographic Office on 02 4223 6500.
+</p>
+<p>
+<strong>Introduction</strong>
+</p>
+
+<table>
+  <tr>
+   <td><strong>Survey Title and ID</strong>
+   </td>
+   <td><strong>Locality</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Survey Authority</strong>
+   </td>
+   <td><strong>Survey Sponsor/Custodian</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Surveyor in Charge and qualification</strong>
+   </td>
+   <td><strong>Date this Survey Summary was completed</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Start Date of Survey</strong>
+   </td>
+   <td><strong>End Date of Survey</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Survey Platform/Vessel Name</strong>
+   </td>
+   <td><strong>Survey Platform/Vessel Name</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Purpose of the Survey</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+   </td>
+  </tr>
+</table>
+
+
+<p>
+<strong>Horizontal Control</strong>
+</p>
+
+<table>
+  <tr>
+   <td colspan="2" ><strong>Soundings are on the following datum (WGS84 preferred but not essential)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Datum</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Spheroid</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Projection and Zone</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Was the positioning system validated?</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Were laybacks applied?</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Estimated horizontal accuracy of soundings at 2 Sigma (95%) confidence level (Calculations can be included as an attachment. Don’t know? Enter “Not Known”)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<p>
+<strong>Vertical Control</strong>
+</p>
+
+<table>
+  <tr>
+   <td><strong>Tides Applied</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Soundings Datum</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Tide Station 1 Details</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Benchmark (BM) used and Datum connection</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Geoid details if using GPS tides</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Tide Station 2 Details</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Benchmark (BM) used and Datum connection</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Geoid details if using GPS tides</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Tide Station 3 Details</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Benchmark (BM) used and Datum connection</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Geoid details if using GPS tides</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><strong>Tide Model comments (if applicable)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Were soundings corrected for draught?</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Were the soundings corrected for sound velocity?</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Estimated vertical accuracy of soundings at 1.96 Sigma (95%) confidence level (Calculations can be included as an attachment. Don’t know? Enter “Not Known”)</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td colspan="3" ><strong>The following positioning systems were used:</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Positioning System 1</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Positioning System 2</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Base station (If applicable)</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong>The following sounding systems were used:</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong>Model / System Details           Frequency (kHz)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Echosounder 1</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Echosounder 2</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong>Logging and Processing Systems used, and Versions:</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Logging</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Processing</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Was the survey systematically controlled with planned survey lines or methods?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Was full feature detection achieved as defined in IHO publication S-44, Edition 5, February 2008?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>If feature detection was achieved, what Order of features is applicable?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong>Feature detection comments (if applicable)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Were all shoal depths systematically investigated and their least depths determined?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Has data been thinned from that collected?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td><strong>If thinned, what thinning method and bin size was used?</strong>
+   </td>
+   <td colspan="2" >
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" ><strong>Remarks (If applicable)</strong>
+   </td>
+  </tr>
+</table>
+
+
+<p>
+<strong>Shoals and Dangers</strong>
+</p>
+
+<table>
+  <tr>
+   <td><strong>This section seeks comments on any features that may be dangerous to surface navigation. (Comments as required. General location and depth references, pictures, screen dumps, etc. will assist. Has a Hydrographic Note or Danger to Navigation Report been submitted?)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<p>
+<strong>Wrecks</strong>
+</p>
+
+<table>
+  <tr>
+   <td><strong>This section seeks comments on any wrecks detected during the course of survey. (Comments as required. General location and depth references, pictures, screen dumps, etc. will assist.)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+  </tr>
+</table>
+
