@@ -31,24 +31,16 @@ See also section 10 of AHO, 2018 for more information on processing.
 Please keep a processing log that records what processing software and settings are used to prepare the backscatter mosaic. When you process, it is important to specify the imagery type (Beam Average/Time Series); Beam Pattern Correction (yes/no); and Anti-aliasing (yes/no) selection.
 
 Mandatory information to record for the backscatter data processing is:
-
-•	the AVG window size 
-
-•	AVG method
-
-•	beam Pattern Correction (yes/no – if yes, please provide the beam pattern file)
-
-•	the imagery type (Beam Average/Time Series)
-
-•	gain (yes/no)
-
-•	time varying gain (yes/no)
+*   the AVG window size 
+*   AVG method
+*   beam Pattern Correction (yes/no – if yes, please provide the beam pattern file)
+*   the imagery type (Beam Average/Time Series)
+*   gain (yes/no)
+*   time varying gain (yes/no)
 
 Other image processing information that is useful but not mandatory:
-
-•	the speckle option (to remove noise)
-
-•	anti-aliasing (yes/no) 
+*   the speckle option (to remove noise)
+*   anti-aliasing (yes/no) 
 
 Further details about best-practice for backscatter data acquisition can be found in Lamarche and Lurton (2017).
 
