@@ -278,4 +278,3 @@ The principles developed in the preceding chapters of these guidelines should st
 </ul>
    </td>
   </tr>
-</table>
