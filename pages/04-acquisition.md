@@ -84,7 +84,7 @@ Most seafloor mapping and GNSS software provide real-time monitoring capabilitie
 
 # 4.6 Mandatory notifications
 # _4.6.1 Dangers found – hydrographic notes_
-It is **imperative** that any feature found, which may be a <span style="text-decoration:underline;">potential navigational hazard</span> to vessels, **is reported to the AHO** by hydrographic note ([AHO, AH102](http://www.hydro.gov.au/feedback/AA217160-hydro-note.pdf)) and <span style="text-decoration:underline;">if an immediate danger exists</span>,** the Joint Rescue Coordination Centre (JRCC) Australia (AMSA)**. Once danger is reported and received by these agencies, the agencies noted assume responsibility for further reporting to mariners. Should reports not be lodged and an incident occurs, liability may be passed on to operators who failed to notify dangers during operational activities.
+It is **imperative** that any feature found, which may be a <span style="text-decoration:underline;">potential navigational hazard</span> to vessels, **is reported to the AHO** by hydrographic note ([AHO, AH102](http://www.hydro.gov.au/feedback/AA217160-hydro-note.pdf)) and <span style="text-decoration:underline;">if an immediate danger exists</span>, **the Joint Rescue Coordination Centre (JRCC) Australia (AMSA)**. Once danger is reported and received by these agencies, the agencies noted assume responsibility for further reporting to mariners. Should reports not be lodged and an incident occurs, liability may be passed on to operators who failed to notify dangers during operational activities.
 
 # _4.6.2 Underwater cultural heritage notification_
 Thousands of historic ship and plane wrecks are known to exist within Australian waters, although the locations of many of these remain unknown. Information about known shipwrecks can be found using the [Australian National Shipwreck Database](http://environment.gov.au/heritage/historic-shipwrecks/australian-national-shipwreck-database). Notifying relevant State and Commonwealth management agencies, when underwater cultural heritage sites are discovered, will greatly assist these organisations to manage fragile and irreplaceable resources (Table 8). Notification of underwater cultural heritage finds is also a legal requirement under the _[Historic Shipwrecks Act 1976](https://www.legislation.gov.au/Details/C2016C01026) _(Cth) (HSA)_ _and state heritage protection legislation (see section 17 (1) of the Act).
@@ -95,32 +95,32 @@ _Table 8 Contact details of management agencies to notify for wrecks_
 <table>
 <tbody>
   <tr>
-    <td>Commonwealth:<br>Historic Heritage SectionDepartment of the Environment and EnergyGPO Box 787CANBERRA ACT 2601Tel: (02) 6274 2116Website: <a href="http://www.environment.gov.au/heritage/historic-shipwrecks">www.environment.gov.au/heritage/historic-shipwrecks</a></td>
-    <td>Northern Territory:<br>Heritage BranchDepartment of Lands, Planning and the EnvironmentGPO Box 1680DARWIN NT 0801Tel: (08) 8999 5039Email: heritage@nt.gov.auWebsite: <a href="http://www.dlp.nt.gov.au/heritage/maritime-heritage">www.dlp.nt.gov.au/heritage/maritime-heritage</a></td>
+    <td><strong>Commonwealth:</strong><br>Historic Heritage SectionDepartment of the Environment and EnergyGPO Box 787CANBERRA ACT 2601Tel: (02) 6274 2116Website: <a href="http://www.environment.gov.au/heritage/historic-shipwrecks">www.environment.gov.au/heritage/historic-shipwrecks</a></td>
+    <td><strong>Northern Territory:</strong><br>Heritage BranchDepartment of Lands, Planning and the EnvironmentGPO Box 1680DARWIN NT 0801Tel: (08) 8999 5039Email: heritage@nt.gov.auWebsite: <a href="http://www.dlp.nt.gov.au/heritage/maritime-heritage">www.dlp.nt.gov.au/heritage/maritime-heritage</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Commonwealth:<br>Great Barrier Reef Marine Park AuthorityHeritage, International and GovernanceProject Manager, Maritime Cultural HeritageGPO Box 1379TOWNSVILLE QLD Tel: (07) 4750 0618 <br>Email: <a href="mailto:info@gbrmpa.gov.au">info@gbrmpa.gov.au</a>Website: <a href="http://www.gbrmpa.gov.au/">www.gbrmpa.gov.au/</a> </td>
-    <td>South Australia:<br>State Heritage UnitDepartment for Environment, Water and Natural ResourcesGPO Box 1047ADELAIDE SA 5001Tel: 08) 8124 4960Email: DEWNRheritage@sa.gov.auWebsite: <a href="http://www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage%20">www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage </a></td>
+    <td><strong>Commonwealth:</strong><br>Great Barrier Reef Marine Park AuthorityHeritage, International and GovernanceProject Manager, Maritime Cultural HeritageGPO Box 1379TOWNSVILLE QLD Tel: (07) 4750 0618 <br>Email: <a href="mailto:info@gbrmpa.gov.au">info@gbrmpa.gov.au</a>Website: <a href="http://www.gbrmpa.gov.au/">www.gbrmpa.gov.au/</a> </td>
+    <td><strong>South Australia:</strong><br>State Heritage UnitDepartment for Environment, Water and Natural ResourcesGPO Box 1047ADELAIDE SA 5001Tel: 08) 8124 4960Email: DEWNRheritage@sa.gov.auWebsite: <a href="http://www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage%20">www.environment.sa.gov.au/our-places/cultural-heritage/Maritime_heritage </a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Queensland:<br>Heritage BranchDepartment of Environment and Heritage ProtectionGPO Box 2454BRISBANE QLD 4001Tel: 13 74 68Email:  info@ehp.qld.gov.auWebsite: <a href="http://www.qld.gov.au/environment/land/heritage/archaeology/maritime/%20">www.qld.gov.au/environment/land/heritage/archaeology/maritime/ </a></td>
-    <td>Tasmania:<br>Historic HeritageParks and Wildlife ServiceGPO Box 1751HOBART TAS 7001Tel: 1300 827 727Email: mike.nash@parks.tas.gov.auWebsite: <a href="http://www.parks.tas.gov.au/index.aspx?base=1729">www.parks.tas.gov.au/index.aspx?base=1729</a></td>
+    <td><strong>Queensland:</strong><br>Heritage BranchDepartment of Environment and Heritage ProtectionGPO Box 2454BRISBANE QLD 4001Tel: 13 74 68Email:  info@ehp.qld.gov.auWebsite: <a href="http://www.qld.gov.au/environment/land/heritage/archaeology/maritime/%20">www.qld.gov.au/environment/land/heritage/archaeology/maritime/ </a></td>
+    <td><strong>Tasmania:</strong><br>Historic HeritageParks and Wildlife ServiceGPO Box 1751HOBART TAS 7001Tel: 1300 827 727Email: mike.nash@parks.tas.gov.auWebsite: <a href="http://www.parks.tas.gov.au/index.aspx?base=1729">www.parks.tas.gov.au/index.aspx?base=1729</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>New South Wales:<br>Heritage DivisionOffice of Environment and HeritageLocked Bag 5020PARRAMATTA NSW 2124Tel: (02) 9873 8500Email: heritage@heritage.nsw.gov.auWebsite: <a href="http://www.environment.nsw.gov.au/maritimeheritageapp/WebsiteSearch.aspx%20">www.environment.nsw.gov.au/maritimeheritageapp/WebsiteSearch.aspx </a></td>
-    <td>Victoria:<br>Heritage VictoriaDepartment of Planning and Community DevelopmentGPO Box 2392MELBOURNE VIC 3001Tel: (03) 9938 6894Email: heritage.victoria@delwp.vic.gov.auWebsite: <a href="http://www.dtpli.vic.gov.au/heritage/shipwrecks-and-maritime">www.dtpli.vic.gov.au/heritage/shipwrecks-and-maritime</a></td>
+    <td><strong>New South Wales:</strong><br>Heritage DivisionOffice of Environment and HeritageLocked Bag 5020PARRAMATTA NSW 2124Tel: (02) 9873 8500Email: heritage@heritage.nsw.gov.auWebsite: <a href="http://www.environment.nsw.gov.au/maritimeheritageapp/WebsiteSearch.aspx%20">www.environment.nsw.gov.au/maritimeheritageapp/WebsiteSearch.aspx </a></td>
+    <td><strong>Victoria:</strong><br>Heritage VictoriaDepartment of Planning and Community DevelopmentGPO Box 2392MELBOURNE VIC 3001Tel: (03) 9938 6894Email: heritage.victoria@delwp.vic.gov.auWebsite: <a href="http://www.dtpli.vic.gov.au/heritage/shipwrecks-and-maritime">www.dtpli.vic.gov.au/heritage/shipwrecks-and-maritime</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Norfolk Island:<br>Norfolk Island MuseumKingstonNORFOLK ISLAND 2899Tel: (0011) 672 323 788Email: admin@museums.gov.nfWebsite: <a href="http://norfolkislandmuseum.com.au/exhibitions/hms-sirius/%20">http://norfolkislandmuseum.com.au/exhibitions/hms-sirius/ </a></td>
-    <td>Western Australia:<br>Western Australian MuseumMaritime Archaeology Department45-47 Cliff StreetFREMANTLE WA 6160Tel: (01) 300 134 081Email: reception@museum.wa.gov.auWebsite:  <a href="http://museum.wa.gov.au/research/research-areas/maritime-archaeology">http://museum.wa.gov.au/research/research-areas/maritime-archaeology</a></td>
+    <td><strong>Norfolk Island:</strong><br>Norfolk Island MuseumKingstonNORFOLK ISLAND 2899Tel: (0011) 672 323 788Email: admin@museums.gov.nfWebsite: <a href="http://norfolkislandmuseum.com.au/exhibitions/hms-sirius/%20">http://norfolkislandmuseum.com.au/exhibitions/hms-sirius/ </a></td>
+    <td><strong>Western Australia:</strong><br>Western Australian MuseumMaritime Archaeology Department45-47 Cliff StreetFREMANTLE WA 6160Tel: (01) 300 134 081Email: reception@museum.wa.gov.auWebsite:  <a href="http://museum.wa.gov.au/research/research-areas/maritime-archaeology">http://museum.wa.gov.au/research/research-areas/maritime-archaeology</a></td>
     <td></td>
     <td></td>
   </tr>

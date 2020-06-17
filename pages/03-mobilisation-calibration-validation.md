@@ -25,7 +25,7 @@ The mobilisation, calibration and validation process will vary between vessels. 
 7. Check vessel sounder or engine vibration and noise over engine revolution range. Test a range of survey speeds for noise changes. Where possible check the swath systems performance at desired survey speed and sea state.
 8. Check sky view of observed GNSS satellites in positioning system and minimise radio interference on GNSS antennas. Lost GNSS observations cannot be recovered.
 9. Perform all manufacturer’s self-tests and calibrations (positioning system, swath sonar, sound velocity instruments) to ensure validity of entire system. This includes a patch test ([section 3.5](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#35-patch-test))
-10. Record all sign conventions and calibrated geometries of installed sensors (screen captures and reports;[section 6.1](https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records)).
+10. Record all sign conventions and calibrated geometries of installed sensors (screen captures and reports; [section 6.1](https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records)).
 11. Backup system and parameter files on a separate location. This is also important for rolling back configurations when accidental, unknown system changes are made.
 12. Preferably complete mobilisation and testing before leaving port for the survey area.
 13. Check tidal observation equipment for connections to local tidal datum if required.
