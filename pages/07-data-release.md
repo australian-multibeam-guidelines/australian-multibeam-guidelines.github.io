@@ -32,101 +32,57 @@ In the future, a data submission portal will be integrated with the Survey Coord
 *   Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit/). Note that user registration is required, but this is free and immediate.
 
 _Table 10 Data required for submission to AusSeabed_
-
-
 <table>
+<thead>
   <tr>
-   <td><strong>Deliverable item</strong>
-   </td>
-   <td><strong>Information</strong>
-   </td>
+    <th>Deliverable item</th>
+    <th>Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>L0 data (unprocessed instrument data)</td>
+    <td>Description: It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see<a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#heading=h.3as4poj"> section 2.3.1.2</a><br>Data format: native format as produced by the acquisition system (see <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.49x2ik5">table 5</a> for formats) <br>Datagram: logged automatically for Kongsberg EM series. However, for Reson SeaBat, datagrams with the following IDs are required: 1003, 1012, 1013, 7000, 7001, 7002, 7004, 7006, 7005, 7007, 7012, 7018, 7022, 7028, 7200, and 7504.</td>
   </tr>
   <tr>
-   <td>L0 data (unprocessed instrument data)
-   </td>
-   <td>Description: It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see <a href="#heading=h.3as4poj"> section 2.3.1.2</a>
-<p>
-Data format: native format as produced by the acquisition system (see <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">table 5</a> for formats) 
-<p>
-Datagram: logged automatically for Kongsberg EM series. However, for Reson SeaBat, datagrams with the following IDs are required: 1003, 1012, 1013, 7000, 7001, 7002, 7004, 7006, 7005, 7007, 7012, 7018, 7022, 7028, 7200, and 7504.
-   </td>
+    <td>True Heave</td>
+    <td>Description: Delayed, processed heave saved independently from raw sonar file, logged in 600-720 minutes period.<br>Data format: Applanix True Heave or equivalent</td>
   </tr>
   <tr>
-   <td>True Heave
-   </td>
-   <td>Description: Delayed, processed heave saved independently from raw sonar file, logged in 600-720 minutes period.
-<p>
-Data format: Applanix True Heave or equivalent
-   </td>
+    <td>Coverage shape file</td>
+    <td>Description: Shape file showing the coverage of the collected data. <br>Data format: GeoJSON (compulsory)</td>
   </tr>
   <tr>
-   <td>Coverage shape file
-   </td>
-   <td>Description: Shape file showing the coverage of the collected data. 
-<p>
-Data format: GeoJSON (compulsory)
-   </td>
+    <td>L2 data (Derived geophysical/georeferenced variables)</td>
+    <td>Description: Processed multibeam bathymetry data, including processed multibeam backscatter data (if collected)<br>Data format: .GSF (compulsory)</td>
   </tr>
   <tr>
-   <td>L2 data (Derived geophysical/georeferenced variables)
-   </td>
-   <td>Description: Processed multibeam bathymetry data, including processed multibeam backscatter data (if collected)
-<p>
-Data format: .GSF (compulsory)
-   </td>
+    <td>L3 data (Variables mapped to a grid)</td>
+    <td>Description: Processed multibeam bathymetry surface grid (for BAG the TPU is a compulsory inclusion)<br>Data format: 32-bit floating point GeoTIFF and BAG (both compulsory)</td>
   </tr>
   <tr>
-   <td>L3 data (Variables mapped to a grid)
-   </td>
-   <td>Description: Processed multibeam bathymetry surface grid (for BAG the TPU is a compulsory inclusion)
-<p>
-Data format: 32-bit floating point GeoTIFF and BAG (both compulsory)
-   </td>
+    <td>Visual Imagery</td>
+    <td>Description: Two visual images of the bathymetric surface one with sun illumination from two orthogonal directions and the other with five time’s vertical exaggeration. These images are for quick manual inspection of the data quality.<br>Data Format: 8-bit or 24-bit RGB GeoTIFF</td>
   </tr>
   <tr>
-   <td>Visual Imagery
-   </td>
-   <td>Description: Two visual images of the bathymetric surface one with sun illumination from two orthogonal directions and the other with five time’s vertical exaggeration. These images are for quick manual inspection of the data quality.
-<p>
-Data Format: 8-bit or 24-bit RGB GeoTIFF
-   </td>
+    <td>Processed backscatter mosaic</td>
+    <td>Description: Processed multibeam time-series generated backscatter mosaic<br>Data format: 32-bit floating point GeoTIFF (values have to be provided in dB).</td>
   </tr>
   <tr>
-   <td>Processed backscatter mosaic
-   </td>
-   <td>Description: Processed multibeam time-series generated backscatter mosaic
-<p>
-Data format: 32-bit floating point GeoTIFF (values have to be provided in dB).
-   </td>
+    <td>Sound velocity profile</td>
+    <td>Description: Sound velocity casts used in SIS or equivalent acquisition system together<br>Data format: ASCII *.csv, *.asvp, *.svp</td>
   </tr>
   <tr>
-   <td>Sound velocity profile
-   </td>
-   <td>Description: Sound velocity casts used in SIS or equivalent acquisition system together
-<p>
-Data format: ASCII *.csv, *.asvp, *.svp
-   </td>
+    <td>Log file (SVP cast)</td>
+    <td>Description: SVP cast info (date, time, depth of cast and seafloor, location and line applied to)<br>Data format: ASCII text</td>
   </tr>
   <tr>
-   <td>Log file (SVP cast)
-   </td>
-   <td>Description: SVP cast info (date, time, depth of cast and seafloor, location and line applied to)
-<p>
-Data format: ASCII text
-   </td>
+    <td>Records (Report and log)</td>
+    <td>As per section 6 of the Australian Multibeam Guidelines</td>
   </tr>
   <tr>
-   <td>Records (Report and log)
-   </td>
-   <td>As per section 6 of the Australian Multibeam Guidelines
-   </td>
+    <td>Metadata</td>
+    <td>Description: Metadata should as a minimum conform to the list of attributes outlined in <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#heading=h.147n2zr">section 2.3.1.3 </a>and described in detail in <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.302dr9l">appendix H.2</a><br>Data format: .xml (preferred) txt file or spreadsheet also accepted</td>
   </tr>
-  <tr>
-   <td>Metadata
-   </td>
-   <td>Description: Metadata should as a minimum conform to the list of attributes outlined in <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">section 2.3.1.3 </a>and described in detail in <a href="https://australian-multibeam-guidelines.github.io/appendices#h2-ausseabed-minimum-required-metadata">appendix H.2</a>
-<p>
-Data format: .xml (preferred) txt file or spreadsheet also accepted
-   </td>
-  </tr>
+</tbody>
 </table>
