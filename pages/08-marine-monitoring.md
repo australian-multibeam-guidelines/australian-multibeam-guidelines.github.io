@@ -17,11 +17,7 @@ The principles developed in the preceding chapters of these guidelines should st
 </p>
 <p>
 
-
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image6.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
