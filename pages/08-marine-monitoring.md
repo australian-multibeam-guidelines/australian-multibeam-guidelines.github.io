@@ -45,9 +45,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Used for repeat mapping and for targeting key habitats for monitoring purposes.
 </li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Pre survey preparation
    </td>
