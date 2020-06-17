@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-## Appendix A – Abbreviations 
+# Appendix A – Abbreviations 
 
 _Table A1 Abbreviations used in this document._
 
@@ -310,7 +310,7 @@ _Table A1 Abbreviations used in this document._
   </tr>
 </table>
 
-## Appendix B – Glossary
+# Appendix B – Glossary
 
 Below are some of the terms used in this guideline. However, more terms and definitions can be found in Table 2.1.2 of AHO, 2008.
 
@@ -357,220 +357,18 @@ _Figure B210 200% swath coverage with 100% overlap (AHO, 2018)_
 **Water Column backscatter:** Recently developed multibeam sonars have the capability to record the sonar time series for each beam, which maps the water column in addition to the seafloor. Water column data could be used for direct mapping of fish and marine mammals, the mapping of plumes and vents, the location of mid-water targets, and a wide range of physical oceanographic processes. 
 
 
-## Appendix C – Legislation and permitting 
+# Appendix C – Legislation and permitting 
 
 _Table C1 List of documents relevant to multibeam activities in the Commonwealth waters (defined as 3 nautical miles seaward to the outer boundary of the EEZ, 200 nautical miles).  Extracted from Marine Sampling Field Manuals (Przeslawski and Foster, 2018). Similar issues should be considered when working in coastal waters of States and the Northern Territory._
 
-<table>
-  <tr>
-   <td><strong>Activity</strong>
-   </td>
-   <td><strong>Activity Type</strong>
-   </td>
-   <td><strong>Jurisdiction</strong>
-   </td>
-   <td><strong>Responsible Agency</strong>
-   </td>
-   <td><strong>Legislation/Treaty/ Documents</strong>
-   </td>
-   <td><strong>Requirements for approval</strong>
-   </td>
-   <td colspan="2" ><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="4" ><strong>Research and monitoring</strong>
-   </td>
-   <td>All activities
-   </td>
-   <td>Australian Marine Parks
-   </td>
-   <td>Department of Agriculture, Water and Environment (DAWE)
-   </td>
-   <td><em>Environment Protection and Biodiversity Conservation Act 1999 (Cth) </em>(EPBC Act)
-   </td>
-   <td>Authorisation is required for all zones
-   </td>
-   <td colspan="2" ><a href="https://parksaustralia.gov.au/marine/contact/">https://parksaustralia.gov.au/marine/contact/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Activities with potentially significant impact on a matter of national environmental significance
-   </td>
-   <td>EEZ 3 – 200nm
-   </td>
-   <td>DAWE
-   </td>
-   <td>Australian Marine Park Management Plans
-<p>
-EPBC Act
-   </td>
-   <td>EPBC Act referral
-<p>
-Public consultation, including indigenous stakeholders
-   </td>
-   <td colspan="2" ><a href="http://www.environment.gov.au/protection/environment-assessments/">http://www.environment.gov.au/protection/environment-assessments/</a>
-<p>
-<a href="http://www.environment.gov.au/epbc/what-is-protected">http://www.environment.gov.au/epbc/what-is-protected</a>
-   </td>
-  </tr>
-  <tr>
-   <td>All activities
-   </td>
-   <td>Heard Island and McDonald Islands
-   </td>
-   <td>DAWE
-   </td>
-   <td>Environment Protection and Management Ordinance 1987 (HIMI) \
-EPBC Regulations 2000
-   </td>
-   <td>Permit required
-   </td>
-   <td colspan="2" ><em><a href="https://www.antarctica.gov.au/living-and-working/travel-and-logistics/cargo-and-freight/types-of-cargo/scientific-samples/environmental-approvals/">https://www.antarctica.gov.au/living-and-working/travel-and-logistics/cargo-and-freight/types-of-cargo/scientific-samples/environmental-approvals/</a></em>
-   </td>
-  </tr>
-  <tr>
-   <td>All activities
-   </td>
-   <td>Antarctica (south of 60°S)
-   </td>
-   <td>DAWE
-   </td>
-   <td>Antarctic Treaty (Environment Protection) Act 1980
-<p>
-<em>Antarctic Marine Living Resources Conservation (AMLRC) Act 1981</em>
-   </td>
-   <td>Authorisation <strong><em><span style="text-decoration:underline;">and </span></em></strong>permit required
-<p>
-<em>AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area</em>
-   </td>
-   <td colspan="2" ><em><a href="https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits/">https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits//</a></em>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Interactions with Cetaceans</strong>
-   </td>
-   <td>Acoustic equipment
-<p>
-with received exposure level 160dB re 1 µPa2.s for 95% of shot at 1km range (seismic)
-   </td>
-   <td>EEZ 3 – 200nm
-   </td>
-   <td>DAWE
-   </td>
-   <td>EPBC Act Policy Statement 2.1
-   </td>
-   <td>EPBC Referral and comply with Policy Statement 2.1
-   </td>
-   <td colspan="2" ><a href="http://www.environment.gov.au/resource/epbc-act-policy-statement-21-interaction-between-offshore-seismic-exploration-and-whales">http://www.environment.gov.au/resource/epbc-act-policy-statement-21-interaction-between-offshore-seismic-exploration-and-whales</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Vessel interaction
-   </td>
-   <td>EEZ 3 – 200nm 
-   </td>
-   <td>DAWE
-   </td>
-   <td><em>EPBC Act. Regulations 2000</em> (Cth) (EPBC Regulations)<em> </em>part 8
-   </td>
-   <td>Report death, injury, stranding or entanglement of whales and dolphins to DoEE. Specific requirements for vessels
-   </td>
-   <td colspan="2" ><a href="https://www.legislation.gov.au/Details/F2016C00914">https://www.legislation.gov.au/Details/F2016C00914</a>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Interaction with Heritage</strong>
-   </td>
-   <td>Historic Ship wrecks
-   </td>
-   <td>Continental shelf waters (incl. some areas > 200 nm)
-   </td>
-   <td>DAWE
-   </td>
-   <td><em>Historic Shipwrecks Act 1976 (Cth)</em>
-   </td>
-   <td>Ship wrecks and relics older than 75 years and lying within protected zones. 
-   </td>
-   <td colspan="2" ><a href="http://www.environment.gov.au/heritage/historic-shipwrecks">http://www.environment.gov.au/heritage/historic-shipwrecks</a>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Restricted vessel movement and moored scientific equipment that create navigation hazards</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Australian Hydrographic Service AHS
-<p>
-Australian Marine Safety AMSA
-   </td>
-   <td>
-   </td>
-   <td>Notice to mariners 2-3 weeks prior to survey commences.
-<p>
-Vessel to RCC to update NAVAREA X alerts
-   </td>
-   <td colspan="2" ><a href="https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database">https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database</a>
-<p>
-<a href="mailto:datacentre@hydro.gov.au">datacentre@hydro.gov.au</a>
-<p>
-<a href="mailto:rccaus@amsa.gov.au">rccaus@amsa.gov.au</a>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Research in the Great Barrier Reef Marine Park GBRMP</strong>
-   </td>
-   <td>Research, except for limited impact research.
-   </td>
-   <td>GBRMP
-   </td>
-   <td>Great Barrier Reef Marine Park Authority GBRMPA
-   </td>
-   <td><em>Great Barrier Reef Marine Park Act 1975 (Cth)</em>
-<p>
-<em>EPBC Act</em>
-   </td>
-   <td>Limited impact research may be conducted under a letter of authority issued by an accredited educational or research institutions All other research requires permission
-   </td>
-   <td colspan="2" ><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits</a>
-<p>
-<a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Research around petroleum and other infrastructure
-   </td>
-   <td>
-   </td>
-   <td>3nm seaward to EEZ or outer limits of the continental shelf
-   </td>
-   <td>
-   </td>
-   <td><em>Sea Installations Act 1987</em>
-   </td>
-   <td>Vessels prohibited to go within a safety zone of 500m
-   </td>
-   <td colspan="2" ><a href="http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations">http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations</a>
-   </td>
-  </tr>
-</table>
-
 
 Laws and regulations regarding multibeam sonar acquisition in State and Territory waters (less than 3 nm from the coast) vary slightly across jurisdictions, but they are generally not restricted or subject to permit requirements, with the exception of:
-
-
-
 *   Survey undertaken in Marine Protected Areas (for guidance see Marine Protected Areas section above). 
 *   Survey carrying out extractive work (marine biota) or work that could be considered destructive to marine habitats. 
 *   Surveys undertaken across areas with access restrictions (e.g., naval waters, commercial ports, or shipping channels). 
 *   Surveys carried out In New South Wales for the purposes of resource exploration (permission through NSW Resources and Energy - Environment and Planning).
 
 _Table C.2 Web links to States and Territory permits_
-
 
 <table>
   <tr>
@@ -593,7 +391,7 @@ _Table C.2 Web links to States and Territory permits_
 
 
 
-## Appendix D – Guideline on timeframe for actions
+# Appendix D – Guideline on timeframe for actions
 
 _Table D1 Estimated time frame required to perform some of the swath system related tasks. These estimates are to assist in survey planning, but note that they can vary considerably depending on the difficulty or the issues arising from the task performed. _
 
@@ -653,7 +451,7 @@ _Table D1 Estimated time frame required to perform some of the swath system rela
 
 
 
-## Appendix E – Total Propagated Uncertainties 
+# Appendix E – Total Propagated Uncertainties 
 
 _Table E11Sounding Accuracy - Example MBES Total Propagated Uncertainty Estimates_
 
@@ -907,7 +705,7 @@ Estimated - Temporal and Spatial Variation
 
 
 
-## Appendix F – Patch test
+# Appendix F – Patch test
 
 The figure below shows the pattern to use for the patch test of a MBES system with one or two sonar heads configuration. 
 
@@ -936,7 +734,7 @@ _Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
 
 
 
-## Appendix G – IHO Standards <br>
+# Appendix G – IHO Standards <br>
 
 _Table G12 IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
 
@@ -957,7 +755,7 @@ _Table G2 HIPP standards for hydrographic surveys (AHO, 2018)_
 
 
 
-## Appendix H – Records templates
+# Appendix H – Records templates
 
 The following appendix provides suggested templates for Records that should be produced during a seabed mapping survey. These templates can also be downloaded on the [AusSeabed](http://www.ausseabed.gov.au/resources/guidelines) website (with the exception of the AusSeabed required metadata table.
 
@@ -1245,7 +1043,7 @@ special restrictions or limitations on obtaining the resource or metadata
 </table>
 
 
-**H.3 Survey log sheet templates**
+# _H.3 Survey log sheet templates_
 
 
 <table>
@@ -1972,7 +1770,7 @@ special restrictions or limitations on obtaining the resource or metadata
 
 
 
-### H.4 Report of Survey template
+## H.4 Report of Survey template
 
 The following template has been modified from AHO Survey Summary Template, which can be found in full [here](http://www.hydro.gov.au/prodserv/data/hydro-data.htm). Guidance on Confidence Levels and Error Ellipse scaling is contained in ICSM (2014a), uncertainties from IHO publication S-44 or by contacting the Bathymetric Data Assessment Section at the Australian Hydrographic Office on 02 4223 6500.
 
