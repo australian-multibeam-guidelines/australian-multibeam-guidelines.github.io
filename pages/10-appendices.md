@@ -358,16 +358,18 @@ _Figure B210 200% swath coverage with 100% overlap (AHO, 2018)_
 
 _Table C1 List of documents relevant to multibeam activities in the Commonwealth waters (defined as 3 nautical miles seaward to the outer boundary of the EEZ, 200 nautical miles).  Extracted from Marine Sampling Field Manuals (Przeslawski and Foster, 2018). Similar issues should be considered when working in coastal waters of States and the Northern Territory._
 <table>
-<tbody>
+<thead>
   <tr>
-    <td>Activity</td>
-    <td>Activity Type</td>
-    <td>Jurisdiction</td>
-    <td>Responsible Agency</td>
-    <td>Legislation/Treaty/ Documents</td>
-    <td>Requirements for approval</td>
-    <td colspan="2">Link</td>
+    <th>Activity</th>
+    <th>Activity Type</th>
+    <th>Jurisdiction</th>
+    <th>Responsible Agency</th>
+    <th>Legislation/Treaty/ Documents</th>
+    <th>Requirements for approval</th>
+    <th colspan="2">Link</th>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td rowspan="4"><strong>Research and monitoring</strong><br></td>
     <td>All activities</td>
