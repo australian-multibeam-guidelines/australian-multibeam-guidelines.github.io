@@ -1,31 +1,38 @@
 ---
 layout: home
 permalink: /marine-monitoring
-title: "Multibeam Acoustics for Marine Monitoring"
+title: "8. Multibeam Acoustics for Marine Monitoring"
 excerpt: ""
 image:
   feature: /banners/multibeam-banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-There are two particular needs for mapping and surveying when considering multibeam acoustics for marine monitoring, these can be defined as either baseline surveys or monitoring surveys. MBES can be used for both survey types, however, they have different acquisition and post-processing standards. A decision tree to help you decide on which set of specifications apply to the work you are carrying out is provided in [Figure 6](#bookmark=id.4anzqyu). A baseline survey is for exploratory purposes and data will be collected in a ‘single pass operation’. These data are used to map the distribution of marine benthic habitats at a particular spatial scale, and provide information necessary for more targeted field surveys using such tools as towed video, AUVs and stereo baited remote underwater video stations (BRUVs) (Lucieer et al. 2013, Monk et al. 2016). In contrast, a monitoring survey may have already identified target habitats or features (such as rocky outcrops) from previous broad scale or other hydrographic data that are to be monitored to assess change in distribution and extent (Rattray et al. 2009, McGonigle et al. 2010). This type of survey will require MBES data to be collected at a higher resolution and with a greater degree of positional accuracy. The survey specifications and requirements needed to meet the aims of each survey type are presented in [Table 11](#bookmark=id.3oy7u29). 
 
+<p>
+There are two particular needs for mapping and surveying when considering multibeam acoustics for marine monitoring, these can be defined as either baseline surveys or monitoring surveys. MBES can be used for both survey types, however, they have different acquisition and post-processing standards. A decision tree to help you decide on which set of specifications apply to the work you are carrying out is provided in <a href="#bookmark=id.4anzqyu">Figure 6</a>. A baseline survey is for exploratory purposes and data will be collected in a ‘single pass operation’. These data are used to map the distribution of marine benthic habitats at a particular spatial scale, and provide information necessary for more targeted field surveys using such tools as towed video, AUVs and stereo baited remote underwater video stations (BRUVs) (Lucieer et al. 2013, Monk et al. 2016). In contrast, a monitoring survey may have already identified target habitats or features (such as rocky outcrops) from previous broad scale or other hydrographic data that are to be monitored to assess change in distribution and extent (Rattray et al. 2009, McGonigle et al. 2010). This type of survey will require MBES data to be collected at a higher resolution and with a greater degree of positional accuracy. The survey specifications and requirements needed to meet the aims of each survey type are presented in <a href="#bookmark=id.3oy7u29">Table 11</a>. 
+</p>
+<p>
 The principles developed in the preceding chapters of these guidelines should still inform and influence the planning through to acquisition phases of MBES work and the requirements detailed in this section should be seen as a complementary lens used to refine efforts so that data is fit for purpose for work carried out for marine monitoring or within state or commonwealth marine parks.
-
+</p>
+<p>
 
 
 <p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image6.png "image_tooltip")
+<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
 
+</p>
+<p>
+<em>Figure 6 . Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)).</em>
+</p>
+<p>
 
-_Figure 6 . Decision tree for seabed classification survey design (adapted from Anderson et al. (2007))._
-
-
-
-_Table 11 Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring_
-
+</p>
+<p>
+<em>Table 11 Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring</em>
+</p>
 
 <table>
   <tr>

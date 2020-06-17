@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: /data-processing
-title: "Data Processing"
+title: "5. Data Processing"
 excerpt: "<br>"
 image:
   feature: /banners/multibeam-banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-# Data processing considerations
-# _During survey_
+# 5.1 Data processing considerations
+# _5.1.1 During survey_
 Processing during a survey should at a minimum be done to QC the data, both bathymetry and backscatter data. QC includes:
 *   checking for artefacts
 *   consistency of seabed backscatter
@@ -17,7 +17,7 @@ Processing during a survey should at a minimum be done to QC the data, both bath
 
 A processing log should be kept.
 
-# _Post-survey_
+# _5.1.2 Post-survey_
 Post-survey processing should include:
 *   reduction of soundings to appropriate vertical datum (observed or post-processed GNSS tides).
 *   application of SVPs and refraction correction applied (where allowed).
@@ -27,7 +27,7 @@ Post-survey processing should include:
 
 See also section 10 of AHO, 2018 for more information on processing.
 
-# _Backscatter processing requirements_ 
+# _5.1.3 Backscatter processing requirements_ 
 Please keep a processing log that records what processing software and settings are used to prepare the backscatter mosaic. When you process, it is important to specify the imagery type (Beam Average/Time Series); Beam Pattern Correction (yes/no); and Anti-aliasing (yes/no) selection.
 
 Mandatory information to record for the backscatter data processing is:
@@ -46,7 +46,7 @@ Further details about best-practice for backscatter data acquisition can be foun
 
 Acquisition and processing logs should be delivered alongside all raw data (including calibration test) and processed mosaics in accordance with Section 7.
 
-# Total propagated uncertainties (TPU)
+# 5.2 Total propagated uncertainties (TPU)
 The total propagated uncertainty (TPU) for each sounding should be computed and included in the data submission ([Section 7](#heading=h.3x8tuzt)).
 
 The TPU is the combination of the total horizontal uncertainties (THU) and the total vertical uncertainties (TVU) of that sounding ([Appendix E](#bookmark=id.odc9jc)). THU is a 2-dimensional quantity in the horizontal plane and is assessed only after the GNSS-Inertial system has been calibrated. TVU is a 1-dimensional quantity in the vertical dimension. TPU is not a linear addition of uncertainties in each system’s component. It is a propagated combination of uncertainties for the non-linear set of equations comprising the integrated swath acoustic-GNSS Inertial system. 

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /mobilisation-calibration-validation
-title: "Mobilisation, Calibration and Validation"
+title: "3. Mobilisation, Calibration and Validation"
 excerpt: "<br>"
 image:
   feature: /banners/multibeam-banner.jpg
@@ -10,7 +10,7 @@ image:
 
 Mobilisation refers to the process of combining multiple equipment sets (echo sounder, positioning system, motion reference unit & sound velocity instrumentation) into a single functioning high precision and accurate system. Calibration refers to the measurement and removal of systematic errors in all installed sensors. For most installations, errors mainly consist of small offsets and rotations between system components. Validation refers to testing calibrated systems against known controls by conducting multiple observations in order to provide an analysis of the repeatability, precision and accuracy of an individual or combined system.
 
-# Overview
+# 3.1 Overview
 Mobilisation must be done with care since compromise to any part of the integrated equipment set will increase the risk of degrading the whole system and can result in no capacity to correct or post-process the problem. Calibration and validation are vital to assess the performance of the installed system against survey specifications, particularly TVU, TPU and datum control, as elaborated throughout this section. 
 
 The mobilisation, calibration and validation process will vary between vessels. For example, a ‘vessel of opportunity’ commonly involves significantly more planning and setup time than permanently configured survey vessels. The steps below generalise the detailed processes outlined in the hardware and software manufacturer’s instructions for the deployed equipment. Specific information on some of the steps of the mobilisation, calibration and validation are included as a brief glossary in the following subsections. 
@@ -35,10 +35,10 @@ The mobilisation, calibration and validation process will vary between vessels. 
 17. Discuss planned survey lines with vessel master, survey ground sea-states, forecast weather and implication for survey plan. Communication strategies between MBES system operator and helm (including installing swath system helm display).
 18. Describe the equipment and actions undertaken on the vessel before, during and after the survey to form part of a ‘mobilisation and calibration’ report to be submitted along with the data ([section 6.1](#heading=h.zu0gcz)).
 
-# Dimensional control
+# 3.2 Dimensional control
 This is the process of establishing the spatial relationships of the mounted equipment locations on the vessel. This includes the physical vessel offsets ([section 3.2.1](#heading=h.sqyw64)) and angular rotational offsets ([section 3.2.2](#heading=h.4bvk7pj)) of the installed equipment, and the integration of them into the complete swath acoustic system. All recommended calibration and alignment procedures specified in the manufacturer’s equipment manuals should be carried out. These measurements are validated and refined during the patch test process.
 
-# _Physical offset survey_
+# _3.2.1 Physical offset survey_
 Establish the physical offsets of the installed equipment to permanent locations or marks on the vessel (Figure 5). This is achieved by adding equipment specific offsets to the previously carried out static (slipped) vessel system offsets survey or via surveyed measurements to the installed equipment. Preferably offsets should be known with centimetre level uncertainties, or better, to establish spatial relationships between soundings and external earth reference frames (WGS84, ITRF) via the GNSS equipment installed on the vessel.
 
 It is important to note that the systematic errors and uncertainties associated with this control will feed directly into the overall quality of the data and will greatly increase with water depth. Acquiring accurate data ensures the long term benefits that accompany the “collect once, use many times” mantra. For more information, refer to Hughes-Clarke (2003).
@@ -47,14 +47,14 @@ It is important to note that the systematic errors and uncertainties associated 
 
 _Figure 5 Diagram of dimensional control for MBES system (After Gardner et al., 2002)_
 
-# _Rotation offset survey_
+# _3.2.2 Rotation offset survey_
 A rotation offset survey checks the alignment of individual equipment relative to the vessel’s reference frame. 
 
 Establish all known rotations (angular offsets between the vessel and the reference frames of the installed equipment) for each equipment set. The offsets between rotational frame conventions (if any) of each equipment set should be accounted for as part of this process and recorded in the mobilisation, calibration and validation report ([section 6.1](#heading=h.zu0gcz)). If equipment rotations (physical measurement) are known separately to calibrated rotations (patch test) and applied as such in the acquisition software, these details should also be included in the report. 
 
 Rotation offset survey is normally associated with permanently-installed systems.
 
-# Horizontal positioning 
+# 3.3 Horizontal positioning 
 It is recommended to use a tightly coupled GNSS-Inertial system consisting of dual GNSS antennae and IMU integrated system that is tested. The GNSS-Inertial system has to be calibrated and validated prior to the commencement of the survey as this is critical to detect and correct setup errors, and estimate uncertainties. This process involves both static and dynamic validation if possible:
 
 Static validation of GNSS positioning equipment involves verifying the performance of the system against a known reference position. This should be preferably done using land survey methods, however should a known reference point not exist near the point of mobilisation, points may be established and should be in accordance with ICSM (2014a-c). 
@@ -67,43 +67,43 @@ Validations may include:
 
 Setting up positioning systems to transmit data to the swath system topside at a frequency of 1 Hz is adequate for most scenarios.
 
-# Vertical positioning 
-# _Depth validation_
+# 3.4 Vertical positioning 
+# _3.4.1 Depth validation_
 Depth validation should be done once the patch test ([section 3.5](#heading=h.43ky6rz)) has been performed. The system should be used to run a series of parallel and perpendicular sounding lines over a reference bottom surface where the depths have been previously determined and verified with an independent system of known accuracy. 
 
 If none of these comparative methods are available, then a “bar check” can be undertaken understanding that the results will not be as accurate as the precedent methods. The results obtained by any of the methods should compare favourably and be within the accuracy requirements of the survey.
 
 Prior to sailing, a lead line observation may also be conducted.
 
-# _Settlement and squat_
+# _3.4.2 Settlement and squat_
 Settlement occurs once the vessel is in a constant transit and is a vertical displacement which is constant at a given speed through water.  Squat is a relationship between depth of water and speed through water.  
 
 All vessels are subject to settlement and squat, and measurements of these parameters should be made wherever practically possible by the most appropriate validation method. Ideally tests should be performed at various vessel speeds over a flat bottom using RTK GNSS or orthometric levelling heights at the transducer location. The heights should be measured at rest and then in increments of vessel speed with RPM noted, and then used to derive an appropriate squat/settlement table. A squat table is not necessary when using ellipsoidal reduction methods, however, should you need to revert to sounding reduction by tide, a table is best practice.
 
-# _Vessel draft_
+# _3.4.3 Vessel draft_
 Vessel draft may be difficult to measure. However, it is possible to approximate distance from arbitrary reference points to the waterline before and after a survey as this is likely to change with fuel consumption. For validation, the vessel draft should be derived using quantitative measurement methods as for [section 3.4.2](#heading=h.25b2l0r) (Settlement and squat).
 
-# _Sound velocity_
+# _3.4.4 Sound velocity_
 To ensure proper calibrated sound velocity reading, at least one probe (SVS or SVP) needs to be independently calibrated. Use a comparative method to validate other sensors (SVS at head and SVP). Assess speed of sound at the swath sonar head against SVP at same depth below surface. Where possible, compare SVP readings with external sensors (e.g. derived sound velocity from CTD).
 
-# _Tidal station_
+# _3.4.5 Tidal station_
 For shallow inshore work (&lt;30m), water level tidal observations, including local environmental effects, should be conducted for a minimum period of 35 days. If this is not possible, predictions based on tidal constituents may be used and in this instance tidal stations should be installed and calibrated as directed by ICSM (2004).
 
-# Patch test
+# 3.5 Patch test
 The patch test confirms timing and alignment of the MBES sensor, vessel and IMU reference frames. It is essential to execute the standard patch test method as appropriate for sensor type (single or dual- head) and vessel ([Appendix F](#bookmark=id.47hxl2r)). A patch test should be conducted at the beginning of the field season or whenever a piece of equipment is replaced or repaired and has to be undertaken once the calibration for the GNSS inertial system is complete ([section 3.3](#heading=h.2r0uhxc)). The results of the patch test should be reported in the Mobilisation and Calibration Report ([Appendix H](#bookmark=id.302dr9l)).
 
-# Seafloor backscatter calibration
+# 3.6 Seafloor backscatter calibration
 Lamarche and Lurton (2017) provide a comprehensive review of seafloor backscatter from data acquisition to processing. Calibrated seafloor backscatter is essential to enable comparison of data acquired by various systems. There are two types of calibrated backscatter: absolute and relative backscatter.
 
 Calibration is executed through the use of reference areas of known seabed types (preferably flat, smooth, and geologically and acoustically homogeneous areas). Use roll lines of the patch test (no need to rerun for backscatter) and list overlap (for backscatter quality survey). For systems with multiple transmitting sectors it is recommended that the average backscatter level be consistent across all sectors and for different modes. 
 
 It is also recommended that sediment samples and/or imagery samples be taken from the area to ground truth and calibrate backscatter data. As part of a sea-acceptance test practice, an overall calibration must be performed once the sonar system has been installed on the vessel. This involves both the customer’s technical team and operators.
 
-# Water column backscatter calibration
+# 3.7 Water column backscatter calibration
 Calibration of water column data is desirable into the future and is best acquired if available on system. The same procedure for seabed backscatter calibration should be applicable for the water column backscatter calibration. While it is not practical to use the sphere calibration technique, inter-calibration with a calibrated fisheries single-beam echo sounder through the use of reference areas (Demer et al. 2015; Foote et al. 1987) may be employed. This at least provides assurance of self-consistency.
 
-# Built-in systems test
+# 3.8 Built-in systems test
 Built-in tests, such as built-in systems test (BIST) or built-in test environment (BITE) are a test of sonar head communication with software controllers and are useful for the validation of communication between systems. They becomes integral when troubleshooting and should be logged. It is recommended that, at a minimum, a BIST be done at the start and end of the mapping. The results should be reported in a Mobilisation and Calibration Report ([section 6.1](#heading=h.zu0gcz)).
 
-# Final acceptance test
+# 3.9 Final acceptance test
 A final check should be performed to ensure that all the equipment is working properly and that the logging systems are operating correctly. Care should be taken to ensure depth, position and if necessary water level values are being logged correctly. The positioning system should be checked for operation and periodically throughout the survey.

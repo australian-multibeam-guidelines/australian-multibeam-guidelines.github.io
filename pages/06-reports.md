@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /reports
-title: "Reports"
+title: "6. Reports"
 excerpt: "<br>"
 image:
   feature: /banners/multibeam-banner.jpg
@@ -10,16 +10,16 @@ image:
 
 In order to ensure consistent documentation of all aspects of survey planning, mobilisation, calibration and acquisition, all information (reports and logs) should be recorded throughout the process. At a minimum, metadata ([section 2.3.1.3](#heading=h.147n2zr)), records for Mobilisation, Calibration and Validation ([section 6.1](#heading=h.zu0gcz)), and the records proposed in [section 6.2](#heading=h.4iylrwe) are recommended. The proposed templates for these reporting requirements can all be found in [Appendix H](#bookmark=id.302dr9l).
 
-# Mobilisation, calibration and validation records
+# 6.1 Mobilisation, calibration and validation records
 Methodology and results of the mobilisation and calibration should be outlined in the mobilisation and calibration report, and the associated records created using templates provided in [Appendix H](#bookmark=id.302dr9l).
 
-# _Logs_
+# _6.1.1 Logs_
 Mobilisation and calibration logs should include:
 *   tests survey lines, including patch test and final acceptance test
 *   SVP deployments (filename, time, lat, long, depth, SV sonar head reading (used for comparison)
 *   squat and draft tables
 
-# _Report_
+# _6.1.2 Report_
 Mobilisation and calibration report should document the integrated survey system, methodology, raw results and processed results, i.e. once the calibration is accepted. At a minimum, it is recommended to include the following (modified from AHO, 2018) and if needed, [Appendix H](#bookmark=id.302dr9l) provides a template:
 
 **Report Heading:**
@@ -57,10 +57,10 @@ Mobilisation and calibration report should document the integrated survey system
 *   target detection (if performed): the ability of the SMS to meet the target detection criteria of the specified order are to be demonstrated
 *   acoustic interference check (if performed): results of the pre-survey acoustic interference check are to be rendered
 
-# Record Keeping
+# 6.2 Record Keeping
 This section includes logs that should be used during acquisition of data as well as information required in the Report of Survey provided at the end of the survey. This section also points to legal notification requirements in regards to Dangers found ([section 4.6.1](#heading=h.40ew0vw)) and Underwater Cultural Heritage ([section 4.6.2](#heading=h.2fk6b3p)). Templates of the reports and logs can be found in [Appendix H](#bookmark=id.302dr9l) for a summary of minimum requirements and in the IHO M-13 Manual on Hydrographic Surveying for a comprehensive report.
 
-# _Logs_
+# _6.2.1 Logs_
 Survey logs should include:
 
 *   relevant information on survey lines, including data types recorded and daily events. Minimum parameter requirements found in [Appendix H](#bookmark=id.302dr9l).
@@ -78,7 +78,7 @@ Survey logs should include:
 *   SVP deployments (filename, time, lat, long, depth, SV sonar head reading (used for comparison)
 *   log for additional data collected, such as seabed samples (section 2.6)
 
-# _Report of Survey_
+# _6.2.2 Report of Survey_
 The Report of Survey (ROS) should give a comprehensive account of how the seabed mapping survey was carried out, the results achieved, and any difficulties encountered. A template can be found in [Appendix H](#bookmark=id.302dr9l), but at a minimum, it is recommended to include the following (modified from AHO, 2018):
 
 **Report heading:**
