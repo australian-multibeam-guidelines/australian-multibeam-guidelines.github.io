@@ -44,7 +44,7 @@ Other image processing information that is useful but not mandatory:
 
 Further details about best-practice for backscatter data acquisition can be found in Lamarche and Lurton (2017).
 
-Acquisition and processing logs should be delivered alongside all raw data (including calibration test) and processed mosaics in accordance with Section 7.
+Acquisition and processing logs should be delivered alongside all raw data (including calibration test) and processed mosaics in accordance with [Section 7](https://australian-multibeam-guidelines.github.io/data-release).
 
 # 5.2 Total propagated uncertainties (TPU)
 The total propagated uncertainty (TPU) for each sounding should be computed and included in the data submission ([Section 7](https://australian-multibeam-guidelines.github.io/data-release)).

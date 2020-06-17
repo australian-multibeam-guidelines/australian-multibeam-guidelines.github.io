@@ -3,43 +3,39 @@
   url: https://australian-multibeam-guidelines.github.io/files/FieldManuals_NESPMarineHub_Chapter3_MBES.pdf
   excerpt: "Download chapter as a PDF"
   image: /5x8/download_5x8.jpg
-- title: "Introduction"
+- title: "1. Introduction"
   url: https://australian-multibeam-guidelines.github.io/introduction
   excerpt: "Scope, how to use guidelines and related studies and publications"
   image: /5x8/introduction_teaser.jpg
-- title: "Pre-survey Planning"
+- title: "2. Pre-survey Planning"
   url: https://australian-multibeam-guidelines.github.io/pre-survey-planning
   excerpt: ""
   image: /5x8/presurvey-planning_teaser.jpg
-- title: "Mobilisation, Calibration and Validation"
+- title: "3. Mobilisation, Calibration and Validation"
   url: https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation
   excerpt: ""
   image: /5x8/mobilisation-calibration-validation_teaser.jpg
-- title: "Acquisition"
+- title: "4. Acquisition"
   url: https://australian-multibeam-guidelines.github.io/acquisition
   excerpt: ""
   image: /5x8/acquisition_teaser.jpg
-- title: "Data Processing"
+- title: "5. Data Processing"
   url: https://australian-multibeam-guidelines.github.io/data-processing
   excerpt: ""
   image: /5x8/data-processing_teaser.jpg
-- title: "Reports"
+- title: "6. Reports"
   url: https://australian-multibeam-guidelines.github.io/reports 
   excerpt: ""
   image: /5x8/reports_teaser.jpg
-- title: "Data Release"
+- title: "7. Data Release"
   url: https://australian-multibeam-guidelines.github.io/data-release
   excerpt: ""
   image: /5x8/data-release_teaser.jpg
-- title: "Multibeam acoustics for marine monitoring"
+- title: "8. Multibeam acoustics for marine monitoring"
   url: https://australian-multibeam-guidelines.github.io/marine-monitoring
   excerpt: ""
   image: /5x8/marine-monitoring_teaser.jpg
-- title: "Field Manual Maintenance"
-  url: https://australian-multibeam-guidelines.github.io/field-manual-maintenance
-  excerpt: ""
-  image: /5x8/field-manual-maintenance_teaser.jpg
-- title: "References"
+- title: "9. References"
   url: https://australian-multibeam-guidelines.github.io/references
   excerpt: "Literature cited"
   image: /5x8/references_teaser.jpg
@@ -47,4 +43,8 @@
   url: https://australian-multibeam-guidelines.github.io/appendices
   excerpt: ""
   image: /5x8/appendices_teaser.jpg
+- title: "Field Manual Maintenance"
+  url: https://australian-multibeam-guidelines.github.io/field-manual-maintenance
+  excerpt: ""
+  image: /5x8/field-manual-maintenance_teaser.jpg
 
