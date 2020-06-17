@@ -38,8 +38,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Used for discovery purposes in regions that have had no baseline mapping conducted.
 </li>
-</ul>
-   </td>
    <td>
 <ul>
 
