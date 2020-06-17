@@ -8,27 +8,16 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
+There are two particular needs for mapping and surveying when considering multibeam acoustics for marine monitoring, these can be defined as either baseline surveys or monitoring surveys. MBES can be used for both survey types, however, they have different acquisition and post-processing standards. A decision tree to help you decide on which set of specifications apply to the work you are carrying out is provided in Figure 6. A baseline survey is for exploratory purposes and data will be collected in a ‘single pass operation’. These data are used to map the distribution of marine benthic habitats at a particular spatial scale, and provide information necessary for more targeted field surveys using such tools as towed video, AUVs and stereo baited remote underwater video stations (BRUVs) (Lucieer et al. 2013, Monk et al. 2016). In contrast, a monitoring survey may have already identified target habitats or features (such as rocky outcrops) from previous broad scale or other hydrographic data that are to be monitored to assess change in distribution and extent (Rattray et al. 2009, McGonigle et al. 2010). This type of survey will require MBES data to be collected at a higher resolution and with a greater degree of positional accuracy. The survey specifications and requirements needed to meet the aims of each survey type are presented in Table 11. 
 
-<p>
-There are two particular needs for mapping and surveying when considering multibeam acoustics for marine monitoring, these can be defined as either baseline surveys or monitoring surveys. MBES can be used for both survey types, however, they have different acquisition and post-processing standards. A decision tree to help you decide on which set of specifications apply to the work you are carrying out is provided in <a href="#bookmark=id.4anzqyu">Figure 6</a>. A baseline survey is for exploratory purposes and data will be collected in a ‘single pass operation’. These data are used to map the distribution of marine benthic habitats at a particular spatial scale, and provide information necessary for more targeted field surveys using such tools as towed video, AUVs and stereo baited remote underwater video stations (BRUVs) (Lucieer et al. 2013, Monk et al. 2016). In contrast, a monitoring survey may have already identified target habitats or features (such as rocky outcrops) from previous broad scale or other hydrographic data that are to be monitored to assess change in distribution and extent (Rattray et al. 2009, McGonigle et al. 2010). This type of survey will require MBES data to be collected at a higher resolution and with a greater degree of positional accuracy. The survey specifications and requirements needed to meet the aims of each survey type are presented in <a href="#bookmark=id.3oy7u29">Table 11</a>. 
-</p>
-<p>
 The principles developed in the preceding chapters of these guidelines should still inform and influence the planning through to acquisition phases of MBES work and the requirements detailed in this section should be seen as a complementary lens used to refine efforts so that data is fit for purpose for work carried out for marine monitoring or within state or commonwealth marine parks.
-</p>
-<p>
+
 
 <img src="images/figures/image6.png" width="" alt="alt_text" title="image_tooltip">
 
-</p>
-<p>
 <em>Figure 6 . Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)).</em>
-</p>
-<p>
 
-</p>
-<p>
 <em>Table 11 Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring</em>
-</p>
 
 <table>
   <tr>
@@ -73,11 +62,7 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Establishment of line spacing
 
-<li>Register upcoming survey with the AusSeabed Survey Coordination Tool (
-
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.2xcytpi">section 2.1.3</a>)
+<li>Register upcoming survey with the AusSeabed Survey Coordination Tool (<a href="#heading=h.2xcytpi">section 2.1.3</a>)
 
 <li>Determination of the system offsets and calibration area (patch test) area to be conducted as soon as practical and after the system is completely set up ready for survey. 
 
@@ -103,11 +88,7 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Provide Mobilisation Calibration Reports and logs (
-
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 6.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.zu0gcz">section 6.1</a>)
+<li>Provide Mobilisation Calibration Reports and logs (<a href="#heading=h.zu0gcz">section 6.1</a>)
 
 <li>
 </li>
@@ -137,11 +118,7 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Mode: Equidistant mode where system allows
 
-<li>Minimise setting changes to optimise backscatter (avoid running system on auto mode) 
-
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 4.3.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.39kk8xu">section 4.3.2</a>
+<li>Minimise setting changes to optimise backscatter (avoid running system on auto mode) <a href="#heading=h.39kk8xu">section 4.3.2</a>
 
 <li>
 </li>
@@ -272,17 +249,9 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Metadata should conform to the schema outlined in 
+<li>Metadata should conform to the schema outlined in <a href="#heading=h.147n2zr">section 2.3.1.3</a>, Mobilisation, Calibration, and validation reports, as well as the Report of Survey should conform with <a href="#heading=h.2koq656">section 6</a>. 
 
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.3.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.147n2zr">section 2.3.1.3</a>, Mobilisation, Calibration, and validation reports, as well as the Report of Survey should conform with 
-
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 6"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.2koq656">section 6</a>. 
-
-<li>Templates are provided in <a href="#bookmark=id.302dr9l">Appendix H</a> that contain more detail. 
+<li>Templates are provided in <a href="https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates">Appendix H</a> that contain more detail. 
 </li>
 </ul>
    </td>
@@ -293,11 +262,7 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Refer to 
-
-<p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 7"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.3x8tuzt">section 7</a> for instructions on submitting data and metadata to AusSeabed and AODN for archiving. 
+<li>Refer to <a href="#heading=h.3x8tuzt">section 7</a> for instructions on submitting data and metadata to AusSeabed and AODN for archiving. 
 
 <li>
 </li>

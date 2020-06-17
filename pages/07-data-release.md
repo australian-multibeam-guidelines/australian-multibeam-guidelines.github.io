@@ -46,7 +46,7 @@ _Table 10 Data required for submission to AusSeabed_
    </td>
    <td>Description: It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see <a href="#heading=h.3as4poj"> section 2.3.1.2</a>
 <p>
-Data format: native format as produced by the acquisition system (see <a href="#bookmark=id.49x2ik5">table 5</a> for formats) 
+Data format: native format as produced by the acquisition system (see <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">table 5</a> for formats) 
 <p>
 Datagram: logged automatically for Kongsberg EM series. However, for Reson SeaBat, datagrams with the following IDs are required: 1003, 1012, 1013, 7000, 7001, 7002, 7004, 7006, 7005, 7007, 7012, 7018, 7022, 7028, 7200, and 7504.
    </td>
@@ -124,7 +124,7 @@ Data format: ASCII text
   <tr>
    <td>Metadata
    </td>
-   <td>Description: Metadata should as a minimum conform to the list of attributes outlined in <a href="#heading=h.147n2zr">section 2.3.1.3 </a>and described in detail in <a href="#bookmark=id.302dr9l">appendix H.2</a>
+   <td>Description: Metadata should as a minimum conform to the list of attributes outlined in <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">section 2.3.1.3 </a>and described in detail in <a href="https://australian-multibeam-guidelines.github.io/appendices#h2-ausseabed-minimum-required-metadata">appendix H.2</a>
 <p>
 Data format: .xml (preferred) txt file or spreadsheet also accepted
    </td>

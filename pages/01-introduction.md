@@ -235,7 +235,7 @@ _Table 2 Relevance to the various user groups by document section number. Howeve
 </table>
 
 ## 1.3 Related standards and publications
-The following publications provide information to underpin the collection of geospatial data and augment these guidelines. The complete references can be found in the [section 9](https://australian-multibeam-guidelines.github.io/references), but the most recent published versions of key documents are: 
+The following publications provide information to underpin the collection of geospatial data and augment these guidelines. The complete references can be found in [section 9](https://australian-multibeam-guidelines.github.io/references), but the most recent published versions of key documents are: 
 
 1. AHO, 2017. Hydroscheme Industry Partnership Program - Statement of requirements 
 2. AHO. [Hydrographic Note](http://www.hydro.gov.au/feedback/feedback-hydronote.htm), Australian Hydrographic Office 
