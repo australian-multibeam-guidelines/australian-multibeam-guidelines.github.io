@@ -9,15 +9,15 @@
   image: /5x8/introduction_teaser.jpg
 - title: "2. Pre-survey Planning"
   url: https://australian-multibeam-guidelines.github.io/pre-survey-planning
-  excerpt: ""
+  excerpt: "National coverage consultation and upcoming survey register, research and survey permits, seabed mapping data collection considerations, project team, field survey instructions, submission of plan, data and notifications"
   image: /5x8/presurvey-planning_teaser.jpg
 - title: "3. Mobilisation, Calibration and Validation"
   url: https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation
-  excerpt: ""
+  excerpt: "Dimensional control, horizontal positioning, vertical positioning, patch test, seafloor backscatter calibration, Water column backscatter calibration, built-in systems test and final acceptance test"
   image: /5x8/mobilisation-calibration-validation_teaser.jpg
 - title: "4. Acquisition"
   url: https://australian-multibeam-guidelines.github.io/acquisition
-  excerpt: ""
+  excerpt: "Survey plan, project structure and nomenclature, systems settings, ancillary systems, monitoring, QA/QC & Data backup and mandatory notifications"
   image: /5x8/acquisition_teaser.jpg
 - title: "5. Data Processing"
   url: https://australian-multibeam-guidelines.github.io/data-processing
