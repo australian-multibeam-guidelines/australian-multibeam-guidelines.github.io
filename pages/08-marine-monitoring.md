@@ -22,11 +22,11 @@ The principles developed in the preceding chapters of these guidelines should st
 <table>
 <thead>
   <tr>
-   <td>Specification
+   <td><strong>Specification</strong>
    </td>
-   <td>NESP Baseline
+   <td><strong>NESP Baseline</strong>
    </td>
-   <td>NESP Monitoring
+   <td><strong>NESP Monitoring</strong>
    </td>
   </tr>
   </thead>
@@ -60,7 +60,7 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Establishment of line spacing
 
-<li>Register upcoming survey with the AusSeabed Survey Coordination Tool (<a href="#heading=h.2xcytpi">section 2.1.3</a>)
+<li>Register upcoming survey with the AusSeabed Survey Coordination Tool (<a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">section 2.1.3</a>)
 
 <li>Determination of the system offsets and calibration area (patch test) area to be conducted as soon as practical and after the system is completely set up ready for survey. 
 
@@ -81,7 +81,7 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Provide Mobilisation Calibration Reports and logs (<a href="#heading=h.zu0gcz">section 6.1</a>)
+<li>Provide Mobilisation Calibration Reports and logs (<a href="https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records">section 6.1</a>)
   <tr>
    <td>Data Logging
    </td>
@@ -102,7 +102,7 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Mode: Equidistant mode where system allows
 
-<li>Minimise setting changes to optimise backscatter (avoid running system on auto mode) <a href="#heading=h.39kk8xu">section 4.3.2</a>
+<li>Minimise setting changes to optimise backscatter (avoid running system on auto mode) <a href="https://australian-multibeam-guidelines.github.io/acquisition#432-backscatter">section 4.3.2</a>
   <tr>
    <td>Sound Velocity Profiles (SVP)
    </td>
@@ -216,7 +216,7 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Metadata should conform to the schema outlined in <a href="#heading=h.147n2zr">section 2.3.1.3</a>, Mobilisation, Calibration, and validation reports, as well as the Report of Survey should conform with <a href="#heading=h.2koq656">section 6</a>. 
+<li>Metadata should conform to the schema outlined in <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">section 2.3.1.3</a>, Mobilisation, Calibration, and validation reports, as well as the Report of Survey should conform with <a href="https://australian-multibeam-guidelines.github.io/reports">section 6</a>. 
 
 <li>Templates are provided in <a href="https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates">Appendix H</a> that contain more detail. 
 </li>
@@ -226,7 +226,7 @@ The principles developed in the preceding chapters of these guidelines should st
    <td colspan="2" >
 <ul>
 
-<li>Refer to <a href="#heading=h.3x8tuzt">section 7</a> for instructions on submitting data and metadata to AusSeabed and AODN for archiving. 
+<li>Refer to <a href="https://australian-multibeam-guidelines.github.io/data-release">section 7</a> for instructions on submitting data and metadata to AusSeabed and AODN for archiving. 
   <tr>
    <td>Notification
    </td>
@@ -238,4 +238,3 @@ The principles developed in the preceding chapters of these guidelines should st
 </ul>
    </td>
   </tr>
-  </tbody>
