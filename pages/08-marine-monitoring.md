@@ -20,6 +20,7 @@ The principles developed in the preceding chapters of these guidelines should st
 <em>Table 11 Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring</em>
 
 <table>
+<thead>
   <tr>
    <td>Specification
    </td>
@@ -28,6 +29,8 @@ The principles developed in the preceding chapters of these guidelines should st
    <td>NESP Monitoring
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>Purpose
    </td>
@@ -235,3 +238,4 @@ The principles developed in the preceding chapters of these guidelines should st
 </ul>
    </td>
   </tr>
+  </tbody>
