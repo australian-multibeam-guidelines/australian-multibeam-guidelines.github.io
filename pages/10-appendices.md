@@ -417,7 +417,7 @@ _Table C1 List of documents relevant to multibeam activities in the Commonwealth
     <td>Vessel interaction</td>
     <td>EEZ 3 – 200nm </td>
     <td>DAWE</td>
-    <td>EPBC Act. Regulations 2000 (Cth) (EPBC Regulations) part 8</td>
+    <td><i>EPBC Act. Regulations 2000 (Cth)</i> (EPBC Regulations) part 8</td>
     <td>Report death, injury, stranding or entanglement of whales and dolphins to DoEE. Specific requirements for vessels</td>
     <td colspan="2"><a href="https://www.legislation.gov.au/Details/F2016C00914">https://www.legislation.gov.au/Details/F2016C00914</a></td>
   </tr>
