@@ -24,7 +24,7 @@ In the future, a data submission portal will be integrated with the Survey Coord
 
 
 
-1. Ensure that data meet the Final QA/QC requirements above ([section 7.1.1](#heading=h.2ce457m)) and that all files outlined in Table 9 have been gathered or prepared for submission. 
+1. Ensure that data meet the Final QA/QC requirements above ([section 7.1](https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc)) and that all files outlined in Table 9 have been gathered or prepared for submission. 
 2. Contact AusSeabed ([ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au)) and AHO ([datacentre@hydro.gov.au](mailto:datacentre@hydro.gov.au)) to inform of the intention to submit data. This communication with AusSeabed can be used to determine the most convenient method for file transfer. If hard drives are used, they will be returned to the sender within 2 weeks after being received.
 3. Send data and associated files to AusSeabed.
 4. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been quality controlled. This can be done in one of two ways:
