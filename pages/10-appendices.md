@@ -9,10 +9,7 @@ image:
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 # Appendix A – Abbreviations 
-
 _Table A1 Abbreviations used in this document._
-
-
 <table>
   <tr>
    <td>AHO
@@ -360,7 +357,106 @@ _Figure B210 200% swath coverage with 100% overlap (AHO, 2018)_
 # Appendix C – Legislation and permitting 
 
 _Table C1 List of documents relevant to multibeam activities in the Commonwealth waters (defined as 3 nautical miles seaward to the outer boundary of the EEZ, 200 nautical miles).  Extracted from Marine Sampling Field Manuals (Przeslawski and Foster, 2018). Similar issues should be considered when working in coastal waters of States and the Northern Territory._
-
+<table>
+<tbody>
+  <tr>
+    <td>Activity</td>
+    <td>Activity Type</td>
+    <td>Jurisdiction</td>
+    <td>Responsible Agency</td>
+    <td>Legislation/Treaty/ Documents</td>
+    <td>Requirements for approval</td>
+    <td colspan="2">Link</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Research and monitoring<br></td>
+    <td>All activities</td>
+    <td>Australian Marine Parks</td>
+    <td>Department of Agriculture, Water and Environment (DAWE)</td>
+    <td>Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act)</td>
+    <td>Authorisation is required for all zones</td>
+    <td colspan="2"><a href="https://parksaustralia.gov.au/marine/contact/">https://parksaustralia.gov.au/marine/contact/</a></td>
+  </tr>
+  <tr>
+    <td>Activities with potentially significant impact on a matter of national environmental significance</td>
+    <td>EEZ 3 – 200nm</td>
+    <td>DAWE</td>
+    <td>Australian Marine Park Management Plans<br>EPBC Act</td>
+    <td>EPBC Act referral<br>Public consultation, including indigenous stakeholders</td>
+    <td colspan="2"><a href="http://www.environment.gov.au/protection/environment-assessments/">http://www.environment.gov.au/protection/environment-assessments/</a><br><a href="http://www.environment.gov.au/epbc/what-is-protected">http://www.environment.gov.au/epbc/what-is-protected</a></td>
+  </tr>
+  <tr>
+    <td>All activities</td>
+    <td>Heard Island and McDonald Islands</td>
+    <td>DAWE</td>
+    <td>Environment Protection and Management Ordinance 1987 (HIMI)EPBC Regulations 2000</td>
+    <td>Permit required</td>
+    <td colspan="2"><a href="https://www.antarctica.gov.au/living-and-working/travel-and-logistics/cargo-and-freight/types-of-cargo/scientific-samples/environmental-approvals/">https://www.antarctica.gov.au/living-and-working/travel-and-logistics/cargo-and-freight/types-of-cargo/scientific-samples/environmental-approvals/</a></td>
+  </tr>
+  <tr>
+    <td>All activities</td>
+    <td>Antarctica (south of 60°S)</td>
+    <td>DAWE</td>
+    <td>Antarctic Treaty (Environment Protection) Act 1980<br>Antarctic Marine Living Resources Conservation (AMLRC) Act 1981</td>
+    <td>Authorisation and permit required<br>AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area</td>
+    <td colspan="2"><a href="https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits/">https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits//</a></td>
+  </tr>
+  <tr>
+    <td>Interactions with Cetaceans</td>
+    <td>Acoustic equipment<br>with received exposure level 160dB re 1 µPa2.s for 95% of shot at 1km range (seismic)</td>
+    <td>EEZ 3 – 200nm</td>
+    <td>DAWE</td>
+    <td>EPBC Act Policy Statement 2.1</td>
+    <td>EPBC Referral and comply with Policy Statement 2.1</td>
+    <td colspan="2"><a href="http://www.environment.gov.au/resource/epbc-act-policy-statement-21-interaction-between-offshore-seismic-exploration-and-whales">http://www.environment.gov.au/resource/epbc-act-policy-statement-21-interaction-between-offshore-seismic-exploration-and-whales</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vessel interaction</td>
+    <td>EEZ 3 – 200nm </td>
+    <td>DAWE</td>
+    <td>EPBC Act. Regulations 2000 (Cth) (EPBC Regulations) part 8</td>
+    <td>Report death, injury, stranding or entanglement of whales and dolphins to DoEE. Specific requirements for vessels</td>
+    <td colspan="2"><a href="https://www.legislation.gov.au/Details/F2016C00914">https://www.legislation.gov.au/Details/F2016C00914</a></td>
+  </tr>
+  <tr>
+    <td>Interaction with Heritage</td>
+    <td>Historic Ship wrecks</td>
+    <td>Continental shelf waters (incl. some areas &gt; 200 nm)</td>
+    <td>DAWE</td>
+    <td>Historic Shipwrecks Act 1976 (Cth)</td>
+    <td>Ship wrecks and relics older than 75 years and lying within protected zones. </td>
+    <td colspan="2"><a href="http://www.environment.gov.au/heritage/historic-shipwrecks">http://www.environment.gov.au/heritage/historic-shipwrecks</a></td>
+  </tr>
+  <tr>
+    <td>Restricted vessel movement and moored scientific equipment that create navigation hazards</td>
+    <td></td>
+    <td></td>
+    <td>Australian Hydrographic Service AHS<br>Australian Marine Safety AMSA</td>
+    <td></td>
+    <td>Notice to mariners 2-3 weeks prior to survey commences.<br>Vessel to RCC to update NAVAREA X alerts</td>
+    <td colspan="2"><a href="https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database">https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database</a><br><a href="mailto:datacentre@hydro.gov.au">datacentre@hydro.gov.au</a><br><a href="mailto:rccaus@amsa.gov.au">rccaus@amsa.gov.au</a></td>
+  </tr>
+  <tr>
+    <td>Research in the Great Barrier Reef Marine Park GBRMP</td>
+    <td>Research, except for limited impact research.</td>
+    <td>GBRMP</td>
+    <td>Great Barrier Reef Marine Park Authority GBRMPA</td>
+    <td>Great Barrier Reef Marine Park Act 1975 (Cth)<br>EPBC Act</td>
+    <td>Limited impact research may be conducted under a letter of authority issued by an accredited educational or research institutions All other research requires permission</td>
+    <td colspan="2"><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits</a><br><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions</a></td>
+  </tr>
+  <tr>
+    <td>Research around petroleum and other infrastructure</td>
+    <td></td>
+    <td>3nm seaward to EEZ or outer limits of the continental shelf</td>
+    <td></td>
+    <td>Sea Installations Act 1987</td>
+    <td>Vessels prohibited to go within a safety zone of 500m</td>
+    <td colspan="2"><a href="http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations">http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations</a></td>
+  </tr>
+</tbody>
+</table>
 
 Laws and regulations regarding multibeam sonar acquisition in State and Territory waters (less than 3 nm from the coast) vary slightly across jurisdictions, but they are generally not restricted or subject to permit requirements, with the exception of:
 *   Survey undertaken in Marine Protected Areas (for guidance see Marine Protected Areas section above). 
