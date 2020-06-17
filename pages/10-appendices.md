@@ -696,11 +696,11 @@ The figure below shows the pattern to use for the patch test of a MBES system wi
 For **backscatter calibration**, run the line schema for various modes. Alternatively, change the settings along a line where the seafloor is expected to be homogeneous.
 
 
-![alt_text](images/figures/imageF1.png "image_tooltip")
+![alt_text](images/figures/imageF1.png "image_tooltip")<br>
 _Figure F1 Proposed line pattern for single head sonar patch test_
 
 
-![alt_text](images/figures/imageF2.png "image_tooltip")
+![alt_text](images/figures/imageF2.png "image_tooltip")<br>
 _Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
 
 
