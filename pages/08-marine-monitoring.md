@@ -63,8 +63,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>The location and scheduling of the Sound Velocity Profiles
 </li>
-</ul>
-   </td>
    <td>
 <ul>
 
@@ -74,9 +72,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Identification of locations of seafloor targets to be monitored 
 </li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Installation Offsets
    </td>
@@ -84,12 +79,6 @@ The principles developed in the preceding chapters of these guidelines should st
 <ul>
 
 <li>Provide Mobilisation Calibration Reports and logs (<a href="#heading=h.zu0gcz">section 6.1</a>)
-
-<li>
-</li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Data Logging
    </td>
@@ -102,9 +91,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Water column backscatter: Recommended (if available)
 </li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Acquisition setting
    </td>
@@ -114,12 +100,6 @@ The principles developed in the preceding chapters of these guidelines should st
 <li>Mode: Equidistant mode where system allows
 
 <li>Minimise setting changes to optimise backscatter (avoid running system on auto mode) <a href="#heading=h.39kk8xu">section 4.3.2</a>
-
-<li>
-</li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Sound Velocity Profiles (SVP)
    </td>
@@ -130,8 +110,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>If sound speed at the transducer varies by > 2m/s another SVP should be collected
 </li>
-</ul>
-   </td>
    <td>
 <ul>
 
@@ -139,9 +117,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>If sound speed at the transducer varies by > 1m/s another SVP should be collected
 </li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Geodetic Parameters
    </td>
@@ -214,12 +189,6 @@ The principles developed in the preceding chapters of these guidelines should st
 <ul>
 
 <li>Record GPS tides. All soundings shall be reduced to the ellipsoid.
-
-<li>
-</li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Point data attribution
    </td>
@@ -248,9 +217,6 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <li>Templates are provided in <a href="https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates">Appendix H</a> that contain more detail. 
 </li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Data Release
    </td>
@@ -258,12 +224,6 @@ The principles developed in the preceding chapters of these guidelines should st
 <ul>
 
 <li>Refer to <a href="#heading=h.3x8tuzt">section 7</a> for instructions on submitting data and metadata to AusSeabed and AODN for archiving. 
-
-<li>
-</li>
-</ul>
-   </td>
-  </tr>
   <tr>
    <td>Notification
    </td>
