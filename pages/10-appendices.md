@@ -877,5 +877,8 @@ _Table H1 Required Metadata for data submitted to AusSeabed_
 </table>
 
 # _H.3 Survey log sheet templates_
+![alt_text](images/figures/imageH1.png "image_tooltip")
+
+![alt_text](images/figures/imageH2.png "image_tooltip")
 
 # _H.4 Report of Survey template_
