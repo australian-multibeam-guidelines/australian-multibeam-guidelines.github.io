@@ -884,7 +884,7 @@ _Table H1 Required Metadata for data submitted to AusSeabed_
 # _H.4 Report of Survey template_
 The following template has been modified from AHO Survey Summary Template, which can be found in full <a href="http://www.hydro.gov.au/prodserv/data/hydro-data.htm">here</a>. Guidance on Confidence Levels and Error Ellipse scaling is contained in ICSM (2014a), uncertainties from IHO publication S-44 or by contacting the Bathymetric Data Assessment Section at the Australian Hydrographic Office on 02 4223 6500.
 
-## Introduction
+### Introduction
 <table>
   <tr>
    <td><strong>Survey Title and ID</strong>
@@ -961,7 +961,7 @@ The following template has been modified from AHO Survey Summary Template, which
 </table>
 
 
-## Horizontal Control
+### Horizontal Control
 <table>
   <tr>
    <td colspan="2" ><strong>Soundings are on the following datum (WGS84 preferred but not essential)</strong>
@@ -1006,7 +1006,7 @@ The following template has been modified from AHO Survey Summary Template, which
 </table>
 
 
-## Vertical Control
+### Vertical Control
 <table>
   <tr>
    <td><strong>Tides Applied</strong>
@@ -1218,7 +1218,7 @@ The following template has been modified from AHO Survey Summary Template, which
 </table>
 
 
-## Shoals and Dangers
+### Shoals and Dangers
 
 <table>
   <tr>
@@ -1232,7 +1232,7 @@ The following template has been modified from AHO Survey Summary Template, which
 </table>
 
 
-## Wrecks
+### Wrecks
 
 <table>
   <tr>
