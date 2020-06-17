@@ -159,7 +159,7 @@ These guidelines aim to improve interoperability, discoverability and accessibil
 These guidelines provide a minimum set of requirements for seafloor mapping activities conducted in Australian waters. They are designed to complement the purpose-based requirements and associated documentation related to specific survey requirements (e.g., hydrographic surveys; seabed infrastructure planning or installation) (Figure 1).
 
 
-![alt_text](images/figures/image.png "image_tooltip")
+![alt_text](images/figures/image1.png "image_tooltip")
 
 _Figure 1 Anticipated key areas of relevance for the Australian Multibeam Guidelines._
 
