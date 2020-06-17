@@ -10,14 +10,8 @@ image:
 
 The AusSeabed Data Hub is the national repository for all seabed mapping data collected within the legal boundaries of the Australian Continental Shelf and the Australian Charting Area and any data that lies outside this region but is considered of value to the Australian marine community or was commissioned by Australian entities. Data submitted to this repository will be made publicly visible and available through the [AusSeabed Marine Data Portal](https://portal.ga.gov.au/persona/marine) under a [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/legalcode) unless that data is subject to embargos or confidentiality agreements. Data delivered through the AusSeabed Marine Data Portal is done so under the proviso that it is not used for navigational purposes. To submit data to the AusSeabed Data Hub first check that it complies with section 6.1.1 Final QA/QC checklist and then follow the steps outlined in section 6.1.2 Data Submission to AusSeabed.
 
-
-
-        38. 
-Final QA/QC
+# Final QA/QC
 The final QA/QC checklist for data acceptance includes:
-
-
-
 *   Vessel configuration file for the survey is updated with the latest information received from the survey acquisition report. Ensure to not apply the calibration values twice, i.e. in the acquisition and processing software.
 *   AusSeabed’s policy and preference is for data to be reduced using GNSS heights to the ellipsoid. However, if appropriate, accurate tide files should be contained within data being submitted.
 *   All ancillary systems, SVP, true heave, etc., are applied and if not, these have been noted in the survey report or logs.
@@ -25,19 +19,12 @@ The final QA/QC checklist for data acceptance includes:
 *   Any other surface artefacts, e.g. resulting from calibration errors have been addressed and parameters that have been applied have been noted in a processing report.
 *   Random errors (ambient noise) have been removed using Filters/CUBE or manual techniques and have been noted in the processing report.
 
-
-
-        39. 
-Data Submission to AusSeabed
+# Data Submission to AusSeabed
 In the future, a data submission portal will be integrated with the Survey Coordination Tool and the QC Tools suite currently being developed by AusSeabed. This will make the provision of data to the AusSeabed repository a seamless and efficient user experience, utilising metadata captured during earlier stages of the surveying process and providing automated quality assurance of collected data. In the interim, data can be transferred to AusSeabed using any one of a number of secure online data transfer mechanisms (Google Drive, One Drive, Cloudstor, Drop Box, directly through the National Computing Infrastructure, by sharing permissions to Amazon S3, etc.) or if no online data transfer method is possible by sending through a hard drive to Geoscience Australia. Please follow the steps outlined below to ensure efficient delivery of data and contact [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au) if unsure during any stage of the process.
 
 
 
-1. Ensure that data meet the Final QA/QC requirements above (
-
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 7.1.1"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[section 7.1.1](#heading=h.2ce457m)) and that all files outlined in Table 9 have been gathered or prepared for submission. 
+1. Ensure that data meet the Final QA/QC requirements above ([section 7.1.1](#heading=h.2ce457m)) and that all files outlined in Table 9 have been gathered or prepared for submission. 
 2. Contact AusSeabed ([ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au)) and AHO ([datacentre@hydro.gov.au](mailto:datacentre@hydro.gov.au)) to inform of the intention to submit data. This communication with AusSeabed can be used to determine the most convenient method for file transfer. If hard drives are used, they will be returned to the sender within 2 weeks after being received.
 3. Send data and associated files to AusSeabed.
 4. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been quality controlled. This can be done in one of two ways:
@@ -57,11 +44,7 @@ _Table 10 Data required for submission to AusSeabed_
   <tr>
    <td>L0 data (unprocessed instrument data)
    </td>
-   <td>Description: It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see
-
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: " section 2.3.1.2"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.3as4poj"> section 2.3.1.2</a>
+   <td>Description: It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see <a href="#heading=h.3as4poj"> section 2.3.1.2</a>
 <p>
 Data format: native format as produced by the acquisition system (see <a href="#bookmark=id.49x2ik5">table 5</a> for formats) 
 <p>
@@ -141,11 +124,7 @@ Data format: ASCII text
   <tr>
    <td>Metadata
    </td>
-   <td>Description: Metadata should as a minimum conform to the list of attributes outlined in 
-
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "section 2.3.1.3 "). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.147n2zr">section 2.3.1.3 </a>and described in detail in <a href="#bookmark=id.302dr9l">appendix H.2</a>
+   <td>Description: Metadata should as a minimum conform to the list of attributes outlined in <a href="#heading=h.147n2zr">section 2.3.1.3 </a>and described in detail in <a href="#bookmark=id.302dr9l">appendix H.2</a>
 <p>
 Data format: .xml (preferred) txt file or spreadsheet also accepted
    </td>
