@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /references
-title: "References"
+title: "9. References"
 excerpt: ""
 image:
   feature: /banners/multibeam-banner.jpg

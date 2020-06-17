@@ -66,12 +66,12 @@ It is also highly recommended that the upcoming survey layer is consulted on the
 # 2.2 Research and survey permits
 Various permissions are required to undertake research in Commonwealth, State and Territory waters. Due to the complexity of laws and intersecting jurisdiction’s, information on this page should be treated as a guide only and information from the relevant governing bodies should be consulted to ascertain that the correct permissions have been acquired prior to any research undertaking. 
 
-Operators should contact and inform relevant national and local authorities well in advance of any intended survey work ashore and afloat. These include the local harbour authority that should be consulted at all stages of the planning and execution of any harbour surveys, marine reserves, etc. Be mindful that approvals and permits (e.g. Environment Protection and Biodiversity Conservation, Environmental Plan, local marine parks permits, etc.) may be needed before undertaking a survey. Legislation for approvals is slightly different in each state. More information regarding legislation and permitting can be found on the [AusSeabed](https://ausseabed.gov.au/resources/permit) website. [Appendix C](#bookmark=id.2uxtw84) provides a list of Authorities that may need to be consulted and some links to general research permits for state waters.
+Operators should contact and inform relevant national and local authorities well in advance of any intended survey work ashore and afloat. These include the local harbour authority that should be consulted at all stages of the planning and execution of any harbour surveys, marine reserves, etc. Be mindful that approvals and permits (e.g. Environment Protection and Biodiversity Conservation, Environmental Plan, local marine parks permits, etc.) may be needed before undertaking a survey. Legislation for approvals is slightly different in each state. More information regarding legislation and permitting can be found on the [AusSeabed](https://ausseabed.gov.au/resources/permit) website. [Appendix C](https://australian-multibeam-guidelines.github.io/appendices#appendix-c--legislation-and-permitting) provides a list of Authorities that may need to be consulted and some links to general research permits for state waters.
 
 # 2.3 Seabed mapping data collection considerations 
 The **objectives** of MBES surveys conducted by mapping programs are to collect seafloor data to identify, delineate and map biogenic, anthropogenic and geological features. This objective requires particular data to be collected that can a) chart the water depths creating a high resolution bathymetric map at an appropriate resolution in regards to the target habitat or feature and b) be able to differentiate boundaries between different substrate and/or habitat types.
 
-This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](#bookmark=id.3u2rp3q) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
+This national guideline provides the minimum requirements for all seabed mapping activities to enable national coordination and compilation. It is thus designed as an overarching document that can be complemented by more specific requirements of some surveys. If data collection is for charting purposes, consult the [Australian Hydrographic Office](mailto:hydro.plans@defence.gov.au). The application of these guidelines to marine monitoring has been included as a case study in chapter 8 that outlines the mandated best practice data and metadata requirements, QA/QC and data submission practices for baseline surveying or more targeted feature monitoring. The chapter 8 information supersedes the information previously published as part of Chapter 3 of the NESP MBES field Manual (Lucieer et al., 2018) and should be consulted prior to any work being done in Australian Marine Parks or protected areas. [Appendix D](https://australian-multibeam-guidelines.github.io/appendices#appendix-d--guideline-on-timeframe-for-actions) provides some approximate planning timeframes as a guide for the various activities related to seabed mapping surveys.
 
 # _2.3.1 Data type, formats, and metadata_
 In 2019, AusSeabed held a workshop on data formats and metadata attributes to establish an agreed set of preferences for the delivery and acquisition of seabed data. The outcomes of that workshop underpin the information presented in the following sections, as a set of best practice policies to maximise the utility of collected open data. 
@@ -188,7 +188,7 @@ _Table 5 Preferred data formats by data type and level._
 </table>
 
 ### 2.3.1.3 Metadata
-Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](#bookmark=id.3dhjn8m). 
+Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](https://australian-multibeam-guidelines.github.io/appendices#h2-ausseabed-minimum-required-metadata). 
 
 _Table 6 Overview of required metadata._
 <table>
@@ -232,24 +232,24 @@ _Table 6 Overview of required metadata._
 </tbody>
 </table>
 
-This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation) which outlines the Mobilisation, Calibration and Validation reports.
+This set of metadata is not exhaustive, and a large number of specific survey, calibration and acquisition parameters need to be recorded in addition to the above information to ensure complete documentation of the survey process. These are categorised and detailed in the [section 6.1](https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records) which outlines the Mobilisation, Calibration and Validation reports.
 
 # _2.3.2 Survey area characterization_
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use (see [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison) for general system type information). The characteristics of the survey area and mapping requirements are also key issues to consider, including:
 *   survey duration and size of the area
-*   depth range as this will affect line planning ([section 2.5.5](#heading=h.111kx3o)) and acquisition parameter settings ([section 4.3](#heading=h.2afmg28))
+*   depth range as this will affect line planning ([section 2.5.5](https://australian-multibeam-guidelines.github.io/pre-survey-planning#255-line-planning)) and acquisition parameter settings ([section 4.3](https://australian-multibeam-guidelines.github.io/acquisition#43-systems-settings))
 *   wind and wave conditions and seasonal weather changes
 *   tidal regime and tidal infrastructure
 *   feature detection and sounding density requirements; reflected in required pulse repetition (ping rates), swath width and survey speed
-*   the nature of the seabed, which is important for seabed backscatter data acquisition ([section 4.3.2](#heading=h.39kk8xu)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered ([section 2.6](#heading=h.206ipza)).
-*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter ([section 4.3.2](#heading=h.39kk8xu))
+*   the nature of the seabed, which is important for seabed backscatter data acquisition ([section 4.3.2](https://australian-multibeam-guidelines.github.io/acquisition#432-backscatter)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered ([section 2.6](https://australian-multibeam-guidelines.github.io/pre-survey-planning#26-submission-of-plan-data-and-notifications)).
+*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter ([section 4.3.2](https://australian-multibeam-guidelines.github.io/acquisition#432-backscatter))
 *   the time of year and relevance to whale migrations for low frequency instruments
 *   potential interactions with surface fishing gear
 
 # _2.3.3 Data representation (seafloor coverage and resolution)_
-Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](#bookmark=id.32hioqz) It is important to consider that the** **data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. For more details on the two systems, refer to [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison).
+Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata) It is important to consider that the data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. For more details on the two systems, refer to [Bathyswath](http://www.bathyswath.com/bathymetric-systems-comparison).
 
-Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](#heading=h.2r0uhxc) and [3.4](#heading=h.1664s55)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](#heading=h.36ei31r)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
+Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#33-horizontal-positioning) and [3.4](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#34-vertical-positioning)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
 
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
@@ -388,9 +388,9 @@ prr = pulse repetition rate (pulses per second (Hz))
 
 
 # _2.3.4 Quality assessment / uncertainty scheme_
-The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](#bookmark=id.3ls5o66) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
+The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](https://australian-multibeam-guidelines.github.io/appendices#appendix-g--iho-standards-) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
 
-However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](#bookmark=id.17dp8vu)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  
+However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](https://australian-multibeam-guidelines.github.io/introduction#11-scope)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  
 
 Regardless of the standards used, it is important to provide quality and uncertainty statements based upon calibration and validation evidence to ensure consistency.  These should be quantitative statements where numerical analysis is conducted e.g. TVU = +/-0.1m, THU = +/-1.0m.
 
@@ -412,7 +412,7 @@ Regardless of which method is used to deploy the swath system, it is important t
 This [website](http://www.bathyswath.com/installTransducers) provides additional information on various possible mounts and considerations. Note that the working group is not endorsing the company that this information is taken from.
 
 # _2.3.6 Dimension control of sensor offsets_
-Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](#heading=h.2dlolyb)).
+Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#32-dimensional-control)).
 
 # 2.4 Project team
 The project team should include personnel with relevant and adequate experience in swath acoustic instrumentation and survey requirements. These may consist of qualified people from various backgrounds, such as geophysicists, geologists, engineers, and hydrographic surveyors, but also increasingly includes marine ecologists and spatial analysts that manage seafloor mapping programs. 
@@ -424,7 +424,7 @@ It is recommended that for all survey reports each team member should be identif
 # _2.5.1 Geodetic control and Horizontal Datum_
 Seabed mapping surveys conducted within the Australian EEZ shall be referenced to a geodetic reference frame based on the International Terrestrial Reference System (ITRS), e.g. ITRF 2014 (GRS80 Spheroid) during collection.
 
-Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](#bookmark=id.3tbugp1); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
+Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
 
 ![alt_text](images/figures/image2.png "image_tooltip")
 
@@ -435,10 +435,9 @@ Proposed Horizontal control should be reviewed for accuracy and if local control
 Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Grid.
 
 # _2.5.2 Tidal or ellipsoidal datum_
-The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections [2.5.2.1](#heading=h.37m2jsg) and [2.5.2.2](#heading=h.1mrcu09)). While mapping however, the sounding datum should be used. 
+The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections 2.5.2.1 and 2.5.2.2). While mapping however, the sounding datum should be used. 
 
 ![alt_text](images/figures/image3.png "image_tooltip")
-
 
 _Figure 3 Schematic of datum and associated reduction information (Mills & Dodd, 2014)_
 
@@ -464,7 +463,7 @@ When used in conjunction with GNSS connected/levelled tide gauge data, connectio
 ### 2.5.2.2 Tidal Datum
 When surveying for the purposes of nautical charting, it is essential to have knowledge of local tides. In many areas around Australia, the tidal network infrastructure is sparse and additional temporary tidal infrastructure will be required. To acquire ‘observed tide’ from a tide gauge, a number of tide gauges will need to be installed depending on the tidal complexity of the environment, albeit it is desirable to have at least one gauge installed. 
 
-For specific advice regarding recommended tidal infrastructure for your survey area, please contact the Australian Hydrographic Office ([tides.support@defence.gov.au](file:///C:\Users\u99337\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\13SAM0XD\tides.support@defence.gov.au)).
+For specific advice regarding recommended tidal infrastructure for your survey area, please contact the Australian Hydrographic Office ([tides.support@defence.gov.au](tides.support@defence.gov.au)).
 
 # _2.5.3 Sound velocity profiling_
 Sound Velocity Profiling (SVP) of the water column is essential to the acquisition of swath mapping data, and is used for ray tracing through the water column. SVP influences directly the accuracy and uncertainty of both the horizontal and vertical position of each sounding and its impact is greatest towards the outer beams of the swath (farthest sounding). 
@@ -515,18 +514,16 @@ Where **seabed backscatter data is the primary objective** of the survey, the sa
 
 
 
-11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees [(Figure 4](#bookmark=id.261ztfg); Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
+11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees (Figure 4; Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
 
 
 ![alt_text](images/figures/image4.png "image_tooltip")
 
 _Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
-
-
 12. <span style="text-decoration:underline;">Repeated seabed backscatter survey</span>: For survey using the same swath system, it is recommended that the survey strategies, such as survey direction and orientations, and the system settings are kept identical. Frequency should also not be changed.
 
-See [section 4.2](#heading=h.3vac5uf) which provides information regarding the project structure and nomenclature
+See [section 4.2](https://australian-multibeam-guidelines.github.io/acquisition#42-project-structure-and-nomenclature) which provides information regarding the project structure and nomenclature
 
 # _2.5.6 Seabed samples_
 Seabed samples are often acquired during a seafloor mapping survey for various purposes, including seabed characterisation and seafloor backscatter data calibration. It is thus recommended that procedures outlined in the relevant chapters of the ‘Field manuals for marine sampling to monitor Australian waters’ (Przeslawski and Foster 2018) are followed. 
@@ -534,6 +531,4 @@ Seabed samples are often acquired during a seafloor mapping survey for various p
 This manual recommends sending the samples to Geoscience Australia for analyses, such as grain-size, carbonate content, and results will be delivered in [MARS](http://dbforms.ga.gov.au/pls/www/npm.mars.search) public database. This analysis of samples contributes significantly to the knowledge of our seabed.
 
 # 2.6 Submission of plan, data and notifications
-See sections [2.1.3](#heading=h.2xcytpi), [7](#heading=h.3x8tuzt) and [4.6](#heading=h.1gf8i83).
-
-
+See sections [2.1.3](https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool), [7](https://australian-multibeam-guidelines.github.io/data-release) and [4.6](https://australian-multibeam-guidelines.github.io/acquisition#46-mandatory-notifications).
