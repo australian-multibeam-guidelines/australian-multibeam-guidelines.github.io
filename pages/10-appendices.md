@@ -459,24 +459,20 @@ For **backscatter calibration**, run the line schema for various modes. Alternat
 
 
 ![alt_text](images/figures/imageF1.png "image_tooltip")
-
 _Figure F1 Proposed line pattern for single head sonar patch test_
 
 
 ![alt_text](images/figures/imageF2.png "image_tooltip")
-
 _Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
 
 
 # Appendix G – IHO Standards <br>
 
 _Table G12 IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
-
 ![alt_text](images/figures/imageG1.png "image_tooltip")
 
 
 _Table G2 HIPP standards for hydrographic surveys (AHO, 2018)_
-
 ![alt_text](images/figures/imageG2.png "image_tooltip")
 
 # Appendix H – Records templates
