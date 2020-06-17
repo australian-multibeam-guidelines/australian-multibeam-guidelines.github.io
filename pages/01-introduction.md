@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /introduction
-title: "Introduction"
+title: "1. Introduction"
 excerpt: "<br>"
 image:
   feature: /banners/multibeam-banner.jpg
@@ -151,7 +151,7 @@ Overall these initiatives aim to achieve a number of specific objectives, includ
 *   ensuring better informed management of Australian waters through easy access to a larger set of standards-compliant seabed data
 
 
-## Scope
+## 1.1 Scope
 The Australian Multibeam Guidelines were established by the AusSeabed consortium. The guidelines provide recommended procedures for survey planning, data acquisition and submission, from the pre-survey planning phase to the data submission phase. They are designed for a range of audiences, from those experienced in seafloor mapping using multibeam sonar systems, non-experts who are developing mapping capabilities, and those contracting seafloor mappingsurveys using swath systems. 
 
 These guidelines aim to improve interoperability, discoverability and accessibility of MBES system data, and encourage improved acquisition standards to better meet end-user requirements. We acknowledge that to achieve such an aim, adaptation of the project might be necessary and could impact time and cost. However, in most cases, the inconvenience of varying parameters will be outweighed by the increased utility of the data to a wider user base.
@@ -167,7 +167,7 @@ The guidelines include a broad examination of data processing and guidance for d
 
 
 
-## How to use guidelines
+## 1.2 How to use guidelines
 To help navigate these guidelines, Table 2 identifies sections that are more relevant to various user-groups. Glossaries of abbreviations and terms are included in appendices [A](https://australian-multibeam-guidelines.github.io/appendices#appendix-a--abbreviations) and [B](https://australian-multibeam-guidelines.github.io/appendices#appendix-b--glossary), and a variety of tools and resources available are included in Table 3. Some tools are still under development and will be shared through the [AusSeabed website](http://www.ausseabed.gov.au/). 
 
 These guidelines do not include a full and comprehensive technical description of MBES systems, but rather, provide a list of pertinent references, such as Hughes-Clarke (2017a). They also refer to related guidelines where relevant.
@@ -234,13 +234,8 @@ _Table 2 Relevance to the various user groups by document section number. Howeve
   </tr>
 </table>
 
-
-
-
-## Related standards and publications
+## 1.3 Related standards and publications
 The following publications provide information to underpin the collection of geospatial data and augment these guidelines. The complete references can be found in the [References](https://australian-multibeam-guidelines.github.io/references), but the most recent published versions of key documents are: 
-
-
 
 1. AHO, 2017. Hydroscheme Industry Partnership Program - Statement of requirements 
 2. AHO. [Hydrographic Note](http://www.hydro.gov.au/feedback/feedback-hydronote.htm), Australian Hydrographic Office 
