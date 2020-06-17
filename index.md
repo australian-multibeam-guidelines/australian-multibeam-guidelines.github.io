@@ -52,20 +52,242 @@ Version: 1801
 
 
 
-| Chapter Contents                                                                                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Introduction](https://australian-multibeam-guidelines.github.io/introduction)**   
-|  __[Scope](https://australian-multibeam-guidelines.github.io/scope)__                                                                        |
-|  **[Pre-survey Planning](https://australian-multibeam-guidelines.github.io/pre-survey-planning)** |
-|  **[Mobilisation, Calibration and Validation](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation)**                                   |
-|  **[Acquisition](https://australian-multibeam-guidelines.github.io/acquisition)**                                                   |
-|       _[Data Processing](https://australian-multibeam-guidelines.github.iodata-acquisition#data-processing)_                   |
-|       _[Reports](https://australian-multibeam-guidelines.github.io/data-acquisition#reports)_                                     |
-|       _[Data Release](https://australian-multibeam-guidelines.github.io/data-acquisition#data-release)_                |
-|       _[Multibeam acoustics for marine monitoring](https://australian-multibeam-guidelines.github.io/marine-monitoring)_                      |
-|  **[Field Manual Maintenance](https://australian-multibeam-guidelines.github.io/field-manual-maintenance)**                                   |
-|  **[References](https://australian-multibeam-guidelines.github.io/references)**                                                               |
-|  **[Appendices](https://australian-multibeam-guidelines.github.io/appendices)**                                                               |
-
+<table>
+<thead>
+  <tr>
+    <th><a href="https://australian-multibeam-guidelines.github.io/introduction">1. Introduction</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#11-scope">1.1 Scope</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#12-how-to-use-guidelines">1.2 How to use guidelines</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#13-related-standards-and-publications">1.3 Related standards and publications</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning">2. Pre-survey Planning</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#21-national-coverage-consultation-and-upcoming-survey-register">2.1 National coverage consultation and upcoming survey register</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#211-existing-data-coverage">2.1.1 Existing Data coverage</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#212-national-bathymetry-priorities">2.1.2 National Bathymetry priorities</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">2.1.3 AusSeabed Coordination Tool</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#22-research-and-survey-permits">2.2 Research and survey permits</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#23-seabed-mapping-data-collection-considerations">2.3 Seabed mapping data collection considerations</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">2.3.1 Data type, formats, and metadata</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#232-survey-area-characterization">2.3.2 Survey area characterization</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#233-data-representation-seafloor-coverage-and-resolution">2.3.3 Data representation (seafloor coverage and resolution)</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#234-quality-assessment--uncertainty-scheme">2.3.4 Quality assessment / uncertainty scheme</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#235-platforms--systems">2.3.5 Platforms &amp; Systems</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#236-dimension-control-of-sensor-offsets">2.3.6 Dimension control of sensor offsets</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#24-project-team">2.4 Project team</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#25-field-survey-instructions">2.5 Field survey instructions</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum">2.5.1 Geodetic control and Horizontal Datum</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#252-tidal-or-ellipsoidal-datum">2.5.2 Tidal or ellipsoidal datum</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#253-sound-velocity-profiling">2.5.3 Sound velocity profiling</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#254-time-and-date">2.5.4 Time and date</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#255-line-planning">2.5.5 Line planning</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#256-seabed-samples">2.5.6 Seabed samples</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#26-submission-of-plan-data-and-notifications">2.6 Submission of plan, data and notifications</a></td>
+  </tr>
+  <tr>
+    <td>3. Mobilisation, Calibration and Validation</td>
+  </tr>
+  <tr>
+    <td>3.1 Overview</td>
+  </tr>
+  <tr>
+    <td>3.2 Dimensional control</td>
+  </tr>
+  <tr>
+    <td>3.2.1 Physical offset survey</td>
+  </tr>
+  <tr>
+    <td>3.2.2 Rotation offset survey</td>
+  </tr>
+  <tr>
+    <td>3.3 Horizontal positioning</td>
+  </tr>
+  <tr>
+    <td>3.4 Vertical positioning</td>
+  </tr>
+  <tr>
+    <td>3.4.1 Depth validation</td>
+  </tr>
+  <tr>
+    <td>3.4.2 Settlement and squat</td>
+  </tr>
+  <tr>
+    <td>3.4.3 Vessel draft</td>
+  </tr>
+  <tr>
+    <td>3.4.4 Sound velocity</td>
+  </tr>
+  <tr>
+    <td>3.4.5 Tidal station</td>
+  </tr>
+  <tr>
+    <td>3.5 Patch test</td>
+  </tr>
+  <tr>
+    <td>3.6 Seafloor backscatter calibration</td>
+  </tr>
+  <tr>
+    <td>3.7 Water column backscatter calibration</td>
+  </tr>
+  <tr>
+    <td>3.8 Built-in systems test</td>
+  </tr>
+  <tr>
+    <td>3.9 Final acceptance test</td>
+  </tr>
+  <tr>
+    <td>4. Acquisition</td>
+  </tr>
+  <tr>
+    <td>4.1 Survey plan</td>
+  </tr>
+  <tr>
+    <td>4.2 Project structure and nomenclature</td>
+  </tr>
+  <tr>
+    <td>4.3 Systems settings</td>
+  </tr>
+  <tr>
+    <td>4.3.1 Bathymetry</td>
+  </tr>
+  <tr>
+    <td>4.3.2 Backscatter</td>
+  </tr>
+  <tr>
+    <td>4.3.3 Transit data</td>
+  </tr>
+  <tr>
+    <td>4.4 Ancillary systems</td>
+  </tr>
+  <tr>
+    <td>4.4.1 Sound velocity Profile</td>
+  </tr>
+  <tr>
+    <td>4.4.2 Tides</td>
+  </tr>
+  <tr>
+    <td>4.5 Monitoring, QA/QC &amp; Data backup</td>
+  </tr>
+  <tr>
+    <td>4.5.1 GNSS positioning</td>
+  </tr>
+  <tr>
+    <td>4.6 Mandatory notifications</td>
+  </tr>
+  <tr>
+    <td>4.6.1 Dangers found – hydrographic notes</td>
+  </tr>
+  <tr>
+    <td>4.6.2 Underwater cultural heritage notification</td>
+  </tr>
+  <tr>
+    <td>5. Data Processing</td>
+  </tr>
+  <tr>
+    <td>5.1 Data processing considerations</td>
+  </tr>
+  <tr>
+    <td>5.1.1 During survey</td>
+  </tr>
+  <tr>
+    <td>5.1.2 Post-survey</td>
+  </tr>
+  <tr>
+    <td>5.1.3 Backscatter processing requirements</td>
+  </tr>
+  <tr>
+    <td>5.2 Total propagated uncertainties (TPU)</td>
+  </tr>
+  <tr>
+    <td>6. Reports</td>
+  </tr>
+  <tr>
+    <td>6.1 Mobilisation, calibration and validation records</td>
+  </tr>
+  <tr>
+    <td>6.1.1 Logs</td>
+  </tr>
+  <tr>
+    <td>6.1.2 Report</td>
+  </tr>
+  <tr>
+    <td>6.2 Record Keeping</td>
+  </tr>
+  <tr>
+    <td>6.2.1 Logs</td>
+  </tr>
+  <tr>
+    <td>6.2.2 Report of Survey</td>
+  </tr>
+  <tr>
+    <td>7. Data Release</td>
+  </tr>
+  <tr>
+    <td>7.1 Final QA/QC</td>
+  </tr>
+  <tr>
+    <td>7.2 Data Submission to AusSeabed</td>
+  </tr>
+  <tr>
+    <td>8. Multibeam Acoustics for Marine Monitoring</td>
+  </tr>
+  <tr>
+    <td>9. References</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 <a href="#" class="scrollUpButton">Back to top</a>
