@@ -546,7 +546,147 @@ _Table D1 Estimated time frame required to perform some of the swath system rela
 
 # Appendix E – Total Propagated Uncertainties 
 _Table E1 Sounding Accuracy - Example MBES Total Propagated Uncertainty Estimates_
-
+<table>
+<thead>
+  <tr>
+    <th>Uncertainty Source</th>
+    <th>Value</th>
+    <th>Reference to Accuracy Value for Total Propagated Uncertainty Computation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Heading (degrees)</td>
+    <td>0.05</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Smart Heave <br>(Amplitude %)<br>Real-Time Heave (Amplitude %)</td>
+    <td>2.5<br>5.0</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Smart Heave (m)<br>Real-Time Heave (m)</td>
+    <td>0.025<br>0.05</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Roll (degrees)</td>
+    <td>0.01</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Pitch (degrees)</td>
+    <td>0.01</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Navigation (m)</td>
+    <td>0.10</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Transducer Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Navigation Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Heading Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Heave Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Pitch Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Roll Timing (s)</td>
+    <td>0.001</td>
+    <td>Estimated – 1PPS (Make/Model)</td>
+  </tr>
+  <tr>
+    <td>Offset X (m)</td>
+    <td>0.02</td>
+    <td>Estimated – (Description of Dimensional Control method)</td>
+  </tr>
+  <tr>
+    <td>Offset Y (m)</td>
+    <td>0.02</td>
+    <td>Estimated - (Description of Dimensional Control method)</td>
+  </tr>
+  <tr>
+    <td>Offset Z (m)</td>
+    <td>0.02</td>
+    <td>Estimated - (Description of Dimensional Control method)</td>
+  </tr>
+  <tr>
+    <td>Speed (knots)</td>
+    <td>0.10</td>
+    <td>Not Applicable</td>
+  </tr>
+  <tr>
+    <td>Loading (m)</td>
+    <td>0.02</td>
+    <td>Estimated</td>
+  </tr>
+  <tr>
+    <td>Draft (m)</td>
+    <td>0.05</td>
+    <td>Estimated – (Description of measurement)</td>
+  </tr>
+  <tr>
+    <td>Delta Draft (m)</td>
+    <td>0.02</td>
+    <td>Estimated - Vessel Dynamic Draft (Squat/Settlement) Calibration</td>
+  </tr>
+  <tr>
+    <td>MRU Heading Alignment (degrees)</td>
+    <td>0.05</td>
+    <td>Estimated - Multi-beam Patch Test Calibration</td>
+  </tr>
+  <tr>
+    <td>MRU Pitch/Roll Alignment (degrees)</td>
+    <td>0.05</td>
+    <td>Estimated - Multi-beam Patch Test Calibration</td>
+  </tr>
+  <tr>
+    <td>Tidal Measurements (m)</td>
+    <td>0.02<br>0.02<br>0.03<br>0.05</td>
+    <td>(Make/Model) TG – Manufacturer Accuracy Value<br>(Make/Model) Barometer – Manufacturer Accuracy Value<br>Estimated - GNSS Buoy TG calibration<br>Estimated – Accounting for above Contributions</td>
+  </tr>
+  <tr>
+    <td>Tidal Zoning (m)</td>
+    <td>0.10</td>
+    <td>Estimated - Co-Tidal Model</td>
+  </tr>
+  <tr>
+    <td>SVP Profile Measurement (m/s)</td>
+    <td>0.02<br>0.50</td>
+    <td>(Make/Model) – Manufacturer Accuracy Value<br>Estimated - Temporal and Spatial Variation</td>
+  </tr>
+  <tr>
+    <td>SVP Surface Measurement (m/s)</td>
+    <td>0.017</td>
+    <td>Make/Model) - Manufacturer Accuracy Value</td>
+  </tr>
+  <tr>
+    <td>Sonar Measurement</td>
+    <td></td>
+    <td>MBES Device Models File </td>
+  </tr>
+</tbody>
+</table>
 
 
 # Appendix F – Patch test
