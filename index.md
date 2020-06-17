@@ -60,22 +60,22 @@ Version: 1801
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/introduction">1. Introduction</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction"><strong>1. Introduction</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#11-scope">1.1 Scope</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#11-scope"><i>1.1 Scope</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#12-how-to-use-guidelines">1.2 How to use guidelines</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#12-how-to-use-guidelines"><i>1.2 How to use guidelines</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#13-related-standards-and-publications">1.3 Related standards and publications</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#13-related-standards-and-publications"><i>1.3 Related standards and publications</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning">2. Pre-survey Planning</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning"><strong>2. Pre-survey Planning</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#21-national-coverage-consultation-and-upcoming-survey-register">2.1 National coverage consultation and upcoming survey register</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#21-national-coverage-consultation-and-upcoming-survey-register"><i>2.1 National coverage consultation and upcoming survey register</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#211-existing-data-coverage">2.1.1 Existing Data coverage</a></td>
@@ -87,10 +87,10 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">2.1.3 AusSeabed Coordination Tool</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#22-research-and-survey-permits">2.2 Research and survey permits</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#22-research-and-survey-permits"><i>2.2 Research and survey permits</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#23-seabed-mapping-data-collection-considerations">2.3 Seabed mapping data collection considerations</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#23-seabed-mapping-data-collection-considerations"><i>2.3 Seabed mapping data collection considerations</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">2.3.1 Data type, formats, and metadata</a></td>
@@ -111,10 +111,10 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#236-dimension-control-of-sensor-offsets">2.3.6 Dimension control of sensor offsets</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#24-project-team">2.4 Project team</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#24-project-team"><i>2.4 Project team</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#25-field-survey-instructions">2.5 Field survey instructions</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#25-field-survey-instructions"><i>2.5 Field survey instructions</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum">2.5.1 Geodetic control and Horizontal Datum</a></td>
@@ -135,16 +135,16 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#256-seabed-samples">2.5.6 Seabed samples</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#26-submission-of-plan-data-and-notifications">2.6 Submission of plan, data and notifications</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#26-submission-of-plan-data-and-notifications"><i>2.6 Submission of plan, data and notifications</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation">3. Mobilisation, Calibration and Validation</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation"><strong>3. Mobilisation, Calibration and Validation</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#31-overview">3.1 Overview</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#31-overview"><i>3.1 Overview</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#32-dimensional-control">3.2 Dimensional control</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#32-dimensional-control"><i>3.2 Dimensional control</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#321-physical-offset-survey">3.2.1 Physical offset survey</a></td>
@@ -153,10 +153,10 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#322-rotation-offset-survey">3.2.2 Rotation offset survey</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#33-horizontal-positioning">3.3 Horizontal positioning</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#33-horizontal-positioning"><i>3.3 Horizontal positioning</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#34-vertical-positioning">3.4 Vertical positioning</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#34-vertical-positioning"><i>3.4 Vertical positioning</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#341-depth-validation">3.4.1 Depth validation</a></td>
@@ -174,31 +174,31 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#345-tidal-station">3.4.5 Tidal station</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#35-patch-test">3.5 Patch test</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#35-patch-test"><i>3.5 Patch test</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#36-seafloor-backscatter-calibration">3.6 Seafloor backscatter calibration</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#36-seafloor-backscatter-calibration"><i>3.6 Seafloor backscatter calibration</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#37-water-column-backscatter-calibration">3.7 Water column backscatter calibration</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#37-water-column-backscatter-calibration"><i>3.7 Water column backscatter calibration</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#38-built-in-systems-test">3.8 Built-in systems test</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#38-built-in-systems-test"><i>3.8 Built-in systems test</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#39-final-acceptance-test">3.9 Final acceptance test</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#39-final-acceptance-test"><i>3.9 Final acceptance test</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition">4. Acquisition</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition"><strong>4. Acquisition</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#41-survey-plan">4.1 Survey plan</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#41-survey-plan"><i>4.1 Survey plan</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#42-project-structure-and-nomenclature">4.2 Project structure and nomenclature</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#42-project-structure-and-nomenclature"><i>4.2 Project structure and nomenclature</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#43-systems-settings">4.3 Systems settings</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#43-systems-settings"><i>4.3 Systems settings</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#431-bathymetry">4.3.1 Bathymetry</a></td>
@@ -210,7 +210,7 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#433-transit-data">4.3.3 Transit data</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#44-ancillary-systems">4.4 Ancillary systems</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#44-ancillary-systems"><i>4.4 Ancillary systems</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#441-sound-velocity-profile">4.4.1 Sound Velocity Profile</a></td>
@@ -219,13 +219,13 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#442-tides">4.4.2 Tides</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#45-monitoring-qaqc--data-backup">4.5 Monitoring, QA/QC &amp; Data backup</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#45-monitoring-qaqc--data-backup"><i>4.5 Monitoring, QA/QC &amp; Data backup</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#451-gnss-positioning">4.5.1 GNSS positioning</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#46-mandatory-notifications">4.6 Mandatory notifications</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#46-mandatory-notifications"><i>4.6 Mandatory notifications</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#461-dangers-found--hydrographic-notes">4.6.1 Dangers found – hydrographic notes</a></td>
@@ -234,10 +234,10 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#462-underwater-cultural-heritage-notification">4.6.2 Underwater cultural heritage notification</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing">5. Data Processing</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing"><strong>5. Data Processing<strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#51-data-processing-considerations">5.1 Data processing considerations</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#51-data-processing-considerations"><i>5.1 Data processing considerations</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#511-during-survey">5.1.1 During survey</a></td>
@@ -249,13 +249,13 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#513-backscatter-processing-requirements">5.1.3 Backscatter processing requirements</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu">5.2 Total propagated uncertainties (TPU)</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu"><i>5.2 Total propagated uncertainties (TPU)</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports">6. Reports</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports"><strong>6. Reports</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records">6.1 Mobilisation, calibration and validation records</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records"><i>6.1 Mobilisation, calibration and validation records</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#611-logs">6.1.1 Logs</a></td>
@@ -264,7 +264,7 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#612-report">6.1.2 Report</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-keeping">6.2 Record Keeping</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-keeping"><i>6.2 Record Keeping</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#621-logs">6.2.1 Logs</a></td>
@@ -273,22 +273,22 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of Survey</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release">7. Data Release</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release"><strong>7. Data Release<strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc">7.1 Final QA/QC</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc"><i>7.1 Final QA/QC</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed">7.2 Data Submission to AusSeabed</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed"><i>7.2 Data Submission to AusSeabed</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/marine-monitoring">8. Multibeam Acoustics for Marine Monitoring</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/marine-monitoring"><strong>8. Multibeam Acoustics for Marine Monitoring</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/references">9. References</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/references"><strong>9. References</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/appendices">Appendices</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/appendices"><strong>Appendices</strong></a></td>
   </tr>
 </tbody>
 </table>
