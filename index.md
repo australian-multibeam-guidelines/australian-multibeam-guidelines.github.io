@@ -234,7 +234,7 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#462-underwater-cultural-heritage-notification">4.6.2 Underwater cultural heritage notification</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing"><strong>5. Data Processing<strong></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-processing"><strong>5. Data Processing</strong></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/data-processing#51-data-processing-considerations"><i>5.1 Data processing considerations</i></a></td>
@@ -273,7 +273,7 @@ Version: 1801
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of Survey</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release"><strong>7. Data Release<strong></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release"><strong>7. Data Release</strong></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc"><i>7.1 Final QA/QC</i></a></td>
