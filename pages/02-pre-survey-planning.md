@@ -371,9 +371,7 @@ It is important to highlight that identification of features of specific sizes r
 
 The general formula to calculate the depth at which five pulses should ensonify a target of a given size at different speed is (GBHD, 1996): 
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="images/figures/equation1.png" width="" alt="alt_text" title="image_tooltip">
 
 
 Where:
