@@ -759,11 +759,11 @@ _Table G2 HIPP standards for hydrographic surveys (AHO, 2018)_
 
 The following appendix provides suggested templates for Records that should be produced during a seabed mapping survey. These templates can also be downloaded on the [AusSeabed](http://www.ausseabed.gov.au/resources/guidelines) website (with the exception of the AusSeabed required metadata table.
 
-**H.1 Mobilisation, calibration and validation report**
+# _H.1 Mobilisation, calibration and validation report_
 
 The following [link](https://drive.google.com/open?id=1IC5_gZTgxU7xOSaGgsM2_FJ4_RmKLLl2) provides you with the template.
 
-**H.2 AusSeabed minimum required metadata**
+# _H.2 AusSeabed minimum required metadata_
 
 Below is a table with specific field definitions and examples for each metadata field expected to accompany data submitted to AusSeabed. The fields specified are considered a minimum set that can be appended to, but not deviated from, replaced, or altered. Note that on submission it is only required to provide the Field column and the associated survey metadata the other columns in the table are provided for illustrative purposes only. 
 
@@ -1770,7 +1770,7 @@ special restrictions or limitations on obtaining the resource or metadata
 
 
 
-## H.4 Report of Survey template
+# _H.4 Report of Survey template_
 
 The following template has been modified from AHO Survey Summary Template, which can be found in full [here](http://www.hydro.gov.au/prodserv/data/hydro-data.htm). Guidance on Confidence Levels and Error Ellipse scaling is contained in ICSM (2014a), uncertainties from IHO publication S-44 or by contacting the Bathymetric Data Assessment Section at the Australian Hydrographic Office on 02 4223 6500.
 
