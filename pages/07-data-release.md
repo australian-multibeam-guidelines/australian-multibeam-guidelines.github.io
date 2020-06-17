@@ -42,7 +42,7 @@ _Table 10 Data required for submission to AusSeabed_
 <tbody>
   <tr>
     <td>L0 data (unprocessed instrument data)</td>
-    <td><strong>Description:</strong> It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see<a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#heading=h.3as4poj"> section 2.3.1.2</a><br><strong>Data Format:</strong> native format as produced by the acquisition system (see <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.49x2ik5">table 5</a> for formats) <br><strong>Datagram:</strong> logged automatically for Kongsberg EM series. However, for Reson SeaBat, datagrams with the following IDs are required: 1003, 1012, 1013, 7000, 7001, 7002, 7004, 7006, 7005, 7007, 7012, 7018, 7022, 7028, 7200, and 7504.</td>
+    <td><strong>Description:</strong> It is required that raw data include SV profile, attitude, navigation, heading, raw bathymetry, raw backscatter per beam and, if available, raw backscatter in time series i.e. the equivalent seabed image or snippet style. Water column data, recorded as (separate files) are only required when the data files have been requested specifically during survey planning. For more info see<a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata"> section 2.3.1.2</a><br><strong>Data Format:</strong> native format as produced by the acquisition system (see <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">table 5</a> for formats) <br><strong>Datagram:</strong> logged automatically for Kongsberg EM series. However, for Reson SeaBat, datagrams with the following IDs are required: 1003, 1012, 1013, 7000, 7001, 7002, 7004, 7006, 7005, 7007, 7012, 7018, 7022, 7028, 7200, and 7504.</td>
   </tr>
   <tr>
     <td>True Heave</td>
@@ -82,7 +82,7 @@ _Table 10 Data required for submission to AusSeabed_
   </tr>
   <tr>
     <td>Metadata</td>
-    <td><strong>Description:</strong> Metadata should as a minimum conform to the list of attributes outlined in <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#heading=h.147n2zr">section 2.3.1.3 </a>and described in detail in <a href="https://docs.google.com/document/d/1Ara5G14ZVOfY34QR4HVuEcyppHTmnl8bDRuY1XG2nAU/edit#bookmark=id.302dr9l">appendix H.2</a><br><strong>Data Format:</strong> .xml (preferred) txt file or spreadsheet also accepted</td>
+    <td><strong>Description:</strong> Metadata should as a minimum conform to the list of attributes outlined in <a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">section 2.3.1.3 </a>and described in detail in <a href="https://australian-multibeam-guidelines.github.io/appendices#h2-ausseabed-minimum-required-metadata">appendix H.2</a><br><strong>Data Format:</strong> .xml (preferred) txt file or spreadsheet also accepted</td>
   </tr>
 </tbody>
 </table>
