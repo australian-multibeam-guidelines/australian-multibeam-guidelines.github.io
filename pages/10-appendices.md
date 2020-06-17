@@ -742,83 +742,83 @@ _Table H1 Required Metadata for data submitted to AusSeabed_
     <td rowspan="4">Basic information about the data package being submitted. </td>
     <td>Survey title (full)</td>
     <td>A short phrase or sentence describing the dataset. In many discovery systems, the title will be displayed in the results list from a search, and therefore should be human readable and reasonable to display in a list of such names.</td>
-    <td>MH370 Phase 1 150m Bathymetry datasets</td>
+    <td><i>MH370 Phase 1 150m Bathymetry datasets</i></td>
   </tr>
   <tr>
     <td>Survey ID</td>
     <td>The ID assigned to the survey, relevant especially when an ID may be how the survey is more widely referenced. </td>
-    <td>GA-4421, GA-4422, GA-4430</td>
+    <td><i>GA-4421, GA-4422, GA-4430</i></td>
   </tr>
   <tr>
     <td>Abstract</td>
     <td>A paragraph describing the dataset, analogous to an abstract for a paper.</td>
-    <td>“On behalf of Australia, the Australian Transport Safety Bureau (ATSB) is leading search operations for missing Malaysian airlines flight MH370 in the Southern Indian Ocean. Geoscience Australia provided advice, expertise and support to the ATSB to facilitate bathymetric surveys … [for full abstract visit <a href="http://pid.geoscience.gov.au/dataset/100315">http://pid.geoscience.gov.au/dataset/100315</a>]</td>
+    <td><i>“On behalf of Australia, the Australian Transport Safety Bureau (ATSB) is leading search operations for missing Malaysian airlines flight MH370 in the Southern Indian Ocean. Geoscience Australia provided advice, expertise and support to the ATSB to facilitate bathymetric surveys</i> … [for full abstract visit <a href="http://pid.geoscience.gov.au/dataset/100315">http://pid.geoscience.gov.au/dataset/100315</a>]</td>
   </tr>
   <tr>
     <td>Lineage</td>
     <td>Information about the events or source data used in constructing the data specified by the scope or lack of knowledge about lineage.<br>Lineage can be complex to record, so can be actively linked within a metadata record either to a file within the dataset being submitted or to a hosted location where the lineage statement may be found. If neither of these options are preferred, a full narrative may also be provided. </td>
-    <td>“<a href="http://pid.geoscience.gov.au/dataset/ga/100315">link-to-lineage-statement</a>” OR<br>Full text: <br>“The MH370 Search bathymetry Surveys, GA-4421 GP1483 was acquired by the Australian Government through ATSB/GA on-board the MV Fugro Equator from the 05th of June to the 30th of July 2016, GA-4422 through the Chinese Navy Vessel Zhu Kezhen 872 from the 3rd June to 31 August 2014 and from the 5th January to the 30 April 2015 for the MV Fugro Supporter………”</td>
+    <td><i>“<a href="http://pid.geoscience.gov.au/dataset/ga/100315">link-to-lineage-statement</a>” OR<br>Full text: <br>“The MH370 Search bathymetry Surveys, GA-4421 GP1483 was acquired by the Australian Government through ATSB/GA on-board the MV Fugro Equator from the 05th of June to the 30th of July 2016, GA-4422 through the Chinese Navy Vessel Zhu Kezhen 872 from the 3rd June to 31 August 2014 and from the 5th January to the 30 April 2015 for the MV Fugro Supporter………”</i></td>
   </tr>
   <tr>
     <td rowspan="4">Contact for the Data</td>
     <td rowspan="4">Information that is related to contacts for the data</td>
     <td>Data Owner</td>
     <td>. The person and/or organisation that owns the submitted data for the purpose of empowering AusSeabed to act as a custodian</td>
-    <td>Commonwealth of Australia</td>
+    <td><i>Commonwealth of Australia</i></td>
   </tr>
   <tr>
     <td>Custodian</td>
     <td>The person and/or organisation that accepts, archives and disseminates the data</td>
-    <td>Commonwealth of Australia</td>
+    <td><i>Commonwealth of Australia</i></td>
   </tr>
   <tr>
     <td>Point of Contact</td>
     <td>The person and/or contact details for initiating contact regarding the data</td>
-    <td>Commonwealth of Australia (Geoscience Australia)<br>clientservices@ga.gov.au (Manager Client Services)<br>Cnr Jerrabomberra Ave and Hindmarsh Dr GPO Box 378, Canberra, ACT, 2601, Australia<br>Call 1800 800 173,02 6249 9960</td>
+    <td><i>Commonwealth of Australia (Geoscience Australia)<br>clientservices@ga.gov.au (Manager Client Services)<br>Cnr Jerrabomberra Ave and Hindmarsh Dr GPO Box 378, Canberra, ACT, 2601, Australia<br>Call 1800 800 173,02 6249 9960</i></td>
   </tr>
   <tr>
     <td>Collecting Entity</td>
     <td>The organisation that was responsible for collecting the data being described.  </td>
-    <td>Australian Transport Safety Bureau (ATSB)</td>
+    <td><i>Australian Transport Safety Bureau (ATSB)</i></td>
   </tr>
   <tr>
     <td rowspan="5">Citation</td>
     <td rowspan="5">Information that is collected to ensure appropriate credit is assigned for the data being provided, and ensuring the data’s intended use of the data is clear. </td>
     <td>Attribution Licence (citation)</td>
     <td>Statement of attribution that must be included whenever the data being provided is distributed/redistributed or used by another organisation. </td>
-    <td>2017. MH370 Phase 1 150m Bathymetry datasets (GA-4421, GA-4422 &amp; GA-4430). Geoscience Australia, Canberra. http://pid.geoscience.gov.au/dataset/100315</td>
+    <td><i>2017. MH370 Phase 1 150m Bathymetry datasets (GA-4421, GA-4422 &amp; GA-4430). Geoscience Australia, Canberra. http://pid.geoscience.gov.au/dataset/100315 </i></td>
   </tr>
   <tr>
     <td>Legal Constraints</td>
     <td>Restrictions and legal prerequisites for accessing and using the resource or metadata</td>
-    <td>Creative Commons Attribution 4.0 International Licence<br>http://creativecommons.org/licenses/</td>
+    <td><i>Creative Commons Attribution 4.0 International Licence<br>http://creativecommons.org/licenses/ </i></td>
   </tr>
   <tr>
     <td>Access Constraints</td>
     <td>Details of any constraints that are not determined under the licence constraints regarding the access to the information being provided. Access constraints are applied to assure the protection of privacy or intellectual property, and any<br>special restrictions or limitations on obtaining the resource or metadata</td>
-    <td>As per licence</td>
+    <td><i>As per licence</i></td>
   </tr>
   <tr>
     <td>Use Constraints</td>
     <td>Details of any constraints that are not determined under the licence constraints regarding the use of the information being provided. </td>
-    <td>As per licence</td>
+    <td><i>As per licence</i></td>
   </tr>
   <tr>
     <td>Country (of data ownership) </td>
     <td>Country of the owner of the data. </td>
-    <td>Australia</td>
+    <td><i>Australia</i></td>
   </tr>
   <tr>
     <td rowspan="4">Survey Positioning Data</td>
     <td rowspan="4">The information provided in the positioning data provides for both an overview of the survey’s coverage, and the primary coordination reference system that was used to collect/prepare the survey data. </td>
     <td>Survey area (general)  </td>
     <td>Plain English description of the location of the survey.</td>
-    <td>Indian ocean approximately 1100nm off the coast of Perth Australia. </td>
+    <td><i>Indian ocean approximately 1100nm off the coast of Perth Australia.</i></td>
   </tr>
   <tr>
     <td>Survey bounding box coordinates </td>
     <td>The detailed coordinates of the survey. This may be provided in a variety of formats, however full positioning information is required. </td>
-    <td rowspan="2">78.00, -42.00, 116.00, -12.00<br>"WGS 84 / UTM zone 44S (EPSG:32744)","WGS 84 / UTM zone 46S (EPSG:32746)","WGS 84 / UTM zone 47S (EPSG:32747)","WGS 84 / UTM zone 48S (EPSG:32748)","WGS 84 / UTM zone 49S (EPSG:32749)","WGS 84 / UTM zone 50S (EPSG:32750)"</td>
+    <td rowspan="2"><i>78.00, -42.00, 116.00, -12.00<br>"WGS 84 / UTM zone 44S (EPSG:32744)","WGS 84 / UTM zone 46S (EPSG:32746)","WGS 84 / UTM zone 47S (EPSG:32747)","WGS 84 / UTM zone 48S (EPSG:32748)","WGS 84 / UTM zone 49S (EPSG:32749)","WGS 84 / UTM zone 50S (EPSG:32750)"</i></td>
   </tr>
   <tr>
     <td>Coordinate reference system - Bounding Box</td>
@@ -827,51 +827,51 @@ _Table H1 Required Metadata for data submitted to AusSeabed_
   <tr>
     <td>Coordinate reference system - Survey Data</td>
     <td>The coordinate reference system used for data collection.</td>
-    <td>"WGS 84 / UTM zone 44S (EPSG:32744)","WGS 84 / UTM zone 46S (EPSG:32746)","WGS 84 / UTM zone 47S (EPSG:32747)","WGS 84 / UTM zone 48S (EPSG:32748)","WGS 84 / UTM zone 49S (EPSG:32749)","WGS 84 / UTM zone 50S (EPSG:32750)"</td>
+    <td><i>"WGS 84 / UTM zone 44S (EPSG:32744)","WGS 84 / UTM zone 46S (EPSG:32746)","WGS 84 / UTM zone 47S (EPSG:32747)","WGS 84 / UTM zone 48S (EPSG:32748)","WGS 84 / UTM zone 49S (EPSG:32749)","WGS 84 / UTM zone 50S (EPSG:32750)"</i></td>
   </tr>
   <tr>
     <td rowspan="3">Reference System</td>
     <td rowspan="3">The finer details of the reference system used for data collection. </td>
     <td>Geodetic datum of the survey</td>
     <td>The reference datum of the data collected</td>
-    <td>WGS 84</td>
+    <td><i>WGS 84</i></td>
   </tr>
   <tr>
     <td>Horizontal Datum</td>
     <td>The horizontal reference datum for data collection</td>
-    <td>UTM</td>
+    <td><i>UTM</i></td>
   </tr>
   <tr>
     <td>Vertical Datum</td>
     <td>The vertical reference datum for data collection</td>
-    <td>MSL</td>
+    <td><i>MSL</i></td>
   </tr>
   <tr>
     <td rowspan="5">Survey Configuration</td>
     <td rowspan="5">The configuration of the survey as it ran.  </td>
     <td>Instrument type</td>
     <td>The type of instrument used to capture the data. Suggested values are:<br>Multi-beam<br>Single-Beam<br>Bathy LiDAR<br>Airborne Imagery<br>Satellite<br>Side-Scan<br>Sub-Bottom profiler</td>
-    <td>Multi-beam Sonar</td>
+    <td><i>Multi-beam Sonar</i></td>
   </tr>
   <tr>
     <td>Sensor type</td>
     <td>The type of sensor used to collect the data being provided. </td>
-    <td>EM2040</td>
+    <td><i>EM2040</i></td>
   </tr>
   <tr>
     <td>Sensor Frequency</td>
     <td>Frequency at which the survey was conducted. This may be provided as multiple values based on the sensor’s capabilities. </td>
-    <td>200-400kHz</td>
+    <td><i>200-400kHz</i></td>
   </tr>
   <tr>
     <td>Platform type</td>
     <td>The platform hosting the instruments and sensors used to collect the data. </td>
-    <td>Ship, AUV</td>
+    <td><i>Ship, AUV</i></td>
   </tr>
   <tr>
     <td>Platform Name</td>
     <td>The name of the platform used to collect submitted data</td>
-    <td>RV Investigator</td>
+    <td><i>RV Investigator</i></td>
   </tr>
 </tbody>
 </table>
