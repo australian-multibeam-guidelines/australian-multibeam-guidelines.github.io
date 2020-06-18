@@ -53,7 +53,7 @@ The TPU is the combination of the total horizontal uncertainties (THU) and the t
 
 Uncertainty calculation is best addressed using most internationally accepted statistical models for determination of TPU, which are derived from Hare et al. (1995).  Current international best-practice statistical model for resolving the system of equations is the Combined Uncertainty Bathymetric Estimator (CUBE). The average horizontal and vertical TPU estimates determined by the software for a range of water depths is provided with respect to the IHO S-44 standard for position and depth accuracy in Table 6. 
 
-_Table 9: Example Sounding Accuracy - TPU (calculated at 1σ, but most software computes at 2σ)_
+_Table 9 Example Sounding Accuracy - TPU (calculated at 1σ, but most software computes at 2σ)_
 
 <table>
   <tr>
