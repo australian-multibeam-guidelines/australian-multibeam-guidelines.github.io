@@ -12,7 +12,7 @@ page.button1.external_url:
 
 Lead Authors: K. Picard, A. Leplastrier, K. Austine, N. Bergersen, R. Cullen, N. Dando, D.Donohue, S. Edwards, T. Ingleton, A. Jordan, V. Lucieer, I. Parnum, J. Siwabessy, M. Spinoccia, R. Talbot-Smith & C. Waterson
 
-Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B. Brooke, O. Cantrill, M. Case, J. Daniell, S. Dunne, M. Fellows, U. Harris, D. Ierodiaconou, E. Johnstone, P. Kennedy, A. Lewis, S. Lytton, K. Mackay, S. McLennan, C. Mitchell, S. Nichol, A. Post, A. Price, R. Przeslawski, L. Pugsley, N. Quadros, J. Smith, W. Stewart, J. Sullivan, M. Tran, T. Whiteway
+Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B. Brooke, O. Cantrill, M. Case, J. Daniell, S. Dunne, M. Fellows, U. Harris, D. Ierodiaconou, E. Johnstone, P. Kennedy, A. Lewis, S. Lytton, K. Mackay, S. McLennan, C. Mitchell, S. Nichol, A. Post, A. Price, R. Przeslawski, L. Pugsley, N. Quadros, J. Smith, W. Stewart, J. Sullivan, M. Tran & T. Whiteway
 
 ![alt_text](images/MBES.jpg "image_tooltip")
 
