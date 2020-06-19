@@ -1,13 +1,10 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: "AusSeabed Australian Multibeam Guidelines"
-excerpt: "2020"
+excerpt: ""
 image:
   feature: /banners/multibeam-banner.jpg
-page.button1.external_url:
-  url: https://www.nespmarine.edu.au/
-  caption: NESP
 ---
 
 Lead Authors: K. Picard, A. Leplastrier, K. Austine, N. Bergersen, R. Cullen, N. Dando, D.Donohue, S. Edwards, T. Ingleton, A. Jordan, V. Lucieer, I. Parnum, J. Siwabessy, M. Spinoccia, R. Talbot-Smith & C. Waterson
