@@ -1,35 +1,35 @@
 # Site navigation links
-- title: "Download field manual"
+- title: "Download Guidelines"
   url: https://australian-multibeam-guidelines.github.io/files/Australian-Multibeam-Guidelines-v2.0.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /5x8/download_5x8.jpg
 - title: "1. Introduction"
   url: https://australian-multibeam-guidelines.github.io/introduction
-  excerpt: "Scope, how to use guidelines and related studies and publications"
+  excerpt: ""
   image: /5x8/introduction_teaser.jpg
 - title: "2. Pre-survey Planning"
   url: https://australian-multibeam-guidelines.github.io/pre-survey-planning
-  excerpt: "National coverage consultation and upcoming survey register, research and survey permits, seabed mapping data collection considerations, project team, field survey instructions, submission of plan, data and notifications"
+  excerpt: ""
   image: /5x8/presurvey-planning_teaser.jpg
 - title: "3. Mobilisation, Calibration and Validation"
   url: https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation
-  excerpt: "Dimensional control, horizontal positioning, vertical positioning, patch test, seafloor backscatter calibration, Water column backscatter calibration, built-in systems test and final acceptance test"
+  excerpt: ""
   image: /5x8/mobilisation-calibration-validation_teaser.jpg
 - title: "4. Acquisition"
   url: https://australian-multibeam-guidelines.github.io/acquisition
-  excerpt: "Survey plan, project structure and nomenclature, systems settings, ancillary systems, monitoring, QA/QC & Data backup and mandatory notifications"
+  excerpt: ""
   image: /5x8/acquisition_teaser.jpg
 - title: "5. Data Processing"
   url: https://australian-multibeam-guidelines.github.io/data-processing
-  excerpt: "Data processing considerations and total propagated uncertainties (TPU)"
+  excerpt: ""
   image: /5x8/data-processing_teaser.jpg
 - title: "6. Reports"
   url: https://australian-multibeam-guidelines.github.io/reports 
-  excerpt: "Mobilisation, calibration and validation records and record keeping"
+  excerpt: ""
   image: /5x8/reports_teaser.jpg
 - title: "7. Data Release"
   url: https://australian-multibeam-guidelines.github.io/data-release
-  excerpt: "Final QA/QC and data submission to AusSeabed"
+  excerpt: ""
   image: /5x8/data-release_teaser.jpg
 - title: "8. Multibeam Acoustics for Marine Monitoring"
   url: https://australian-multibeam-guidelines.github.io/marine-monitoring
@@ -37,7 +37,7 @@
   image: /5x8/marine-monitoring_teaser.jpg
 - title: "9. References"
   url: https://australian-multibeam-guidelines.github.io/references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /5x8/references_teaser.jpg
 - title: "Appendices"
   url: https://australian-multibeam-guidelines.github.io/appendices
