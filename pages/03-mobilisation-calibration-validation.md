@@ -43,7 +43,7 @@ Establish the physical offsets of the installed equipment to permanent locations
 
 It is important to note that the systematic errors and uncertainties associated with this control will feed directly into the overall quality of the data and will greatly increase with water depth. Acquiring accurate data ensures the long term benefits that accompany the “collect once, use many times” mantra. For more information, refer to Hughes-Clarke (2003).
 
-<img src="images/figures/image5.jpg" width="75%" class="center">
+<img src="images/figures/image5.jpg" width="65%" class="center">
 
 _Figure 5 Diagram of dimensional control for MBES system (After Gardner et al., 2002)_
 
