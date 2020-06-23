@@ -39,13 +39,13 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#21-national-coverage-consultation-and-upcoming-survey-register"><i>2.1 National coverage consultation and upcoming survey register</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#211-existing-data-coverage">2.1.1 Existing Data coverage</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#211-existing-data-coverage">2.1.1 Existing data coverage</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#212-national-bathymetry-priorities">2.1.2 National Bathymetry priorities</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#212-national-bathymetry-priorities">2.1.2 National bathymetry priorities</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">2.1.3 AusSeabed Coordination Tool</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">2.1.3 AusSeabed coordination tool</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#22-research-and-survey-permits"><i>2.2 Research and survey permits</i></a></td>
@@ -66,7 +66,7 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#234-quality-assessment--uncertainty-scheme">2.3.4 Quality assessment / uncertainty scheme</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#235-platforms--systems">2.3.5 Platforms &amp; Systems</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#235-platforms--systems">2.3.5 Platforms &amp; systems</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#236-dimension-control-of-sensor-offsets">2.3.6 Dimension control of sensor offsets</a></td>
@@ -78,7 +78,7 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#25-field-survey-instructions"><i>2.5 Field survey instructions</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum">2.5.1 Geodetic control and Horizontal Datum</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum">2.5.1 Geodetic control and horizontal datum</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#252-tidal-or-ellipsoidal-datum">2.5.2 Tidal or ellipsoidal datum</a></td>
@@ -174,13 +174,13 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#44-ancillary-systems"><i>4.4 Ancillary systems</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#441-sound-velocity-profile">4.4.1 Sound Velocity Profile</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#441-sound-velocity-profile">4.4.1 Sound velocity profile</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#442-tides">4.4.2 Tides</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#45-monitoring-qaqc--data-backup"><i>4.5 Monitoring, QA/QC &amp; Data backup</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#45-monitoring-qaqc--data-backup"><i>4.5 Monitoring, QA/QC &amp; data backup</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/acquisition#451-gnss-positioning">4.5.1 GNSS positioning</a></td>
@@ -225,13 +225,13 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#612-report">6.1.2 Report</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-keeping"><i>6.2 Record Keeping</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-keeping"><i>6.2 Record keeping</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#621-logs">6.2.1 Logs</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of Survey</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of survey</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/data-release"><strong>7. Data Release</strong></a></td>
@@ -240,7 +240,7 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc"><i>7.1 Final QA/QC</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed"><i>7.2 Data Submission to AusSeabed</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed"><i>7.2 Data submission to AusSeabed</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/marine-monitoring"><strong>8. Multibeam Acoustics for Marine Monitoring</strong></a></td>
