@@ -549,7 +549,7 @@ _**Table D1:** Estimated time frame required to perform some of the swath system
 </table>
 
 # Appendix E – Total Propagated Uncertainties 
-_Table E1 Sounding Accuracy - Example MBES Total Propagated Uncertainty Estimates_
+_**Table E1:** Sounding Accuracy - Example MBES Total Propagated Uncertainty Estimates_
 <table>
 <thead>
   <tr>
@@ -701,20 +701,20 @@ For **backscatter calibration**, run the line schema for various modes. Alternat
 
 
 ![alt_text](images/figures/imageF1.png "image_tooltip")<br>
-_Figure F1 Proposed line pattern for single head sonar patch test_
+_**Figure F1:** Proposed line pattern for single head sonar patch test_
 
 
 ![alt_text](images/figures/imageF2.png "image_tooltip")<br>
-_Figure F2.2 Proposed line pattern for **dual-head** sonar patch test_
+_**Figure F2:** Proposed line pattern for **dual-head** sonar patch test_
 
 
 # Appendix G – IHO Standards <br>
 
-_Table G12 IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
+_**Table G12:** IHO standards for hydrographic surveys (S-44). Read in conjunction with document (IHO, 2008). These are presently in review by the IHO._
 ![alt_text](images/figures/imageG1.png "image_tooltip")
 
 
-_Table G2 HIPP standards for hydrographic surveys (AHO, 2018)_
+_**Table G2:** HIPP standards for hydrographic surveys (AHO, 2018)_
 ![alt_text](images/figures/imageG2.png "image_tooltip")
 
 # Appendix H – Records templates
@@ -729,7 +729,7 @@ The following [link](https://drive.google.com/open?id=1IC5_gZTgxU7xOSaGgsM2_FJ4_
 
 Below is a table with specific field definitions and examples for each metadata field expected to accompany data submitted to AusSeabed. The fields specified are considered a minimum set that can be appended to, but not deviated from, replaced, or altered. Note that on submission it is only required to provide the Field column and the associated survey metadata the other columns in the table are provided for illustrative purposes only. 
 
-_Table H1 Required Metadata for data submitted to AusSeabed_
+_**Table H1:** Required Metadata for data submitted to AusSeabed_
 <table>
 <thead>
   <tr>
