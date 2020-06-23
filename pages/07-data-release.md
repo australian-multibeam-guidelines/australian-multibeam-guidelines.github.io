@@ -31,7 +31,7 @@ In the future, a data submission portal will be integrated with the Survey Coord
 *   If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
 *   Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit/). Note that user registration is required, but this is free and immediate.
 
-_Table 10 Data required for submission to AusSeabed_
+_**Table 10:** Data required for submission to AusSeabed_
 <table>
 <thead>
   <tr>

@@ -15,9 +15,9 @@ The principles developed in the preceding chapters of these guidelines should st
 
 <img src="images/figures/image6.png" width="" alt="alt_text" class="center" title="image_tooltip">
 
-<em>Figure 6 . Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)).</em>
+<em><strong>Figure 6:</strong> Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)).</em>
 
-<em>Table 11 Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring</em>
+<em><strong>Table 11:</strong> Standard Operating Procedures for MBES surveys according to survey purpose: Baseline or Monitoring</em>
 
 <table>
 <thead>
