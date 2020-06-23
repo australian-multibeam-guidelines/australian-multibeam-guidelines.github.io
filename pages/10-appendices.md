@@ -9,7 +9,7 @@ image:
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 # Appendix A – Abbreviations 
-_Table A1 Abbreviations used in this document._
+_**Table A1:** Abbreviations used in this document._
 <table>
   <tr>
    <td>AHO
@@ -356,7 +356,7 @@ _Figure B210 200% swath coverage with 100% overlap (AHO, 2018)_
 
 # Appendix C – Legislation and permitting 
 
-_Table C1 List of documents relevant to multibeam activities in the Commonwealth waters (defined as 3 nautical miles seaward to the outer boundary of the EEZ, 200 nautical miles).  Extracted from Marine Sampling Field Manuals (Przeslawski and Foster, 2018). Similar issues should be considered when working in coastal waters of States and the Northern Territory._
+_**Table C1:** List of documents relevant to multibeam activities in the Commonwealth waters (defined as 3 nautical miles seaward to the outer boundary of the EEZ, 200 nautical miles).  Extracted from Marine Sampling Field Manuals (Przeslawski and Foster, 2018). Similar issues should be considered when working in coastal waters of States and the Northern Territory._
 <table>
 <thead>
   <tr>
@@ -491,15 +491,18 @@ _Table C.2 Web links to States and Territory permits_
 
 # Appendix D – Guideline on timeframe for actions
 
-_Table D1 Estimated time frame required to perform some of the swath system related tasks. These estimates are to assist in survey planning, but note that they can vary considerably depending on the difficulty or the issues arising from the task performed._
+_**Table D1:** Estimated time frame required to perform some of the swath system related tasks. These estimates are to assist in survey planning, but note that they can vary considerably depending on the difficulty or the issues arising from the task performed._
 
 <table>
+<thead>
   <tr>
    <td><strong>Action</strong>
    </td>
    <td><strong>Timeline to be expected</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>Authorisation/permits from authority
    </td>
@@ -542,6 +545,7 @@ _Table D1 Estimated time frame required to perform some of the swath system rela
    <td>1:1 to 1:3
    </td>
   </tr>
+ </tbody>
 </table>
 
 # Appendix E – Total Propagated Uncertainties 
