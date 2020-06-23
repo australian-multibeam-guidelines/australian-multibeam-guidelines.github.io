@@ -51,15 +51,12 @@ _**Table 1:** Key stakeholders benefiting from better coordination and availabil
 <table>
 <thead>
   <tr>
-   <td rowspan="2" >Stakeholder
-   </td>
-   <td colspan="2" >Preferred data type
-   </td>
+   <td rowspan="2" ><strong>Stakeholder</strong></td>
+   <td colspan="2" ><strong>Preferred data type</strong></td>
   </tr>
   <tr>
-   <td>Source data (raw or processed files) 
-   </td>
-   <td>Products (e.g. maps of seabed depths, habitat, morphology)
+   <td><strong>Source data (raw or processed files)</strong></td>
+   <td><strong>Products (e.g. maps of seabed depths, habitat, morphology)</strong>
    </td>
   </tr>
 </thead>
