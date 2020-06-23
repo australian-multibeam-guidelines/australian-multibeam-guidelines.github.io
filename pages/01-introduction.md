@@ -49,6 +49,7 @@ _Table 1 Key stakeholders benefiting from better coordination and availability o
 
 
 <table>
+<thead>
   <tr>
    <td rowspan="2" >Stakeholder
    </td>
@@ -61,6 +62,8 @@ _Table 1 Key stakeholders benefiting from better coordination and availability o
    <td>Products (e.g. maps of seabed depths, habitat, morphology)
    </td>
   </tr>
+</thead>
+<tbody>
   <tr>
    <td>Department of Defence (e.g. Hydrography, Mine warfare)
    </td>
@@ -133,6 +136,7 @@ _Table 1 Key stakeholders benefiting from better coordination and availability o
    <td>X
    </td>
   </tr>
+  </tbody>
 </table>
 
 
