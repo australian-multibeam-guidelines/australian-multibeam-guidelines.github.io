@@ -426,7 +426,7 @@ Seabed mapping surveys conducted within the Australian EEZ shall be referenced t
 
 Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
 
-<img src="images/figures/image2.png" width="75%" class="center">
+<img src="images/figures/image2.png" width="70%">
 
 _Figure 2 Extent of GDA2020 on the Australian continental shelf (Geoscience Australia)_
 
@@ -437,7 +437,7 @@ Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Gr
 # _2.5.2 Tidal or ellipsoidal datum_
 The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections 2.5.2.1 and 2.5.2.2). While mapping however, the sounding datum should be used. 
 
-<img src="images/figures/image3.png" width="75%" class="center">
+<img src="images/figures/image3.png" width="70%">
 
 _Figure 3 Schematic of datum and associated reduction information (Mills & Dodd, 2014)_
 
