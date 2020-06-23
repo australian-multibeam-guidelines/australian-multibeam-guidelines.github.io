@@ -313,11 +313,11 @@ Below are some of the terms used in this guideline. However, more terms and defi
 
 **% Overlap:** refer to the amount of overlap between adjacent swaths. 0% overlap means that the ship tracks are run so that the outer beams of the swath meet the outer beam of the adjacent swath (Figure B.1). 100% overlap means that the adjacent ship track is run along the outer beam edge (meeting the required specification) of the previous swath (Figure B.2). Refer to section 7.4 of AHO, 2018 for more details 
 
-![alt_text](images/figures/imageB1.png "image_tooltip")
+<img src="images/figures/imageB1.png" width="100%">
 
 _Figure B19 100% swath coverage with 0% or barely any overlap to cover ship roll (AHO, 2018)_
 
-![alt_text](images/figures/imageB2.png "image_tooltip")
+<img src="images/figures/imageB2.png" width="100%">
 
 _Figure B210 200% swath coverage with 100% overlap (AHO, 2018)_
 
