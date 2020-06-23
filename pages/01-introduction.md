@@ -164,7 +164,7 @@ These guidelines provide a minimum set of requirements for seafloor mapping acti
 
 <img src="images/figures/image1.png" width="75%" class="center">
 
-_Figure 1 Anticipated key areas of relevance for the Australian Multibeam Guidelines._
+_**Figure 1:** Anticipated key areas of relevance for the Australian Multibeam Guidelines._
 
 The guidelines include a broad examination of data processing and guidance for data submission (Figure 2) with recommendations for all three types of swath acoustic data (bathymetry, backscatter and water column backscatter) relevant across all water depths and adopt international guidelines where appropriate. They do not include instrument preparation activities such as bench/workshop tests, personnel requirements, or provide survey costing information (see section 5.3.4 of Przeslawski et al. 2018a for MBES Costing). This revision of the Australian Multibeam Guidelines (version 2) contains information previously published in the _Seafloor Mapping Field Manual for Multibeam Sonar_ (Lucieer et al., 2018) as chapter 8 _(Multibeam acoustics for marine monitoring_) and, as such, will also succeed the _Seafloor Mapping Field Manual for Multibeam Sonar_ as chapter 3 in the second release of the National Environmental Science Program (NESP) _Field manuals for Marine Sampling to Monitor Australian Waters_ (Przeslawski and Foster, 2018). The decision to make this extension to the guidelines and inclusion in the NESP suite of Field Manuals was made by AusSeabed and the NESP to allow both initiatives to continue with a single reference document to inform seabed mapping and eliminate the complications and community confusion associated with the maintenance of two reference documents with extensive overlap.
 
@@ -175,10 +175,11 @@ To help navigate these guidelines, Table 2 identifies sections that are more rel
 
 These guidelines do not include a full and comprehensive technical description of MBES systems, but rather, provide a list of pertinent references, such as Hughes-Clarke (2017a). They also refer to related guidelines where relevant.
 
-_Table 2 Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
+_**Table 2:** Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
 
 
 <table>
+<thead>
   <tr>
    <td><strong>Section</strong>
    </td>
@@ -187,6 +188,8 @@ _Table 2 Relevance to the various user groups by document section number. Howeve
    <td><strong>Expert groups</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td><strong>1 Introduction</strong>
    </td>
@@ -235,6 +238,7 @@ _Table 2 Relevance to the various user groups by document section number. Howeve
    <td>All
    </td>
   </tr>
+  </tbody>
 </table>
 
 ## 1.3 Related standards and publications
