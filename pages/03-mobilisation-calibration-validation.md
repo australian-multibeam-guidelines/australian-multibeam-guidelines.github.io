@@ -45,7 +45,7 @@ It is important to note that the systematic errors and uncertainties associated 
 
 <img src="images/figures/image5.jpg" width="65%" class="center">
 
-_Figure 5 Diagram of dimensional control for MBES system (After Gardner et al., 2002)_
+_**Figure 5:** Diagram of dimensional control for MBES system (After Gardner et al., 2002)_
 
 # _3.2.2 Rotation offset survey_
 A rotation offset survey checks the alignment of individual equipment relative to the vessel’s reference frame. 

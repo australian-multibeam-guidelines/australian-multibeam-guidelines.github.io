@@ -11,7 +11,7 @@ layout: home
 
 The acquisition of data is the most expensive element of a seabed mapping project. Therefore it is essential that this phase of a survey is optimised by undertaking adequate pre-survey planning. This section of the guidelines identifies key aspects of the planning phase that can be improved for more efficient and effective surveys. They also present tools and resources available that can help (Table 3). These resources are also hosted on the [AusSeabed](http://www.ausseabed.gov.au/) website, and we encourage using the website to discover the full breath of available resources and future updates. The IHO C-13 Manual on Hydrography also provides an appendix on planning considerations and how to best calculate survey timings.
 
-_Table 3 Summary list of pre-survey planning tools proposed in the section_
+_**Table 3:** Summary list of pre-survey planning tools proposed in the section_
 <table>
 <thead>
   <tr>
@@ -87,7 +87,7 @@ The minimum essential requirements of any seafloor mapping survey are the bathym
 ### 2.3.1.2 Data levels and file formats
 Consistent definitions of data levels allow the community to reduce ambiguity when discussing, delivering, processing or describing data. The AusSeabed definitions of data levels has been modelled on those prescribed by NASA for Earth Observations data products. The following definitions were discussed, refined and agreed to at the 2019 AusSeabed metadata and standards workshop (Table 6). 
 
-_Table 4 AusSeabed Data Level Definitions_
+_**Table 4:** AusSeabed Data Level Definitions_
 <table>
 <thead>
   <tr>
@@ -136,7 +136,7 @@ _Table 4 AusSeabed Data Level Definitions_
 
 A set of data formats has been recommended for each of the data levels and types described above based on community consultation. Delivering processed data outputs in as many of the preferred formats as possible ensures that data can be utilised easily by the wider community, increasing the net benefit of the data. It should be noted that, when available, open source formats are always preferred over proprietary formats, for any sensor, at any data level. 
 
-_Table 5 Preferred data formats by data type and level._
+_**Table 5:** Preferred data formats by data type and level._
 <table>
 <thead>
   <tr>
@@ -190,7 +190,7 @@ _Table 5 Preferred data formats by data type and level._
 ### 2.3.1.3 Metadata
 Metadata consistency is an essential aspect of data management and a key step in the move to coordinate a comprehensive national repository of seabed data in the Australian marine estate. The following list of metadata outlines the minimum set to meet ISO 19115.3 standards. The AusSeabed community propose that best efforts are made by collecting and processing institutions to utilise these fields. Appending organisation specific fields is acceptable but such fields should not be used in place of the fields below (Table 6). An example template with descriptions of the metadata fields to assist organisations in “mapping” metadata information is included in [appendix H.2](https://australian-multibeam-guidelines.github.io/appendices#h2-ausseabed-minimum-required-metadata). 
 
-_Table 6 Overview of required metadata._
+_**Table 6:** Overview of required metadata._
 <table>
 <thead>
   <tr>
@@ -253,7 +253,7 @@ Horizontal and vertical accuracy are two key factors of resolution that should a
 
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
-_Table 7 MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
+_**Table 7:** MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
 <table>
 <thead>
   <tr>
@@ -428,7 +428,7 @@ Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](h
 
 <img src="images/figures/image2.png" width="70%">
 
-_Figure 2 Extent of GDA2020 on the Australian continental shelf (Geoscience Australia)_
+_**Figure 2:** Extent of GDA2020 on the Australian continental shelf (Geoscience Australia)_
 
 Proposed Horizontal control should be reviewed for accuracy and if local control such as RTK base stations are to be used, then sites for local positioning systems should be determined. To establish shore-based geodetic control, refer to the procedures described in Intergovernmental Committee on Surveying and Mapping (ICSM, 2014a-c). 
 
@@ -439,7 +439,7 @@ The datum to which depths are to be reduced is fundamental to any seafloor mappi
 
 <img src="images/figures/image3.png" width="70%">
 
-_Figure 3 Schematic of datum and associated reduction information (Mills & Dodd, 2014)_
+_**Figure 3:** Schematic of datum and associated reduction information (Mills & Dodd, 2014)_
 
 Regardless of the datum used for the final products, the following points need to be considered:
 
@@ -518,7 +518,7 @@ Where **seabed backscatter data is the primary objective** of the survey, the sa
 
 <img src="images/figures/image4.png" width="85%" class="center">
 
-_Figure 4 Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
+_**Figure 4:** Diagram of ideal swath overlap (After Lamarche and Lurton, 2017)._
 
 12. <span style="text-decoration:underline;">Repeated seabed backscatter survey</span>: For survey using the same swath system, it is recommended that the survey strategies, such as survey direction and orientations, and the system settings are kept identical. Frequency should also not be changed.
 
