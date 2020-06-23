@@ -13,7 +13,7 @@ There are two particular needs for mapping and surveying when considering multib
 The principles developed in the preceding chapters of these guidelines should still inform and influence the planning through to acquisition phases of MBES work and the requirements detailed in this section should be seen as a complementary lens used to refine efforts so that data is fit for purpose for work carried out for marine monitoring or within state or commonwealth marine parks.
 
 
-<img src="images/figures/image6.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image6.png" width="" alt="alt_text" class="center" title="image_tooltip">
 
 <em>Figure 6 . Decision tree for seabed classification survey design (adapted from Anderson et al. (2007)).</em>
 
