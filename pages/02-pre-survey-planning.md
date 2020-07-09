@@ -94,13 +94,16 @@ _**Table 4:** AusSeabed Data Level Definitions_
 <table>
 <thead>
   <tr>
-    <th rowspan="2">Level</th>
-    <th rowspan="2">Definition</th>
+    <th rowspan="3">Level</th>
+    <th rowspan="3">Definition</th>
     <th colspan="4">Examples</th>
   </tr>
   <tr>
-    <td>MBES</td>
-    <td>Delayed Heave/ Ellipsoid/Nav</td>
+    <td rowspan="2">MBES</td>
+    <td rowspan="2">Navigation and attitude</td>
+    <td colspan="2">Ancillary files</td>
+  </tr>
+  <tr>
     <td>SVP</td>
     <td>Tide</td>
   </tr>
@@ -108,21 +111,21 @@ _**Table 4:** AusSeabed Data Level Definitions_
 <tbody>
   <tr>
     <td>L0</td>
-    <td><strong>Unprocessed instrument data</strong> <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as any and all artefacts.</td>
-    <td>Observed by sensor*.all</td>
-    <td>Observed by sensor*.000</td>
-    <td>Observed*.raw</td>
-    <td>Observed, proprietary formats</td>
+    <td>Unprocessed instrument data <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as all artefacts.</td>
+    <td>Observed by sensor<br></td>
+    <td>Observed by sensorPOSMV</td>
+    <td>Observed by sensor<br></td>
+    <td>Observed by sensor, proprietary formats</td>
   </tr>
   <tr>
     <td>L1</td>
-    <td><strong>Data merged with ancillary information</strong><br>Reconstructed L0 MBES data undergoes correction with ancillary information either from within the L0 data itself or the separately calculated ancillary files collected by the ancillary system (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. </td>
-    <td>Processed depthIntegration of L1 ancillary information (uncleaned and unfiltered)</td>
+    <td>Data merged with ancillary information<br>Reconstructed L0 data undergoes correction with ancillary information, either from within the L0 data itself or separately collected ancillary files (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. This level may not exist for all data types and may depend on the software used.</td>
+    <td>Processed depthIntegration with ancillary information</td>
     <td colspan="3">N/A: Data proceeds straight to L2</td>
   </tr>
   <tr>
     <td>L2</td>
-    <td><strong>Derived geophysical/georeferenced variables</strong><br>L1 data undergoes cleaning and filtering to create the first ‘usable’ multibeam data.</td>
+    <td>Cleaned and/or derived variables<br>L1 data undergoes cleaning and filtering to create the first ‘usable’ data.</td>
     <td>Bathymetry productCleaned &amp; filtered</td>
     <td>Processed to SBET</td>
     <td>Processed to *.txt</td>
@@ -130,9 +133,9 @@ _**Table 4:** AusSeabed Data Level Definitions_
   </tr>
   <tr>
     <td>L3</td>
-    <td><strong>Variables mapped on a grid</strong><br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce charts/gridded products etc. L3 products cannot be backwards engineered into L2.</td>
-    <td>Additional value added, or data sampled (e.g. chart, slope map, geomorphology)</td>
-    <td colspan="3">N/A: L2 is the final ‘product’ for ancillary data types, and not all ancillary data have an L1 form. For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product.</td>
+    <td>Variables mapped on a grid<br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce derived products. L3 products cannot be backwards engineered into L2. </td>
+    <td>Additional value added, or data sampled (e.g. grid, DEM)</td>
+    <td colspan="3">For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product. Note: L2 is the final ‘product’ for ancillary data types.</td>
   </tr>
 </tbody>
 </table>
