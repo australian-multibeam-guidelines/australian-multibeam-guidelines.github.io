@@ -34,9 +34,9 @@ _**Table 11:** Data required for submission to AusSeabed_
 <table>
 <thead>
   <tr>
-   <td>Deliverable item
+   <td><strong>Deliverable item</strong>
    </td>
-   <td>Specifications
+   <td><strong>Specifications</strong>
    </td>
   </tr>
   </thead>
