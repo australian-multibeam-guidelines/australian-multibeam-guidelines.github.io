@@ -151,10 +151,10 @@ _**Table 5:** Preferred data formats by data type and level._
     <th colspan="2">Specifications</th>
   </tr>
   <tr>
-    <td>Bathymetry</td>
-    <td>Backscatter</td>
-    <td>Navigation</td>
-    <td>Ancillary data</td>
+    <td><strong>Bathymetry</strong></td>
+    <td><strong>Backscatter</strong></td>
+    <td><strong>Navigation</strong></td>
+    <td><strong>Ancillary data</strong></td>
     <td colspan="2"></td>
     <td></td>
   </tr>
@@ -162,17 +162,17 @@ _**Table 5:** Preferred data formats by data type and level._
 <tbody>
   <tr>
     <td>L0</td>
-    <td>Priority 1<br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br>Priority 2<br>.gsf<br>Priority 3<br>.xtf<br><br></td>
-    <td>Priority 1<br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br>Priority 2<br>.gsf<br>Priority 3<br>.xtf </td>
-    <td>Priority 1*<br>Any proprietary formats that contain navigation and attitude (*.000) since no open formats exist yet.</td>
-    <td>Priority 1<br>ASCII (txt, csv)<br>Priority 2<br>Proprietary </td>
+    <td><strong>Priority 1</strong><br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br><strong>Priority 2</strong><br>.gsf<br><strong>Priority 3</strong><br>.xtf<br><br></td>
+    <td><strong>Priority 1</strong><br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br><strong>Priority 2</strong><br>.gsf<br><strong>Priority 3</strong><br>.xtf </td>
+    <td><strong>Priority 1</strong><br>Any proprietary formats that contain navigation and attitude (*.000) since no open formats exist yet.</td>
+    <td><strong>Priority 1</strong><br>ASCII (txt, csv)<br><strong>Priority 2</strong><br><strong>Proprietary</strong></td>
     <td colspan="2">Bathymetry and backscatter should contain all necessary datagrams required for processing, including raw backscatter per beam (and time series), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.<br>Navigation and Ancillaries should contain date and time (calendar or UTC, specify otherwise) and geodetic reference system (geographic WGS84 or GDA2020 with an ellipsoidal height datum).</td>
     <td></td>
   </tr>
   <tr>
     <td>L1</td>
-    <td>Priority 1<br>.gsf,<br></td>
-    <td>Priority 1<br>.gsf<br>Priority 2<br>Proprietary </td>
+    <td><strong>Priority 1</strong><br>.gsf,<br></td>
+    <td><strong>Priority 1</strong><br>.gsf<br><strong>Priority 2</strong><br>Proprietary </td>
     <td>N/A</td>
     <td>N/A</td>
     <td colspan="2">Not Compulsory for data submission<br>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud.<br></td>
