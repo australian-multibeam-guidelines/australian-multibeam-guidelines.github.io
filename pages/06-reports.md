@@ -8,10 +8,10 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-To ensure consistent documentation of all aspects of survey planning, mobilisation, calibration and acquisition, all information (reports and logs) should be recorded throughout the process. At a minimum, metadata ([section 2.3.1.3](#heading=h.3o7alnk)), records for Mobilisation, Calibration and Validation ([section 6.1](#6-1-mobilisation-calibration-and-validation-records-36)), and the records proposed in [section 6.2](#6-2-records-of-survey-37) are recommended. The proposed templates for these reporting requirements can all be found in [Appendix H](#bookmark=id.2rrrqc1).
+To ensure consistent documentation of all aspects of survey planning, mobilisation, calibration and acquisition, all information (reports and logs) should be recorded throughout the process. At a minimum, metadata ([section 2.3.1.3](https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata)), records for Mobilisation, Calibration and Validation ([section 6.1](https://australian-multibeam-guidelines.github.io/reports#61-mobilisation-calibration-and-validation-records)), and the records proposed in [section 6.2](https://australian-multibeam-guidelines.github.io/reports#62-record-of-survey) are recommended. The proposed templates for these reporting requirements can all be found in [Appendix H](https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates).
 
 # 6.1 Mobilisation, calibration and validation records
-Methodology and results of the mobilisation and calibration should be outlined in a mobilisation and calibration report, and the associated records. At a minimum, it is recommended to include the following information, modified from AHO (2018). Report templates meeting these requirements are included in [Appendix H](#bookmark=id.2rrrqc1).
+Methodology and results of the mobilisation and calibration should be outlined in a mobilisation and calibration report, and the associated records. At a minimum, it is recommended to include the following information, modified from AHO (2018). Report templates meeting these requirements are included in [Appendix H](https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates).
 
 # _6.1.1 Logs_
 Mobilisation and calibration logs should include:
@@ -53,11 +53,11 @@ Mobilisation and calibration report should document the integrated survey system
 *   acoustic interference check (if performed): results of the pre-survey acoustic interference check are to be rendered
 
 # 6.2 Record of survey
-This section includes logs that should be used during acquisition of data as well as information required in the Report of Survey provided at the end of the survey. This section also points to legal notification requirements in regards to Dangers found ([section 4.6.1](#4-6-1-dangers-found-–-hydrographic-notes-30)) and Underwater Cultural Heritage ([section 4.6.2](#4-6-2-underwater-cultural-heritage-notification-30)). Templates of the reports and logs can be found in [Appendix H](#bookmark=id.2rrrqc1) for a summary of minimum requirements and in the IHO M-13 Manual on Hydrographic Surveying for a comprehensive report.
+This section includes logs that should be used during acquisition of data as well as information required in the Report of Survey provided at the end of the survey. This section also points to legal notification requirements in regards to Dangers found ([section 4.6.1](https://australian-multibeam-guidelines.github.io/acquisition#461-dangers-found--hydrographic-notes)) and Underwater Cultural Heritage ([section 4.6.2](https://australian-multibeam-guidelines.github.io/acquisition#462-underwater-cultural-heritage-notification)). Templates of the reports and logs can be found in [Appendix H](https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates) for a summary of minimum requirements and in the IHO M-13 Manual on Hydrographic Surveying for a comprehensive report.
 
 # _6.2.1 Logs_
 Survey logs should include:
-*   relevant information on survey lines, including data types recorded and daily events. Minimum parameter requirements found in [Appendix H](#bookmark=id.2rrrqc1).
+*   relevant information on survey lines, including data types recorded and daily events. Minimum parameter requirements found in [Appendix H](https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates).
 *   system parameters relevant to backscatter data acquisition include:
     *   environmental parameters controlling sound speed and absorption within the water column
     *   weather and sea conditions
@@ -70,14 +70,14 @@ Survey logs should include:
     *   path length attenuation characteristics (spherical spreading and absorption coefficient)
     *   seabed grazing angle
 *   SVP deployments (filename, time, lat, long, depth, SV sonar head reading (used for comparison)
-*   log for additional data collected, such as seabed samples (section 2.6)
+*   log for additional data collected, such as seabed samples ([section 2.6](https://australian-multibeam-guidelines.github.io/pre-survey-planning#26-submission-of-plan-data-and-notifications))
 
 Processing logs should include detailed changes made to any variables not captured in the datagram. For example:
 *   SVP refraction correction
 *   Surface artefact correction.
 
 # _6.2.2 Report of Survey_
-The Report of Survey (ROS) should give a comprehensive account of how the seabed mapping survey was carried out, the results achieved, and any difficulties encountered. A template can be found in [Appendix H](#bookmark=id.2rrrqc1), but at a minimum, it is recommended to include the following (modified from AHO, 2018):
+The Report of Survey (ROS) should give a comprehensive account of how the seabed mapping survey was carried out, the results achieved, and any difficulties encountered. A template can be found in [Appendix H](https://australian-multibeam-guidelines.github.io/appendices#appendix-h--records-templates), but at a minimum, it is recommended to include the following (modified from AHO, 2018):
 
 **Report heading:**
 *   seabed mapping survey title and associated reference number
@@ -96,7 +96,7 @@ The Report of Survey (ROS) should give a comprehensive account of how the seabed
 **Standards:**
 *   local datum epoch and transformation parameters: provide a table with the relevant information that was used within the acquisition software. In addition, all software used on the survey must contain the correct datum parameters and this should be checked independently and evidenced here.
 *   horizontal and vertical accuracy: the following section confirms that the horizontal and vertical accuracy of soundings acquired during the _Survey_ _Name_ seabed mapping survey are compliant/non-compliant with the (IHO/LINZ/Other) standard for position and depth accuracy 
-*   TPU:_ _comment on TPU in reporting relative to various industry standards and provide a Table (see example Table 5 from section 5.2) with a detailed analysis of the TPU estimates for the relevant depth bands mapped for the project, using _name of software_
+*   TPU: comment on TPU in reporting relative to various industry standards and provide a Table (see example Table 5 from [section 5.2](https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu)) with a detailed analysis of the TPU estimates for the relevant depth bands mapped for the project, using _name of software_
 
 **Seabed sampling:**
 *   method: describe method used and problems with equipment or recovery of the samples, state sampling interval and any particular samples obtained from interesting features, state the number, plan for analysis and submission of samples
@@ -104,4 +104,4 @@ The Report of Survey (ROS) should give a comprehensive account of how the seabed
 **Tides and sounding datum** (see section 13.4.1.9 in AHO, 2018)
 
 **Wrecks and danger found:**
-*   Provide a table with any notifications made in accordance with legislation ([section 4.6](#4-6-mandatory-notifications-30))
+*   Provide a table with any notifications made in accordance with legislation ([section 4.6](https://australian-multibeam-guidelines.github.io/acquisition#46-mandatory-notifications))
