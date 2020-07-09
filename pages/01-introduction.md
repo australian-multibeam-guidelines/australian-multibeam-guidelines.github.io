@@ -167,6 +167,7 @@ These guidelines do not include a full and comprehensive technical description o
 _**Table 2** Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
 
 <table>
+<thead>
   <tr>
    <td>Section
    </td>
@@ -175,6 +176,8 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
    <td>Expert groups
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td><strong>1 Introduction</strong>
    </td>
@@ -239,6 +242,7 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
    <td>All
    </td>
   </tr>
+  </tbody>
 </table>
 
 ## 1.3 Related standards and publications
