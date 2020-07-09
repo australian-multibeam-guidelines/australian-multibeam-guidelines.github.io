@@ -165,7 +165,7 @@ _**Table 5:** Preferred data formats by data type and level._
     <td><strong>Priority 1</strong><br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br><strong>Priority 2</strong><br>.gsf<br><strong>Priority 3</strong><br>.xtf<br><br></td>
     <td><strong>Priority 1</strong><br>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats<br><strong>Priority 2</strong><br>.gsf<br><strong>Priority 3</strong><br>.xtf </td>
     <td><strong>Priority 1</strong><br>Any proprietary formats that contain navigation and attitude (*.000) since no open formats exist yet.</td>
-    <td><strong>Priority 1</strong><br>ASCII (txt, csv)<br><strong>Priority 2</strong><br><strong>Proprietary</strong></td>
+    <td><strong>Priority 1</strong><br>ASCII (txt, csv)<br><strong>Priority 2</strong><br>Proprietary</td>
     <td colspan="2">Bathymetry and backscatter should contain all necessary datagrams required for processing, including raw backscatter per beam (and time series), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.<br>Navigation and Ancillaries should contain date and time (calendar or UTC, specify otherwise) and geodetic reference system (geographic WGS84 or GDA2020 with an ellipsoidal height datum).</td>
     <td></td>
   </tr>
@@ -173,27 +173,27 @@ _**Table 5:** Preferred data formats by data type and level._
     <td>L1</td>
     <td><strong>Priority 1</strong><br>.gsf,<br></td>
     <td><strong>Priority 1</strong><br>.gsf<br><strong>Priority 2</strong><br>Proprietary </td>
-    <td>N/A</td>
-    <td>N/A</td>
+    <td><strong>N/A</strong></td>
+    <td><strong>N/A</strong></td>
     <td colspan="2">Not Compulsory for data submission<br>L1 should also include all raw data as required in L0 that allow for processing at any stages if required. Header information and sign convention are required to accompany ASCII point cloud.<br></td>
     <td></td>
   </tr>
   <tr>
     <td>L2</td>
-    <td>Priority 1<br>.gsf, .las/laz</td>
-    <td>Priority 1<br>.gsf</td>
+    <td><strong>Priority 1</strong><br>.gsf, .las/laz</td>
+    <td><strong>Priority 1</strong><br>.gsf</td>
     <td>SBET data + RMS (for generation of TPU)</td>
-    <td>Priority 1<br>Text files: (ASCII .txt, NetCDF, .csv)<br>Priority 2<br>Proprietary</td>
-    <td colspan="2">When L2 data are provided, also include all L0 data to allow for reprocessing at any stages, if required. L2 should contain data that enable reproduction of L3.<br>Bathymetry and Backscatter <br>Variables: coordinates, depth (m, neg value) or intensity (dB), uncertainty, flag.<br>Coordinate system: Geographic (GDA2020 or WGS84)<br>Precision: Metric variables with minimum of 2 decimals; Angular variables degree decimals with minimum of 6 decimals<br>Navigation and Ancillaries<br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
+    <td><strong>Priority 1</strong><br>Text files: (ASCII .txt, NetCDF, .csv)<br><strong>Priority 2</strong><br>Proprietary</td>
+    <td colspan="2">When L2 data are provided, also include all L0 data to allow for reprocessing at any stages, if required. L2 should contain data that enable reproduction of L3.<br><strong>Bathymetry and Backscatter</strong><br>Variables: coordinates, depth (m, neg value) or intensity (dB), uncertainty, flag.<br>Coordinate system: Geographic (GDA2020 or WGS84)<br>Precision: Metric variables with minimum of 2 decimals; Angular variables degree decimals with minimum of 6 decimals<br><strong>Navigation and Ancillaries</strong><br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
     <td></td>
   </tr>
   <tr>
     <td>L3</td>
-    <td>Priority 1<br>BAG single-resolution<br>BAG multi-resolution<br> 32-bit floating point GeoTIFF (.tiff) <br>Priority 2<br>.las/.laz<br></td>
-    <td>Priority 1<br>BAG single-resolution <br>Priority 2<br>32-bit floating point GeoTIFF (.tiff)</td>
-    <td>Priority 1<br>Sensor trackline (GeoJSON)</td>
-    <td>N/A</td>
-    <td colspan="2">Bathymetry and Backscatter <br>Vertical datums: both Ellipsoid and MSL<br>Resolution as per <a href="https://docs.google.com/document/d/1XNL8l8gb5cdfmcBu1NrFXfkQJw7P3GqUlyhYJbY3By0/edit#bookmark=id.1ljsd9k">Table 9</a><br>Variables: coordinates, depth (m, neg value) or intensity (dB), density (sounding/cell), uncertainty, flag (bathymetry in GeoTIFF format requires three separate files: depth, density, uncertainty).<br>Coordinate system: Geographic GDA2020 or WGS84<br>Precision: Metric variables with minimum of 2 decimals; Angular variables with deg decimals and 6 decimals<br>Navigation and Ancillaries<br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
+    <td><strong>Priority 1</strong><br>BAG single-resolution<br>BAG multi-resolution<br> 32-bit floating point GeoTIFF (.tiff) <br><strong>Priority 2</strong><br>.las/.laz<br></td>
+    <td><strong>Priority 1</strong><br>BAG single-resolution <br><strong>Priority 2</strong><br>32-bit floating point GeoTIFF (.tiff)</td>
+    <td><strong>Priority 1</strong><br>Sensor trackline (GeoJSON)</td>
+    <td><strong>N/A</strong></td>
+    <td colspan="2"><strong>Bathymetry and Backscatter</strong><br>Vertical datums: both Ellipsoid and MSL<br>Resolution as per <a href="https://docs.google.com/document/d/1XNL8l8gb5cdfmcBu1NrFXfkQJw7P3GqUlyhYJbY3By0/edit#bookmark=id.1ljsd9k">Table 9</a><br>Variables: coordinates, depth (m, neg value) or intensity (dB), density (sounding/cell), uncertainty, flag (bathymetry in GeoTIFF format requires three separate files: depth, density, uncertainty).<br>Coordinate system: Geographic GDA2020 or WGS84<br>Precision: Metric variables with minimum of 2 decimals; Angular variables with deg decimals and 6 decimals<br><strong>Navigation and Ancillaries</strong><br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
     <td></td>
   </tr>
 </tbody>
