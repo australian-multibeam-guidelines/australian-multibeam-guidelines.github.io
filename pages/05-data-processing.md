@@ -15,7 +15,7 @@ Processing during a survey should at a minimum be done to QC the data, both bath
 *   consistency of seabed backscatter
 *   meeting the required specifications, e.g. data density
 
-A processing log should be kept and is required to be submitted alongside the survey reports ([section 6](#6-reports-36)).
+A processing log should be kept and is required to be submitted alongside the survey reports ([section 6](https://australian-multibeam-guidelines.github.io/reports)).
 
 # _5.1.2 Post-survey_
 Post-survey processing should include:
@@ -25,7 +25,7 @@ Post-survey processing should include:
 *   elimination of surface artefacts, e.g. resulting from calibration errors.
 *   removal of random errors (ambient noise) using filters/CUBE or manual techniques
 *   data QA using crosslines (if collected). If specific crosslines are not collected, consider using transit lines that cross main survey lines (e.g. data acquired while going to a sampling location).
-*   TPU calculation for each sounding ([section 5.2](#5-2-total-propagated-uncertainties-tpu-34)).
+*   TPU calculation for each sounding ([section 5.2](https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu)).
 *   surface (grid) creation as per 5.1.2.1 if submitting to AusSeabed Data Hub
 *   all interventions should be noted in a processing report, including parameters or techniques used.
 
@@ -277,9 +277,9 @@ Further details about best-practice for backscatter data acquisition can be foun
 Acquisition and processing logs should be delivered alongside all raw data (including calibration test) and processed mosaics in accordance with Section 7.
 
 # 5.2 Total propagated uncertainties (TPU)
-The total propagated uncertainty (TPU) for each sounding should be computed and included in the data submission ([Section 7](#7-data-submission-and-release-40)).
+The total propagated uncertainty (TPU) for each sounding should be computed and included in the data submission ([Section 7](https://australian-multibeam-guidelines.github.io/data-release)).
 
-The TPU is the combination of the total horizontal uncertainties (THU) and the total vertical uncertainties (TVU) of that sounding ([Appendix E](#bookmark=id.3ls5o66)). THU is a 2-dimensional quantity in the horizontal plane and is assessed only after the GNSS-Inertial system has been calibrated. TVU is a 1-dimensional quantity in the vertical dimension. TPU is not a linear addition of uncertainties in each system’s component. It is a propagated combination of uncertainties for the non-linear set of equations comprising the integrated swath acoustic-GNSS Inertial system. 
+The TPU is the combination of the total horizontal uncertainties (THU) and the total vertical uncertainties (TVU) of that sounding ([Appendix E](https://australian-multibeam-guidelines.github.io/appendices#appendix-e--total-propagated-uncertainties)). THU is a 2-dimensional quantity in the horizontal plane and is assessed only after the GNSS-Inertial system has been calibrated. TVU is a 1-dimensional quantity in the vertical dimension. TPU is not a linear addition of uncertainties in each system’s component. It is a propagated combination of uncertainties for the non-linear set of equations comprising the integrated swath acoustic-GNSS Inertial system. 
 
 Uncertainty calculation is best addressed using most internationally accepted statistical models for determination of TPU, which are derived from Hare et al. (1995).  Current international best-practice statistical model for resolving the system of equations is the Combined Uncertainty Bathymetric Estimator (CUBE). The average horizontal and vertical TPU estimates determined by the software for a range of water depths is provided with respect to the IHO S-44 standard for position and depth accuracy in Table 6. 
 
