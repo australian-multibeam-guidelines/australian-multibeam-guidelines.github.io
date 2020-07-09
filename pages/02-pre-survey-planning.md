@@ -162,14 +162,14 @@ _**Table 5:** Preferred data formats by data type and level._
 <tbody>
   <tr>
     <td>L0</td>
-    <td><strong>Priority 1</strong><br><li>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats</li><br><br>
+    <td><strong>Priority 1</strong><br><li>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats</li><br>
     <strong>Priority 2</strong><br><li>.gsf</li><br><br>
     <strong>Priority 3</strong><br><li>.xtf</li><br><br></td>
-    <td><strong>Priority 1</strong><br><li>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats</li><br><br>
-    <strong>Priority 2</strong><br><li>.gsf</li><br><br>
+    <td><strong>Priority 1</strong><br><li>.all, .s7k, .kmall, .xse, .mbXX equivalent mbsystem formats</li><br>
+    <strong>Priority 2</strong><br><li>.gsf</li><br>
     <strong>Priority 3</strong><br><li>.xtf</li></td>
     <td><strong>Priority 1</strong><br><li>Any proprietary formats that contain navigation and attitude (*.000) since no open formats exist yet.</li></td>
-    <td><strong>Priority 1</strong><br><li>ASCII (txt, csv)</li><br><br>
+    <td><strong>Priority 1</strong><br><li>ASCII (txt, csv)</li><br>
     <strong>Priority 2</strong><br><li>Proprietary</li></td>
     <td colspan="2">Bathymetry and backscatter should contain all necessary datagrams required for processing, including raw backscatter per beam (and time series), and all required ancillary data. Water column data is recommended and if possible should be stored in a separate file.<br>Navigation and Ancillaries should contain date and time (calendar or UTC, specify otherwise) and geodetic reference system (geographic WGS84 or GDA2020 with an ellipsoidal height datum).</td>
     <td></td>
@@ -177,7 +177,7 @@ _**Table 5:** Preferred data formats by data type and level._
   <tr>
     <td>L1</td>
     <td><strong>Priority 1</strong><br><li>.gsf</li><br></td>
-    <td><strong>Priority 1</strong><br><li>.gsf</li><br><br>
+    <td><strong>Priority 1</strong><br><li>.gsf</li><br>
     <strong>Priority 2</strong><br><li>Proprietary</li></td>
     <td><strong>N/A</strong></td>
     <td><strong>N/A</strong></td>
@@ -189,7 +189,7 @@ _**Table 5:** Preferred data formats by data type and level._
     <td><strong>Priority 1</strong><br><li>.gsf, .las/laz</li></td>
     <td><strong>Priority 1</strong><br><li>.gsf</li></td>
     <td>SBET data + RMS (for generation of TPU)</td>
-    <td><strong>Priority 1</strong><br><li>Text files: (ASCII .txt, NetCDF, .csv)</li><br><br>
+    <td><strong>Priority 1</strong><br><li>Text files: (ASCII .txt, NetCDF, .csv)</li><br>
     <strong>Priority 2</strong><br><li>Proprietary</li></td>
     <td colspan="2">When L2 data are provided, also include all L0 data to allow for reprocessing at any stages, if required. L2 should contain data that enable reproduction of L3.<br><strong>Bathymetry and Backscatter</strong><br>Variables: coordinates, depth (m, neg value) or intensity (dB), uncertainty, flag.<br>Coordinate system: Geographic (GDA2020 or WGS84)<br>Precision: Metric variables with minimum of 2 decimals; Angular variables degree decimals with minimum of 6 decimals<br><strong>Navigation and Ancillaries</strong><br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
     <td></td>
@@ -198,9 +198,9 @@ _**Table 5:** Preferred data formats by data type and level._
     <td>L3</td>
     <td><strong>Priority 1</strong><br><li>BAG single-resolution</li>
     <li>BAG multi-resolution</li>
-    <li>32-bit floating point GeoTIFF (.tiff)</li><br><br>
+    <li>32-bit floating point GeoTIFF (.tiff)</li><br>
     <strong>Priority 2</strong><br><li>.las/.laz</li><br></td>
-    <td><strong>Priority 1</strong><br><li>BAG single-resolution</li><br><br>
+    <td><strong>Priority 1</strong><br><li>BAG single-resolution</li><br>
     <strong>Priority 2</strong><br><li>32-bit floating point GeoTIFF (.tiff)</li></td>
     <td><strong>Priority 1</strong><br><li>Sensor trackline (GeoJSON)</li></td>
     <td><strong>N/A</strong></td>
