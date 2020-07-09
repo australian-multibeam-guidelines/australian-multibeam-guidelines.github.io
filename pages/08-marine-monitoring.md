@@ -40,7 +40,7 @@ Baseline surveys are used to map the distribution of marine benthic habitats at 
   </tr>
   <tr>
     <td rowspan="3">Pre survey preparation</td>
-    <td rowspan="3"><a href="https://www.tablesgenerator.com/html_tables#RANGE!_Pre-survey_planning">●        &nbsp;&nbsp;&nbsp;as per section 2</a></td>
+    <td rowspan="3"><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning">●        &nbsp;&nbsp;&nbsp;as per section 2</a></td>
     <td>In addition to baseline survey&nbsp;&nbsp;&nbsp;specifications:</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Baseline surveys are used to map the distribution of marine benthic habitats at 
   </tr>
   <tr>
     <td rowspan="2">Mobilisation and calibration</td>
-    <td colspan="2" rowspan="2"><a href="https://www.tablesgenerator.com/html_tables#RANGE!_Mobilisation,_Calibration_and_1">●        &nbsp;&nbsp;&nbsp;As per section 3</a></td>
+    <td colspan="2" rowspan="2"><a href="https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation">●        &nbsp;&nbsp;&nbsp;As per section 3</a></td>
   </tr>
   <tr>
   </tr>
@@ -70,7 +70,7 @@ Baseline surveys are used to map the distribution of marine benthic habitats at 
   </tr>
   <tr>
     <td rowspan="2">Acquisition setting</td>
-    <td colspan="2"><a href="https://www.tablesgenerator.com/html_tables#RANGE!_Acquisition">●        &nbsp;&nbsp;&nbsp;As per section 4 </a></td>
+    <td colspan="2"><a href="https://australian-multibeam-guidelines.github.io/acquisition">●        &nbsp;&nbsp;&nbsp;As per section 4 </a></td>
   </tr>
   <tr>
     <td colspan="2">●        &nbsp;&nbsp;&nbsp;Set to equidistant mode and minimise setting&nbsp;&nbsp;&nbsp;changes</td>
