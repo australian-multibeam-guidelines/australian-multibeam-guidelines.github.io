@@ -99,13 +99,13 @@ _**Table 4:** AusSeabed Data Level Definitions_
     <th colspan="4">Examples</th>
   </tr>
   <tr>
-    <td rowspan="2">MBES</td>
-    <td rowspan="2">Navigation and attitude</td>
-    <td colspan="2">Ancillary files</td>
+    <td rowspan="2"><strong>MBES</strong></td>
+    <td rowspan="2"><strong>Navigation and attitude</strong></td>
+    <td colspan="2"><strong>Ancillary files</strong></td>
   </tr>
   <tr>
-    <td>SVP</td>
-    <td>Tide</td>
+    <td><strong>SVP</strong></td>
+    <td><strong>Tide</strong></td>
   </tr>
 </thead>
 <tbody>
