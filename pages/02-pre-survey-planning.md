@@ -204,7 +204,7 @@ _**Table 5:** Preferred data formats by data type and level._
     <strong>Priority 2</strong><br><li>32-bit floating point GeoTIFF (.tiff)</li></td>
     <td><strong>Priority 1</strong><br><li>Sensor trackline (GeoJSON)</li></td>
     <td><strong>N/A</strong></td>
-    <td colspan="2"><strong>Bathymetry and Backscatter</strong><br>Vertical datums: both Ellipsoid and MSL<br>Resolution as per <a href="https://docs.google.com/document/d/1XNL8l8gb5cdfmcBu1NrFXfkQJw7P3GqUlyhYJbY3By0/edit#bookmark=id.1ljsd9k">Table 9</a><br>Variables: coordinates, depth (m, neg value) or intensity (dB), density (sounding/cell), uncertainty, flag (bathymetry in GeoTIFF format requires three separate files: depth, density, uncertainty).<br>Coordinate system: Geographic GDA2020 or WGS84<br>Precision: Metric variables with minimum of 2 decimals; Angular variables with deg decimals and 6 decimals<br><strong>Navigation and Ancillaries</strong><br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
+    <td colspan="2"><strong>Bathymetry and Backscatter</strong><br>Vertical datums: both Ellipsoid and MSL<br>Resolution as per <a href="https://australian-multibeam-guidelines.github.io/data-processing#512-post-survey">Table 9</a><br>Variables: coordinates, depth (m, neg value) or intensity (dB), density (sounding/cell), uncertainty, flag (bathymetry in GeoTIFF format requires three separate files: depth, density, uncertainty).<br>Coordinate system: Geographic GDA2020 or WGS84<br>Precision: Metric variables with minimum of 2 decimals; Angular variables with deg decimals and 6 decimals<br><strong>Navigation and Ancillaries</strong><br>Date and time: Calendar and UTC or specify otherwise<br>Coordinate system: Geographic WGS84 or GDA2020 with an ellipsoidal height datum</td>
     <td></td>
   </tr>
 </tbody>
@@ -270,9 +270,9 @@ Operational requirements, gear availability and technical capacity will determin
 *   potential interactions with surface fishing gear
 
 # _2.3.3 Data representation (seafloor coverage and resolution)_
-Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](#bookmark=id.1hmsyys) It is important to consider that the** **data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. 
+Data representation, with respect to seafloor coverage, depends primarily on the MBES system utilised. For MBES systems, data representation will be dependent on the beam width of the system and the associated footprint on the seafloor [(Table 4).](https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata) It is important to consider that the data representation of the final output has to be greater or equal to the beam footprint. For bathymetric sidescan, however, the sounding interval on the seafloor is constant. 
 
-Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](#3-3-horizontal-positioning-23) and [3.4](#3-4-vertical-positioning-24)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](#5-2-total-propagated-uncertainties-tpu-34)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
+Horizontal and vertical accuracy are two key factors of resolution that should also be taken into consideration when choosing the right equipment or designing a survey plan (sections [3.3](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#33-horizontal-positioning) and [3.4](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#34-vertical-positioning)). These can be assessed by listing all sources of error and calculate interactively the total propagated uncertainties of a sounding (TPU; [section 5.2](https://australian-multibeam-guidelines.github.io/data-processing#52-total-propagated-uncertainties-tpu)). The Total Vertical Uncertainty (TVU) must not exceed the depth accuracy, and total horizontal accuracy (THU) actually refers to the accuracy of the position of sounding on the seafloor and not the accuracy of the GPS [GNSS] position of the survey vessel alone. Survey speed can also affect the data representation and accuracy (Hughes-Clarke, 2017b).
 
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
@@ -411,9 +411,9 @@ prr = pulse repetition rate (pulses per second (Hz))
 
 
 # _2.3.4 Quality assessment / uncertainty scheme_
-The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](#bookmark=id.thw4kt) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
+The International Hydrographic Organisation (IHO) publishes a document for hydrographic standards – IHO Special Publication (SP-44). [Appendix G](https://australian-multibeam-guidelines.github.io/appendices#appendix-g--iho-standards-) of this publication details a range of survey standards for varying purposes. By surveying and providing data to these minimum standards, a collaborative approach to providing safe maritime navigation in future surveying areas can be assured in areas where there may be a future need to conduct operations. 
 
-However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](#bookmark=id.3rdcrjn)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  
+However, these standards may not fit the purpose of the survey or be flexible enough ([Figure 1](https://australian-multibeam-guidelines.github.io/introduction#11-scope)). Therefore, it is recommended that each parameter be evaluated separately when planning a survey. Consideration should be given to other user specifications or requirements, such as Port Authorities and Marine Parks, as these could also be met with little additional time, effort or cost (e.g. PPA, 2017, Lucieer et al., 2018). The data would then benefit more users and contribute to the National Seabed Mapping effort.  
 
 Regardless of the standards used, it is important to provide quality and uncertainty statements based upon calibration and validation evidence to ensure consistency.  These should be quantitative statements where numerical analysis is conducted e.g. TVU = +/-0.1m, THU = +/-1.0m.
 
@@ -444,7 +444,7 @@ It is recommended that for all survey reports each team member should be identif
 # _2.5.1 Geodetic control and horizontal Datum_
 Seabed mapping surveys conducted within the Australian EEZ shall be referenced to a geodetic reference frame based on the International Terrestrial Reference System (ITRS), e.g. ITRF 2014 (GRS80 Spheroid) during collection.
 
-Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](#bookmark=id.3tbugp1); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
+Data should be processed on the Geocentric Datum of Australia 2020 ([Figure 2](https://australian-multibeam-guidelines.github.io/pre-survey-planning#251-geodetic-control-and-horizontal-datum); [GDA2020](https://www.icsm.gov.au/sites/default/files/GDA2020TechnicalManualV1.1.1.pdf)) which is being implemented to modernise the geodetic positioning, based on 1994 models (ICSM, 2018). Stage 1 of GDA2020 will be fixed to the epoch 2020.0 and Stage 2 (anticipated in 2020) will transition to a time dependent reference frame and will be known as the Australian Terrestrial Reference Frame (ATRF). Specific information regarding GDA2020 can also be found on [GA’s website](http://www.ga.gov.au/scientific-topics/positioning-navigation/datum-modernisation).
 
 <img src="images/figures/image2.png" width="70%">
 
@@ -455,7 +455,7 @@ Proposed Horizontal control should be reviewed for accuracy and if local control
 Grid positions shall be referenced to the Universal Transverse Mercator (UTM) Grid.
 
 # _2.5.2 Tidal or ellipsoidal datum_
-The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used ([Figure 3](#bookmark=id.37m2jsg)), but the common datums are the ellipsoidal or tidal chart datums (sections [2.5.2.1](#heading=h.46r0co2) and [2.5.2.2](#heading=h.2lwamvv)). While mapping however, the sounding datum should be used. 
+The datum to which depths are to be reduced is fundamental to any seafloor mapping survey. Many datums can be used (Figure 3), but the common datums are the ellipsoidal or tidal chart datums (sections 2.5.2.1 and 2.5.2.2). While mapping however, the sounding datum should be used. 
 
 <img src="images/figures/image3.png" width="70%">
 
@@ -529,7 +529,7 @@ Survey line planning will vary based on the seafloor mapping objectives. However
 
 Where **seabed backscatter data is the primary objective** of the survey, the same recommendations as above apply with the following exceptions:
 
-11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees [(Figure 4](#bookmark=id.ymfzma); Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
+11. <span style="text-decoration:underline;">Incidence angles</span>: overlap should be as the swath coverage but limited to incidence angles between 20 and 60 degrees [(Figure 4](https://australian-multibeam-guidelines.github.io/pre-survey-planning#255-line-planning); Lamarche and Lurton, 2017). This angle requirement is needed in order to compensate for the high variability of individual backscatter intensities (Gavrilov and Parnum, 2010; Kloser, 2017).
 
 <img src="images/figures/image4.png" width="85%" class="center">
 
