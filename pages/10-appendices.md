@@ -11,300 +11,226 @@ image:
 # Appendix A – Abbreviations 
 _**Table A1:** Abbreviations used in this document._
 <table>
+<thead>
   <tr>
-   <td>AHO
-   </td>
-   <td>Australian Hydrographic Office
-   </td>
+    <th>AHO</th>
+    <th>Australian Hydrographic Office</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>AMP</td>
+    <td>Australian Marine Park</td>
   </tr>
   <tr>
-   <td>AUV
-   </td>
-   <td>Autonomous underwater vehicle
-   </td>
+    <td>AUV</td>
+    <td>Autonomous underwater vehicle</td>
   </tr>
   <tr>
-   <td>BIST
-   </td>
-   <td>Built-in Systems Test (Kongsberg specific)
-   </td>
+    <td>BIST</td>
+    <td>Built-in Systems Test (Kongsberg specific)</td>
   </tr>
   <tr>
-   <td>BITE
-   </td>
-   <td>Built-in test environment (Reson specific)
-   </td>
+    <td>BITE</td>
+    <td>Built-in test environment (Reson specific)</td>
   </tr>
   <tr>
-   <td>BM
-   </td>
-   <td>Benchmark
-   </td>
+    <td>BM</td>
+    <td>Benchmark</td>
   </tr>
   <tr>
-   <td>CD
-   </td>
-   <td>Chart Datum
-   </td>
+    <td>CD</td>
+    <td>Chart Datum</td>
   </tr>
   <tr>
-   <td>CTD
-   </td>
-   <td>Conductivity / Temperature / Depth
-   </td>
+    <td>CTD</td>
+    <td>Conductivity / Temperature / Depth</td>
   </tr>
   <tr>
-   <td>CRP
-   </td>
-   <td>Common Reference Point
-   </td>
+    <td>CRP</td>
+    <td>Common Reference Point</td>
   </tr>
   <tr>
-   <td>DGNSS
-   </td>
-   <td>Differential Global Navigation Satellite System
-   </td>
+    <td>DGNSS</td>
+    <td>Differential Global Navigation Satellite System</td>
   </tr>
   <tr>
-   <td>DGPS
-   </td>
-   <td>Differential Global Positioning System
-   </td>
+    <td>DGPS</td>
+    <td>Differential Global Positioning System</td>
   </tr>
   <tr>
-   <td>DOP
-   </td>
-   <td>Dilution of Precision
-   </td>
+    <td>DOP</td>
+    <td>Dilution of Precision</td>
   </tr>
   <tr>
-   <td>GA
-   </td>
-   <td>Geoscience Australia
-   </td>
+    <td>GA</td>
+    <td>Geoscience Australia</td>
   </tr>
   <tr>
-   <td>GNSS
-   </td>
-   <td>Global Navigation Satellite System
-   </td>
+    <td>GDA2020</td>
+    <td>Geodetic Datum of Australia 2020</td>
   </tr>
   <tr>
-   <td>GPS
-   </td>
-   <td>Global positioning system
-   </td>
+    <td>GNSS</td>
+    <td>Global Navigation Satellite System</td>
   </tr>
   <tr>
-   <td>HAT
-   </td>
-   <td>Highest Astronomical Tide
-   </td>
+    <td>GPS</td>
+    <td>Global positioning system</td>
   </tr>
   <tr>
-   <td>ICSM
-   </td>
-   <td>Inter-Governmental Committee on Surveying and Mapping
-   </td>
+    <td>HAT</td>
+    <td>Highest Astronomical Tide</td>
   </tr>
   <tr>
-   <td>IHO
-   </td>
-   <td>International Hydrographic Organisation
-   </td>
+    <td>HIPP</td>
+    <td>Hydroscheme Industry Partnership Program</td>
   </tr>
   <tr>
-   <td>IMU
-   </td>
-   <td>Inertial motion unit
-   </td>
+    <td>ICSM</td>
+    <td>Inter-Governmental Committee on Surveying and Mapping</td>
   </tr>
   <tr>
-   <td>ITRF
-   </td>
-   <td>International Terrestrial Reference Frame
-   </td>
+    <td>IHO</td>
+    <td>International Hydrographic Organisation</td>
   </tr>
   <tr>
-   <td>LAT
-   </td>
-   <td>Lowest Astronomical Tide
-   </td>
+    <td>IMU</td>
+    <td>Inertial motion unit</td>
   </tr>
   <tr>
-   <td>LINZ
-   </td>
-   <td>Land Information New Zealand
-   </td>
+    <td>ISO</td>
+    <td>International Organisation for Standardisation</td>
   </tr>
   <tr>
-   <td>MBES
-   </td>
-   <td>Multibeam Echo Sounder (inclusive of interferometric bathymetric swath systems)
-   </td>
+    <td>ITRF</td>
+    <td>International Terrestrial Reference Frame</td>
   </tr>
   <tr>
-   <td>MHHW
-   </td>
-   <td>Mean High Water
-   </td>
+    <td>LAT</td>
+    <td>Lowest Astronomical Tide</td>
   </tr>
   <tr>
-   <td>MHWS
-   </td>
-   <td>Mean High Water Springs
-   </td>
+    <td>LINZ</td>
+    <td>Land Information New Zealand</td>
   </tr>
   <tr>
-   <td>MLWS
-   </td>
-   <td>Mean Low Water Springs
-   </td>
+    <td>MBES</td>
+    <td>Multibeam Echo Sounder (inclusive of interferometric bathymetric swath systems)</td>
   </tr>
   <tr>
-   <td>M
-   </td>
-   <td>International Nautical Mile
-   </td>
+    <td>MHHW</td>
+    <td>Mean High Water</td>
   </tr>
   <tr>
-   <td>MRU
-   </td>
-   <td>Motion Reference Unit
-   </td>
+    <td>MHWS</td>
+    <td>Mean High Water Springs</td>
   </tr>
   <tr>
-   <td>MSL
-   </td>
-   <td>Mean Sea Level
-   </td>
+    <td>MLWS</td>
+    <td>Mean Low Water Springs</td>
   </tr>
   <tr>
-   <td>PPK
-   </td>
-   <td>Post Processed Kinematic
-   </td>
+    <td>MRU</td>
+    <td>Motion Reference Unit</td>
   </tr>
   <tr>
-   <td>PPS
-   </td>
-   <td>Pulse Per Second
-   </td>
+    <td>MSL</td>
+    <td>Mean Sea Level</td>
   </tr>
   <tr>
-   <td>QA
-   </td>
-   <td>Quality Assurance
-   </td>
+    <td>NESP</td>
+    <td>National Environmental Science Program</td>
   </tr>
   <tr>
-   <td>QC
-   </td>
-   <td>Quality Control
-   </td>
+    <td>NM</td>
+    <td>International Nautical Mile</td>
   </tr>
   <tr>
-   <td>ROS
-   </td>
-   <td>Report of Survey
-   </td>
+    <td>PPK</td>
+    <td>Post Processed Kinematic</td>
   </tr>
   <tr>
-   <td>ROV
-   </td>
-   <td>Remotely operated vehicle
-   </td>
+    <td>PPS</td>
+    <td>Pulse Per Second</td>
   </tr>
   <tr>
-   <td>RTK
-   </td>
-   <td>Real Time Kinematic
-   </td>
+    <td>QA</td>
+    <td>Quality Assurance</td>
   </tr>
   <tr>
-   <td>SD
-   </td>
-   <td>Sounding Datum
-   </td>
+    <td>QC</td>
+    <td>Quality Control</td>
   </tr>
   <tr>
-   <td>SIC
-   </td>
-   <td>Seabed mapper in Charge
-   </td>
+    <td>ROS</td>
+    <td>Report of Survey</td>
   </tr>
   <tr>
-   <td>SMS
-   </td>
-   <td>Seabed Mapping System
-   </td>
+    <td>ROV</td>
+    <td>Remotely operated vehicle</td>
   </tr>
   <tr>
-   <td>SO
-   </td>
-   <td>Special Order
-   </td>
+    <td>RTK</td>
+    <td>Real Time Kinematic</td>
   </tr>
   <tr>
-   <td>SV
-   </td>
-   <td>Sound Velocity
-   </td>
+    <td>SD</td>
+    <td>Sounding Datum</td>
   </tr>
   <tr>
-   <td>SVP
-   </td>
-   <td>Sound Velocity Probe or Sound Velocity Profile
-   </td>
+    <td>SIC</td>
+    <td>Seabed mapper in Charge</td>
   </tr>
   <tr>
-   <td>SVS
-   </td>
-   <td>Sound velocity sensor
-   </td>
+    <td>SMS</td>
+    <td>Seabed Mapping System</td>
   </tr>
   <tr>
-   <td>THU
-   </td>
-   <td>Total Horizontal Uncertainty
-   </td>
+    <td>SO</td>
+    <td>Special Order</td>
   </tr>
   <tr>
-   <td>TPU
-   </td>
-   <td>Total Propagated Uncertainty
-   </td>
+    <td>SV</td>
+    <td>Sound Velocity</td>
   </tr>
   <tr>
-   <td>TVU
-   </td>
-   <td>Total Vertical Uncertainty
-   </td>
+    <td>SVP</td>
+    <td>Sound Velocity Probe or Sound Velocity Profile</td>
   </tr>
   <tr>
-   <td>UTC
-   </td>
-   <td>Coordinated Universal Time 
-   </td>
+    <td>SVS</td>
+    <td>Sound velocity sensor</td>
   </tr>
   <tr>
-   <td>UTM
-   </td>
-   <td>Universal Transverse Mercator
-   </td>
+    <td>THU</td>
+    <td>Total Horizontal Uncertainty</td>
   </tr>
   <tr>
-   <td>WGS-84
-   </td>
-   <td>World Geodetic System 1984
-   </td>
+    <td>TPU</td>
+    <td>Total Propagated Uncertainty</td>
   </tr>
   <tr>
-   <td>XBT
-   </td>
-   <td>Expendable Bathythermograph
-   </td>
+    <td>TVU</td>
+    <td>Total Vertical Uncertainty</td>
   </tr>
+  <tr>
+    <td>UTC</td>
+    <td>Coordinated Universal Time </td>
+  </tr>
+  <tr>
+    <td>UTM</td>
+    <td>Universal Transverse Mercator</td>
+  </tr>
+  <tr>
+    <td>WGS-84</td>
+    <td>World Geodetic System 1984</td>
+  </tr>
+  <tr>
+    <td>XBT</td>
+    <td>Expendable Bathythermograph</td>
+  </tr>
+</tbody>
 </table>
 
 # Appendix B – Glossary
