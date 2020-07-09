@@ -13,17 +13,15 @@ The AusSeabed Data Hub is the national repository for all seabed mapping data co
 # 7.1 Data submission to AusSeabed
 Data submitted to the AusSeabed Data Hub needs to comply with the following final QA/QC checklist:
 
-
-
-*   Ensure that calibration values have been applied adequately, i.e. not doubled up through the various software used (e.g. applied by the acquisition software and again by the processing software). See [section 3](#3-mobilisation-calibration-and-validation-21).
-*   Data should be delivered according to formats and specifications listed in [Table 5](#bookmark=id.2p2csry) of [section 2.3.1](#2-3-1-data-type-formats-and-metadata-8)
-*   Where processing or cleaning has been applied it has been done according to [section 5](#5-data-processing-32).
+*   Ensure that calibration values have been applied adequately, i.e. not doubled up through the various software used (e.g. applied by the acquisition software and again by the processing software). See [section 3](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation).
+*   Data should be delivered according to formats and specifications listed in [Table 5](https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata) of [section 2.3.1](https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata)
+*   Where processing or cleaning has been applied it has been done according to [section 5](https://australian-multibeam-guidelines.github.io/data-processing).
 
 Data can be transferred to AusSeabed using any one of a number of secure online data transfer mechanisms (Google Drive, One Drive, Cloudstor, Drop Box, directly through the National Computing Infrastructure, by sharing permissions to Amazon S3, etc.). If no online data transfer method is possible, data can be sent to Geoscience Australia using a hard drive. Please follow the steps outlined below to ensure efficient delivery of data and contact [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au) if unsure during any stage of the process:
 
 
 
-1. Ensure that data meet the Final QA/QC requirements above and that all files outlined in [Table 11](#bookmark=id.14ykbeg) have been prepared for submission. 
+1. Ensure that data meet the Final QA/QC requirements above and that all files outlined in [Table 11](https://australian-multibeam-guidelines.github.io/data-release#71-data-submission-to-ausseabed) have been prepared for submission. 
 2. Contact AusSeabed ([ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au)) and AHO ([datacentre@hydro.gov.au](mailto:datacentre@hydro.gov.au)) to inform of the intention to submit data. This communication with AusSeabed can be used to determine the most convenient method for file transfer. If hard drives are used, they will be returned to sender. If your submission is a requirement of your funder or regulator (e.g. permit provider) please include the funder or regulator in your correspondence.
 3. Send data and associated files to AusSeabed.
 4. Provide access to the data’s metadata record by either:
@@ -45,41 +43,38 @@ _**Table 11:** Data required for submission to AusSeabed_
   <tr>
    <td>Sonar file L0, L2 and L3
    </td>
-   <td><a href="#bookmark=id.2p2csry">Table 5</a>
+   <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">Table 5</a>
    </td>
   </tr>
   <tr>
    <td>Navigation, Heave and Attitude files L0 and L2
    </td>
-   <td><a href="#bookmark=id.2p2csry">Table 5</a>
+   <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">Table 5</a>
    </td>
   </tr>
   <tr>
    <td>Ancillary files L0 and L2 (Tide, SVP, etc.)
    </td>
-   <td><a href="#bookmark=id.2p2csry">Table 5</a>
+   <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">Table 5</a>
    </td>
   </tr>
   <tr>
    <td>Backscatter L3
    </td>
-   <td><a href="#bookmark=id.2p2csry">Table 5</a>
+   <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">Table 5</a>
    </td>
   </tr>
   <tr>
    <td>Records (Reports and logs)
    </td>
-   <td><a href="#6-reports-36">Section 6</a>
+   <td><a href="https://australian-multibeam-guidelines.github.io/reports">Section 6</a>
    </td>
   </tr>
   <tr>
    <td>Metadata
    </td>
    <td>
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Section 2.3.1.3"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.3o7alnk">Section 2.3.1.3</a>
+<a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#231-data-type-formats-and-metadata">Section 2.3.1.3</a>
    </td>
   </tr>
   <tr>
