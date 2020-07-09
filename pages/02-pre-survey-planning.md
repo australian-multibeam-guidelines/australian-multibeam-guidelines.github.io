@@ -196,7 +196,9 @@ _**Table 5:** Preferred data formats by data type and level._
   </tr>
   <tr>
     <td>L3</td>
-    <td><strong>Priority 1</strong><br><li>BAG single-resolution</li><br><li>BAG multi-resolution</li><br><li>32-bit floating point GeoTIFF (.tiff)</li><br><br>
+    <td><strong>Priority 1</strong><br><li>BAG single-resolution</li>
+    <li>BAG multi-resolution</li>
+    <li>32-bit floating point GeoTIFF (.tiff)</li><br><br>
     <strong>Priority 2</strong><br><li>.las/.laz</li><br></td>
     <td><strong>Priority 1</strong><br><li>BAG single-resolution</li><br><br>
     <strong>Priority 2</strong><br><li>32-bit floating point GeoTIFF (.tiff)</li></td>
