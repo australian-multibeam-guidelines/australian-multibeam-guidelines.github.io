@@ -38,7 +38,7 @@ The primary objective of this guideline is to establish standardised approaches 
 To achieve this objective, [AusSeabed](http://www.ausseabed.gov.au) was formed, a national seabed mapping coordination program run by a consortium of representatives from Commonwealth and State governments, universities and industry. AusSeabed’s role is to encourage and facilitate the acquisition of seabed mapping data and make it available for use by all stakeholders. As such, the program runs a series of coordinated initiatives, including:
 
 *   the production of maps identifying completed surveys and priority areas for Commonwealth and State Government agencies
-*   maintenance of the Australian Multibeam Guidelines** **(this document)
+*   maintenance of the Australian Multibeam Guidelines (this document)
 *   the [AusSeabed website](http://www.ausseabed.gov.au/) hosting various resources including survey planning and data management tools, and a [data portal](https://portal.ga.gov.au/persona/marine) providing a gateway to existing data coverage and custodians.
 
 _**Table 1** Key stakeholders benefiting from better coordination and availability of seabed mapping data and the type of data they preferentially use (note the list is not exhaustive, but intended to give examples)_
@@ -167,17 +167,14 @@ These guidelines do not include a full and comprehensive technical description o
 _**Table 2** Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
 
 <table>
-<thead>
   <tr>
-   <td><strong>Section</strong>
+   <td>Section
    </td>
-   <td><strong>Non-expert groups</strong>
+   <td>Non-expert groups
    </td>
-   <td><strong>Expert groups</strong>
+   <td>Expert groups
    </td>
   </tr>
-  </thead>
-  <tbody>
   <tr>
    <td><strong>1 Introduction</strong>
    </td>
@@ -195,7 +192,7 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
    </td>
   </tr>
   <tr>
-   <td><strong>3 Mobilisation, Calibration & Validation</strong>
+   <td><strong>3 Mobilisation, calibration and validation</strong>
    </td>
    <td>3.1; 3.9
    </td>
@@ -211,7 +208,7 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
    </td>
   </tr>
   <tr>
-   <td><strong>5 Processing and Rendering</strong>
+   <td><strong>5 Data processing</strong>
    </td>
    <td>5.3
    </td>
@@ -226,7 +223,22 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
    <td>All
    </td>
   </tr>
-  </tbody>
+  <tr>
+   <td><strong>7 Data submission and release</strong>
+   </td>
+   <td>All
+   </td>
+   <td>All
+   </td>
+  </tr>
+  <tr>
+   <td><strong>8 Multibeam acoustics for marine monitoring</strong>
+   </td>
+   <td>All
+   </td>
+   <td>All
+   </td>
+  </tr>
 </table>
 
 ## 1.3 Related standards and publications
