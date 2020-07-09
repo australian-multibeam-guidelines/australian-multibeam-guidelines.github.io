@@ -260,12 +260,12 @@ This set of metadata is not exhaustive, and a large number of specific survey, c
 # _2.3.2 Survey area characterization_
 Operational requirements, gear availability and technical capacity will determine the most appropriate type of MBES system to use. The characteristics of the survey area and mapping requirements are also key issues to consider, including:
 *   survey duration and size of the area
-*   anticipated depth range as this will affect line planning ([section 2.5.5](#2-5-5-line-planning-18)) and acquisition parameter settings ([section 4.3](#4-3-systems-settings-27))
+*   anticipated depth range as this will affect line planning ([section 2.5.5](https://australian-multibeam-guidelines.github.io/pre-survey-planning#255-line-planning)) and acquisition parameter settings ([section 4.3](https://australian-multibeam-guidelines.github.io/acquisition#43-systems-settings))
 *   wind and wave conditions and seasonal weather changes
 *   tidal regime and tidal infrastructure
 *   feature detection and sounding density requirements; reflected in required pulse repetition (ping rates), swath width and survey speed
-*   the nature of the seabed, which is important for seabed backscatter data acquisition ([section 4.3.2](#4-3-2-backscatter-28)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered ([section 2.5.6](#2-5-6-seabed-samples-20)). See also the [NESP field manuals](https://marine-sampling-field-manual.github.io/) for standard operating procedures on sediment sampling and underwater imagery.
-*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter ([section 4.3.2](#4-3-2-backscatter-28))
+*   the nature of the seabed, which is important for seabed backscatter data acquisition ([section 4.3.2](https://australian-multibeam-guidelines.github.io/acquisition#432-backscatter)). If one of the objectives of the mapping is to understand the nature of the seabed and to predict it over the area of interest, seabed sediment sampling/imaging needs to be considered ([section 2.5.6](https://australian-multibeam-guidelines.github.io/pre-survey-planning#256-seabed-samples)). See also the [NESP field manuals](https://marine-sampling-field-manual.github.io/) for standard operating procedures on sediment sampling and underwater imagery.
+*   water column anomalies and feature anomalies, which may benefit from recording seabed water column backscatter ([section 4.3.2](https://australian-multibeam-guidelines.github.io/acquisition#432-backscatter))
 *   the time of year and relevance to whale migrations for low frequency instruments
 *   potential interactions with surface fishing gear
 
@@ -432,7 +432,7 @@ Regardless of which method is used to deploy the swath system, it is important t
 This [website](http://www.bathyswath.com/installTransducers) provides additional information on various possible mounts and considerations. Note that the working group is not endorsing the company that this information is taken from.
 
 # _2.3.6 Dimension control of sensor offsets_
-Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](#3-2-dimensional-control-22)).
+Dimensional control, otherwise known as a sensor offset survey, is essential to any seafloor mapping survey and needs to be reported (see [section 3.2](https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation#32-dimensional-control)).
 
 # 2.4 Project team
 The project team should include personnel with relevant and adequate experience in swath acoustic instrumentation and survey requirements. These may consist of qualified people from various backgrounds, such as geophysicists, geologists, engineers, and hydrographic surveyors, but also increasingly includes marine ecologists and spatial analysts that manage seafloor mapping programs. 
@@ -537,7 +537,7 @@ _**Figure 4:** Diagram of ideal swath overlap (After Lamarche and Lurton, 2017).
 
 12. <span style="text-decoration:underline;">Repeated seabed backscatter survey</span>: For survey using the same swath system, it is recommended that the survey strategies, such as survey direction and orientations, and the system settings are kept identical. Frequency should also not be changed.
 
-See [section 4.2](#4-2-project-structure-and-nomenclature-27) which provides information regarding the project structure and nomenclature
+See [section 4.2](https://australian-multibeam-guidelines.github.io/acquisition#42-project-structure-and-nomenclature) which provides information regarding the project structure and nomenclature
 
 # _2.5.6 Seabed samples_
 Seabed samples are often acquired during a seafloor mapping survey for various purposes, including seabed characterisation and seafloor backscatter data calibration. It is thus recommended that procedures outlined in the relevant chapters of the ‘Field manuals for marine sampling to monitor Australian waters’ (Przeslawski and Foster 2018) are followed. 
@@ -545,4 +545,4 @@ Seabed samples are often acquired during a seafloor mapping survey for various p
 This manual recommends sending the samples to Geoscience Australia for analyses, such as grain-size, carbonate content, and results will be delivered in [MARS](http://dbforms.ga.gov.au/pls/www/npm.mars.search) public database. This analysis of samples contributes significantly to the knowledge of our seabed.
 
 # 2.6 Submission of plan, data and notifications
-See sections [2.1.3](#2-1-3-ausseabed-coordination-tool-7), [7](#7-data-submission-and-release-40) and [4.6](#4-6-mandatory-notifications-30).
+See sections [2.1.3](https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool), [7](https://australian-multibeam-guidelines.github.io/data-release) and [4.6](https://australian-multibeam-guidelines.github.io/acquisition#46-mandatory-notifications).
