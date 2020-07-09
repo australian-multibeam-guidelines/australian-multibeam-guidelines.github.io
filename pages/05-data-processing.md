@@ -39,28 +39,31 @@ AusSeabed has adopted a banded depth approach for creating gridded products (L3)
 _**Table 9:** Matrix of depth range used to guide horizontal resolution of bathymetry grids. Modified from NOAA (2019)_
 
 <table>
+ <thead>
   <tr>
-   <td colspan="3" >Normal depth band
+   <td colspan="3" ><strong>Normal depth band</strong>
    </td>
-   <td colspan="3" >Steep slope depth band<sup>1</sup>
+   <td colspan="3" ><strong>Steep slope depth band<sup>1</sup></strong>
    </td>
-   <td rowspan="2" >Res (m)
+   <td rowspan="2" ><strong>Res (m)</strong>
    </td>
-   <td rowspan="2" >Ratio<sup>2</sup>
+   <td rowspan="2" ><strong>Ratio<sup>2</sup></strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
-   <td>D<sub>s</sub> (m)
+   <td><strong>D<sub>s</sub> (m)</strong>
    </td>
-   <td>D<sub>d</sub> (m)
+   <td><strong>D<sub>d</sub> (m)</strong>
    </td>
-   <td>Range Interval (m)
+   <td><strong>Range Interval (m)</strong>
    </td>
-   <td>D<sub>s</sub> (m)
+   <td><strong>D<sub>s</sub> (m)</strong>
    </td>
-   <td>D<sub>d</sub> (m)
+   <td><strong>D<sub>d</sub> (m)</strong>
    </td>
-   <td>Range Interval (m)
+   <td><strong>Range Interval (m)</strong>
    </td>
   </tr>
   <tr>
@@ -243,6 +246,7 @@ _**Table 9:** Matrix of depth range used to guide horizontal resolution of bathy
    <td>0.0175<sup>3</sup>
    </td>
   </tr>
+  </tbody>
 </table>
 
 <sup>1</sup>In cases of steep slopes, the overlap between grids of different resolutions may need to be increased to prevent gaps in their junction. In these cases, the coarser resolution grid should have its shoaler extent modified to prevent this coverage gap.
