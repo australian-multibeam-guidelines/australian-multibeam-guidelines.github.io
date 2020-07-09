@@ -169,11 +169,11 @@ _**Table 2** Relevance to the various user groups by document section number. Ho
 <table>
 <thead>
   <tr>
-   <td>Section
+   <td><strong>Section</strong>
    </td>
-   <td>Non-expert groups
+   <td><strong>Non-expert groups</strong>
    </td>
-   <td>Expert groups
+   <td><strong>Expert groups</strong>
    </td>
   </tr>
   </thead>
