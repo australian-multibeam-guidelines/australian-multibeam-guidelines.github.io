@@ -111,7 +111,7 @@ _**Table 4:** AusSeabed Data Level Definitions_
 <tbody>
   <tr>
     <td>L0</td>
-    <td>Unprocessed instrument data <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as all artefacts.</td>
+    <td><strong>Unprocessed instrument data</strong> <br>Unprocessed/raw instrument data at full resolution as received from the sensor. Includes MBES and ancillary files as well as all artefacts.</td>
     <td>Observed by sensor<br></td>
     <td>Observed by sensorPOSMV</td>
     <td>Observed by sensor<br></td>
@@ -119,13 +119,13 @@ _**Table 4:** AusSeabed Data Level Definitions_
   </tr>
   <tr>
     <td>L1</td>
-    <td>Data merged with ancillary information<br>Reconstructed L0 data undergoes correction with ancillary information, either from within the L0 data itself or separately collected ancillary files (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. This level may not exist for all data types and may depend on the software used.</td>
+    <td><strong>Data merged with ancillary information</strong><br>Reconstructed L0 data undergoes correction with ancillary information, either from within the L0 data itself or separately collected ancillary files (e.g., delayed heave and svp). This level may include radiometric and geometric correction and calibration, but not cleaning. This level may not exist for all data types and may depend on the software used.</td>
     <td>Processed depthIntegration with ancillary information</td>
     <td colspan="3">N/A: Data proceeds straight to L2</td>
   </tr>
   <tr>
     <td>L2</td>
-    <td>Cleaned and/or derived variables<br>L1 data undergoes cleaning and filtering to create the first ‘usable’ data.</td>
+    <td><strong>Cleaned and/or derived variables</strong><br>L1 data undergoes cleaning and filtering to create the first ‘usable’ data.</td>
     <td>Bathymetry productCleaned &amp; filtered</td>
     <td>Processed to SBET</td>
     <td>Processed to *.txt</td>
@@ -133,7 +133,7 @@ _**Table 4:** AusSeabed Data Level Definitions_
   </tr>
   <tr>
     <td>L3</td>
-    <td>Variables mapped on a grid<br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce derived products. L3 products cannot be backwards engineered into L2. </td>
+    <td><strong>Variables mapped on a grid</strong><br>L2 data undergoes additional processing/value-adding to create L3 products. Variables mapped on uniform grid scales, with some consistency to produce derived products. L3 products cannot be backwards engineered into L2. </td>
     <td>Additional value added, or data sampled (e.g. grid, DEM)</td>
     <td colspan="3">For the majority of commercial software available, backscatter data is progressed automatically through the L1 and L2 stages and saved directly as an L3 final product. Note: L2 is the final ‘product’ for ancillary data types.</td>
   </tr>
