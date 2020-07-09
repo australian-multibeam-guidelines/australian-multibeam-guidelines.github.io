@@ -297,11 +297,11 @@ _**Table C1:** List of documents relevant to multibeam activities in the Commonw
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4">Research and monitoring    </td>
+    <td rowspan="4"><strong>Research and monitoring</strong>    </td>
     <td>All activities    </td>
     <td>Australian Marine Parks    </td>
     <td>Department of Agriculture, Water and Environment (DAWE)    </td>
-    <td>Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act)    </td>
+    <td><i>Environment Protection and Biodiversity Conservation Act 1999 (Cth)</i> (EPBC Act)    </td>
     <td>Authorisation is required for all zones    </td>
     <td><a href="https://parksaustralia.gov.au/marine/contact/">https://parksaustralia.gov.au/marine/contact/</a>    </td>
   </tr>
@@ -325,12 +325,12 @@ _**Table C1:** List of documents relevant to multibeam activities in the Commonw
     <td>All activities    </td>
     <td>Antarctica (south of 60°S)    </td>
     <td>DAWE    </td>
-    <td>Antarctic Treaty (Environment Protection) Act 1980 <br> Antarctic Marine Living Resources Conservation (AMLRC) Act 1981    </td>
-    <td>Authorisation and permit required <br> AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area    </td>
+    <td>Antarctic Treaty (Environment Protection) Act 1980 <br> <i>Antarctic Marine Living Resources Conservation (AMLRC) Act 1981</i>    </td>
+    <td>Authorisation and permit required <br> <i>AMLRC Act permit required if carrying out research with respect to marine living organisms in the CCAMLR Convention Area</i>    </td>
     <td><a href="https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits/">https://www.antarctica.gov.au/environment/environmental-impact-assessment-approvals-and-permits//</a>    </td>
   </tr>
   <tr>
-    <td>Interactions with Cetaceans    </td>
+    <td><strong>Interactions with Cetaceans</strong>    </td>
     <td>Acoustic equipment <br> with received exposure level 160dB re 1 µPa2.s for 95% of shot at 1km range (seismic)    </td>
     <td>Commonwealth    </td>
     <td>DAWE    </td>
@@ -343,21 +343,21 @@ _**Table C1:** List of documents relevant to multibeam activities in the Commonw
     <td>Vessel interaction    </td>
     <td>Commonwealth    </td>
     <td>DAWE    </td>
-    <td>EPBC Act. Regulations 2000 (Cth) (EPBC Regulations) part 8    </td>
+    <td><i>EPBC Act. Regulations 2000</i> (Cth) (EPBC Regulations) part 8    </td>
     <td>Report death, injury, stranding or entanglement of whales and dolphins to DoEE. Specific requirements for vessels    </td>
     <td><a href="https://www.legislation.gov.au/Details/F2016C00914">https://www.legislation.gov.au/Details/F2016C00914</a>    </td>
   </tr>
   <tr>
-    <td>Interaction with Heritage    </td>
+    <td><strong>Interaction with Heritage </strong>   </td>
     <td>Historic Ship wrecks    </td>
     <td>Continental shelf waters (incl. some areas &gt; 200 nm)    </td>
     <td>DAWE    </td>
-    <td>Historic Shipwrecks Act 1976 (Cth)    </td>
+    <td><i>Historic Shipwrecks Act 1976 (Cth)</i>    </td>
     <td>Ship wrecks and relics older than 75 years and lying within protected zones.     </td>
     <td><a href="http://www.environment.gov.au/heritage/historic-shipwrecks">http://www.environment.gov.au/heritage/historic-shipwrecks</a>    </td>
   </tr>
   <tr>
-    <td>Restricted vessel movement and moored scientific equipment that create navigation hazards    </td>
+    <td><strong>Restricted vessel movement and moored scientific equipment that create navigation hazards    </strong></td>
     <td>    </td>
     <td>    </td>
     <td>Australian Hydrographic Service AHS <br> Australian Marine Safety AMSA    </td>
@@ -366,34 +366,34 @@ _**Table C1:** List of documents relevant to multibeam activities in the Commonw
     <td><a href="https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database">https://www.amsa.gov.au/safety-navigation/navigation-systems/maritime-safety-information-database</a> <br> <a href="mailto:datacentre@hydro.gov.au">datacentre@hydro.gov.au</a> <br> <a href="mailto:rccaus@amsa.gov.au">rccaus@amsa.gov.au</a>    </td>
   </tr>
   <tr>
-    <td>Research in the Great Barrier Reef Marine Park GBRMP    </td>
+    <td><strong>Research in the Great Barrier Reef Marine Park GBRMP    </strong></td>
     <td>Research, except for limited impact research.    </td>
     <td>GBRMP    </td>
     <td>Great Barrier Reef Marine Park Authority GBRMPA    </td>
-    <td>Great Barrier Reef Marine Park Act 1975 (Cth) <br> EPBC Act    </td>
+    <td><i>Great Barrier Reef Marine Park Act 1975 (Cth) <br> EPBC Act   </i> </td>
     <td>Limited impact research may be conducted under a letter of authority issued by an accredited educational or research institutions All other research requires permission    </td>
     <td><a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits</a> <br> <a href="http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions">http://www.gbrmpa.gov.au/zoning-permits-and-plans/permits/research-permissions</a>    </td>
   </tr>
   <tr>
-    <td>Research around petroleum and other infrastructure    </td>
+    <td><strong>Research around petroleum and other infrastructure    </strong></td>
     <td>    </td>
     <td>Commonwealth    </td>
     <td>National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)    </td>
-    <td>Sea Installations Act 1987    </td>
+    <td><i>Sea Installations Act 1987</i>    </td>
     <td>Vessels prohibited to go within a safety zone of 500m    </td>
     <td><a href="http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations">http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/sea-installations</a>    </td>
   </tr>
   <tr>
-    <td>Accessing areas where a Native Title determination exists    </td>
+    <td><strong>Accessing areas where a Native Title determination exists    </strong></td>
     <td>All activities    </td>
     <td>Commonwealth    </td>
     <td>National Native Title Tribunal    </td>
-    <td>Native Title Act 1993 (Cth)    </td>
+    <td><i>Native Title Act 1993 (Cth)    </i></td>
     <td>Refer to National Native Title Tribunal registers.    </td>
     <td><a href="http://www.nntt.gov.au/Pages/Home-Page.aspx">http://www.nntt.gov.au/Pages/Home-Page.aspx</a>    </td>
   </tr>
   <tr>
-    <td>Activities within&nbsp;&nbsp;Defence Offshore Training Areas or Restricted Airspace    </td>
+    <td><strong>Activities within&nbsp;&nbsp;Defence Offshore Training Areas or Restricted Airspace    </strong></td>
     <td>All activities    </td>
     <td>Commonwealth    </td>
     <td>Department of Defence (DoD)    </td>
@@ -402,11 +402,11 @@ _**Table C1:** List of documents relevant to multibeam activities in the Commonw
     <td><a href="http://www.hydro.gov.au/factsheets/WFS_Firing_Practice_And_Exercise_Areas.pdf">http://www.hydro.gov.au/factsheets/WFS_Firing_Practice_And_Exercise_Areas.pdf</a> <br> <a href="https://www.airservicesaustralia.com/aip/aip.asp">https://www.airservicesaustralia.com/aip/aip.asp</a> <br> <a href="https://nationalmap.gov.au/#share=s-wMPX5gwlZcPGccu8ijiVrF4RFIx">https://nationalmap.gov.au/#share=s-wMPX5gwlZcPGccu8ijiVrF4RFIx</a> <br> <a href="mailto:offshore.petroleum@defence.gov.au">offshore.petroleum@defence.gov.au</a> <br> <a href="mailto:ADF.Airspace@defence.gov.au">ADF.Airspace@defence.gov.au</a>    </td>
   </tr>
   <tr>
-    <td>Impact on the commercial fishing industry    </td>
+    <td><strong>Impact on the commercial fishing industry    </strong></td>
     <td>Activities with potentially significant impact fish stocks or habitat    </td>
     <td>Commonwealth    </td>
-    <td>Commonwealth Fisheries Association (CFA)    </td>
-    <td>Fisheries Management Act 1991 (Cth)    </td>
+    <td><i>Commonwealth Fisheries Association (CFA)    </i></td>
+    <td><i>Fisheries Management Act 1991 (Cth)    </i></td>
     <td>Consultation    </td>
     <td><a href="https://www.afma.gov.au/sustainability-environment/petroleum-industry-consultation">https://www.afma.gov.au/sustainability-environment/petroleum-industry-consultation</a> <br> (List of regional bodies on website) <br> <a href="mailto:ceo@comfish.com.au">ceo@comfish.com.au</a>    </td>
   </tr>
