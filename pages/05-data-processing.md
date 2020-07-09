@@ -36,8 +36,7 @@ AusSeabed aims to have as few as possible manual interventions in the cleaning a
 
 AusSeabed has adopted a banded depth approach for creating gridded products (L3) and optimising the horizontal resolution delivered from acquired multibeam data (table 8).
 
-_Table 9 Matrix of depth range used to guide horizontal resolution of bathymetry grids. Modified from NOAA (2019)_
-
+_**Table 9:** Matrix of depth range used to guide horizontal resolution of bathymetry grids. Modified from NOAA (2019)_
 
 <table>
   <tr>
@@ -254,7 +253,7 @@ _Table 9 Matrix of depth range used to guide horizontal resolution of bathymetry
 
 ![alt_text](images/figures/figure6.png "image_tooltip")
 
-_**Figure 6** Horizontal resolution according to depth range for various existing standards._
+_**Figure 6:** Horizontal resolution according to depth range for various existing standards._
 
 # _5.1.3 Backscatter processing requirements_ 
 Please keep a processing log that records what processing software and settings are used to prepare the backscatter mosaic. When you process, it is important to specify the imagery type (Beam Average/Time Series); Beam Pattern Correction (yes/no); and Anti-aliasing (yes/no) selection.

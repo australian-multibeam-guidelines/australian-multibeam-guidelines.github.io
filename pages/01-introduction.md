@@ -41,7 +41,7 @@ To achieve this objective, [AusSeabed](http://www.ausseabed.gov.au) was formed, 
 *   maintenance of the Australian Multibeam Guidelines (this document)
 *   the [AusSeabed website](http://www.ausseabed.gov.au/) hosting various resources including survey planning and data management tools, and a [data portal](https://portal.ga.gov.au/persona/marine) providing a gateway to existing data coverage and custodians.
 
-_**Table 1** Key stakeholders benefiting from better coordination and availability of seabed mapping data and the type of data they preferentially use (note the list is not exhaustive, but intended to give examples)_
+_**Table 1:** Key stakeholders benefiting from better coordination and availability of seabed mapping data and the type of data they preferentially use (note the list is not exhaustive, but intended to give examples)_
 
 <table>
 <thead>
@@ -164,7 +164,7 @@ To help navigate these guidelines, Table 2 identifies sections that are more rel
 
 These guidelines do not include a full and comprehensive technical description of MBES systems, but rather, provide a list of pertinent references, such as Hughes-Clarke (2017a). They also refer to related guidelines where relevant.
 
-_**Table 2** Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
+_**Table 2:** Relevance to the various user groups by document section number. However, all stakeholders will find useful information in all sections_
 
 <table>
 <thead>

@@ -276,7 +276,7 @@ Horizontal and vertical accuracy are two key factors of resolution that should a
 
 If data representation is not the primary driver in the choice of the system to use, it is recommended that data be collected at the best resolution achievable by the system. 
 
-_**Table 7** MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
+_**Table 7:** MBES footprint (m) at nadir and beam width (deg). The beam footprint for a MBES increases in the outer beams._
 <table>
 <thead>
   <tr>

@@ -19,8 +19,6 @@ Data submitted to the AusSeabed Data Hub needs to comply with the following fina
 
 Data can be transferred to AusSeabed using any one of a number of secure online data transfer mechanisms (Google Drive, One Drive, Cloudstor, Drop Box, directly through the National Computing Infrastructure, by sharing permissions to Amazon S3, etc.). If no online data transfer method is possible, data can be sent to Geoscience Australia using a hard drive. Please follow the steps outlined below to ensure efficient delivery of data and contact [ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au) if unsure during any stage of the process:
 
-
-
 1. Ensure that data meet the Final QA/QC requirements above and that all files outlined in [Table 11](https://australian-multibeam-guidelines.github.io/data-release#71-data-submission-to-ausseabed) have been prepared for submission. 
 2. Contact AusSeabed ([ausseabed@ga.gov.au](mailto:ausseabed@ga.gov.au)) and AHO ([datacentre@hydro.gov.au](mailto:datacentre@hydro.gov.au)) to inform of the intention to submit data. This communication with AusSeabed can be used to determine the most convenient method for file transfer. If hard drives are used, they will be returned to sender. If your submission is a requirement of your funder or regulator (e.g. permit provider) please include the funder or regulator in your correspondence.
 3. Send data and associated files to AusSeabed.

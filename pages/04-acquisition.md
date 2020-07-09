@@ -95,7 +95,7 @@ Thousands of historic ship and plane wrecks are known to exist within Australian
 
 A notification report should include a snapshot of the scan image, coordinates, water depth and a brief description of the site giving dimensions of the object. It is requested that the Australian Hydrographic Office ([datacentre@hydro.gov.au](mailto:datacentre@hydro.gov.au)) is included as an information addressee on all notification reports to the relevant authorities.
 
-_**Table 8** Contact details of management agencies to notify for wrecks_
+_**Table 8:** Contact details of management agencies to notify for wrecks_
 <table>
 <tbody>
   <tr>
