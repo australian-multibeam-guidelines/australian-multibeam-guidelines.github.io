@@ -118,15 +118,12 @@ Baseline surveys are used to map the distribution of marine benthic habitats at 
     <td colspan="2">As per section 2.3.1.3 and section 6</td>
   </tr>
   <tr>
-    <td rowspan="2">Data Release</td>
-    <td colspan="2"> </td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://metadataentry.aodn.org.au/submit/">As per Chapter 7. Until&nbsp;&nbsp;&nbsp;further notice, a metadata record should also be filled with AODN for&nbsp;&nbsp;&nbsp;archiving. For agencies with regular metadata harvest by the AODN, follow&nbsp;&nbsp;&nbsp;agency-specific protocols for metadata, otherwise create and submit metadata&nbsp;&nbsp;&nbsp;records via the AODN Data Submission Tool. Note that user registration is&nbsp;&nbsp;&nbsp;required, but this is free and immediate.</a></td>
+    <td>Data Release</td>
+    <td colspan="2">As per Chapter 7. Until further notice, a metadata record should also be filled with AODN for archiving. For agencies with regular metadata harvest by the AODN, follow agency-specific protocols for metadata, otherwise create and submit metadata records via the <a href="https://metadataentry.aodn.org.au/submit/" target="_blank" rel="noopener noreferrer">AODN Data Submission Tool</a>. Note that user registration is   required, but this is free and immediate.</td>
   </tr>
   <tr>
     <td>Notification</td>
-    <td colspan="2"><a href="mailto:marineparks@awe.gov.au">After the data has been successfully&nbsp;&nbsp;&nbsp;received by AusSeabed and metadata uploaded to the AODN, please contact&nbsp;&nbsp;&nbsp;marineparks@awe.gov.au to confirm delivery of data.</a></td>
+    <td colspan="2">After the data has been successfully&nbsp;&nbsp;&nbsp;received by AusSeabed and metadata uploaded to the AODN, please contact <a href="mailto:marineparks@awe.gov.au">marineparks@awe.gov.au</a> to confirm delivery of data.</td>
   </tr>
 </tbody>
 </table>
