@@ -32,12 +32,15 @@ Please note that other funder, or regulator metadata requirements may apply.
 
 _**Table 11:** Data required for submission to AusSeabed_
 <table>
+<thead>
   <tr>
    <td>Deliverable item
    </td>
    <td>Specifications
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>Sonar file L0, L2 and L3
    </td>
@@ -81,6 +84,7 @@ _**Table 11:** Data required for submission to AusSeabed_
    <td>
    </td>
   </tr>
+  </tbody>
 </table>
 
 
