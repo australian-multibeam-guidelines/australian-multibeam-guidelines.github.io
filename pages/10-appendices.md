@@ -11,13 +11,10 @@ image:
 # Appendix A – Abbreviations 
 _**Table A1:** Abbreviations used in this document._
 <table>
-<thead>
   <tr>
     <th>AHO</th>
     <th>Australian Hydrographic Office</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>AMP</td>
     <td>Australian Marine Park</td>
@@ -230,7 +227,6 @@ _**Table A1:** Abbreviations used in this document._
     <td>XBT</td>
     <td>Expendable Bathythermograph</td>
   </tr>
-</tbody>
 </table>
 
 # Appendix B – Glossary
