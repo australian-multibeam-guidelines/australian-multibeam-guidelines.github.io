@@ -247,37 +247,37 @@ _**Figure B17** 100% swath coverage with 10-20 % overlap to account for ship rol
 
 _**Figure B28** 200% swath coverage with 100 % overlap (AHO, 2018)_
 
-**Blunders: **See Error, gross.
+**Blunders:** See Error, gross.
 
-**Checkline: **Sounding lines that are run perpendicular to the main survey lines and used to QA the soundings. 
+**Checkline:** Sounding lines that are run perpendicular to the main survey lines and used to QA the soundings. 
 
 **Coverage:** portion of the seabed cover by the multibeam swath. 100% coverage refers to 100% of the seabed covered by the swath without any overlap (Figure B1), while 200% coverage refers to 100 % overlap (Figure B2). Partial coverage refers to a seabed coverage that is less than 100%.
 
 **Crossline:** also known as checkline
 
-**Depth: **Depth is a vertical distance from a given vertical datum. Depths are derived by MBES from measurements of angles and ranges corrected for environmental factors. Horizontal Position is provided to derived depth by GNSS-Inertial system thus providing an xyz value. GNSS Inertial system derived vertical position from measurements of angular rates and acceleration.
+**Depth:** Depth is a vertical distance from a given vertical datum. Depths are derived by MBES from measurements of angles and ranges corrected for environmental factors. Horizontal Position is provided to derived depth by GNSS-Inertial system thus providing an xyz value. GNSS Inertial system derived vertical position from measurements of angular rates and acceleration.
 
 **Dimension control:** consists of determining the relationship between the measurement sensor and the platform Common Reference Point. 
 
-**Error: **The difference between an observed or computed value of a quantity and the ideal or true value of that quantity.
+**Error:** The difference between an observed or computed value of a quantity and the ideal or true value of that quantity.
 
-**Error, gross: **The result of carelessness or a mistake; may be detected through repetition of the measurement. Also called _blunder._
+**Error, gross:** The result of carelessness or a mistake; may be detected through repetition of the measurement. Also called _blunder._
 
-**Error, random: **remaining uncorrelated noise in the system, or noise, also known as accidental error.
+**Error, random:** remaining uncorrelated noise in the system, or noise, also known as accidental error.
 
-**Patch test: **A patch test is a specific survey performed prior to principal survey to allow adjustments of the MBES data for parameters such as transducer error (pitch, roll and yaw), and navigation latency. This test is done since the MBES has no reference to external fixed frame of reference (satellite constellation isn’t visible underwater), the MBES receives its “frame” from GNSS-Inertial system. These adjustments are entered in the acquisition software. For patch test patterns see [Appendix F](https://australian-multibeam-guidelines.github.io/appendices#appendix-f--patch-test).
+**Patch test:** A patch test is a specific survey performed prior to principal survey to allow adjustments of the MBES data for parameters such as transducer error (pitch, roll and yaw), and navigation latency. This test is done since the MBES has no reference to external fixed frame of reference (satellite constellation isn’t visible underwater), the MBES receives its “frame” from GNSS-Inertial system. These adjustments are entered in the acquisition software. For patch test patterns see [Appendix F](https://australian-multibeam-guidelines.github.io/appendices#appendix-f--patch-test).
 
-**Seabed backscatter: **Defined as the amount of acoustic energy being received by the sonar after a complex interaction with the seabed.  Measured as the ratio between the intensity of the acoustic pulse scattered back by the seafloor and the incident intensity, this information can be used to determine bottom type, knowing that the different bottom types “scatter” sound energy differently. The intensity of the backscatter received at the transducer depends on the transmitted source level, the transmission loss (absorption in the water column and geometrical spreading), and the target strength. Many multibeam sonar systems offer two types of seabed backscatter data namely “one-per-beam” backscatter (either beam average or max intensity) and “time series” backscatter. For further information on backscatter refer to Lamarche and Lurton, 2017
+**Seabed backscatter:** Defined as the amount of acoustic energy being received by the sonar after a complex interaction with the seabed.  Measured as the ratio between the intensity of the acoustic pulse scattered back by the seafloor and the incident intensity, this information can be used to determine bottom type, knowing that the different bottom types “scatter” sound energy differently. The intensity of the backscatter received at the transducer depends on the transmitted source level, the transmission loss (absorption in the water column and geometrical spreading), and the target strength. Many multibeam sonar systems offer two types of seabed backscatter data namely “one-per-beam” backscatter (either beam average or max intensity) and “time series” backscatter. For further information on backscatter refer to Lamarche and Lurton, 2017
 
 **Sounding datum:** This datum is used while mapping. It is a low-water plane to which soundings are reduced and above which drying heights are given on the Standard Sheet and in other survey records. However, for chart datum, tidal reduction is essential ([Figure 3](https://australian-multibeam-guidelines.github.io/pre-survey-planning#252-tidal-or-ellipsoidal-datum)). 
 
 **Swath system:** Current swath sounding systems utilize two differing technologies to achieve bathymetry measurements across a “swath” of the sea floor: 1) Beam forming (multibeam echo sounders), and 2) interferometric or phase discrimination sonars, also known as bathymetric sidescan. Both of these techniques have their merits; however, the same end results are achieved.
 
-**Systematic error: **see error.
+**Systematic error:** see error.
 
-**Transit data: **Transit data include any data collected outside the survey specific area, e.g. data collected between port and survey area or between sampling sites. In hydrographic terms, this is referred to as passage soundings. 
+**Transit data:** Transit data include any data collected outside the survey specific area, e.g. data collected between port and survey area or between sampling sites. In hydrographic terms, this is referred to as passage soundings. 
 
-**Water Column backscatter: **Recently developed multibeam sonars have the capability to record the sonar time series for each beam, which maps the water column in addition to the seafloor. Water column data could be used for direct mapping of fish and marine mammals, the mapping of plumes and vents, the location of mid-water targets, and a wide range of physical oceanographic processes.
+**Water Column backscatter:** Recently developed multibeam sonars have the capability to record the sonar time series for each beam, which maps the water column in addition to the seafloor. Water column data could be used for direct mapping of fish and marine mammals, the mapping of plumes and vents, the location of mid-water targets, and a wide range of physical oceanographic processes.
 
 
 # Appendix C – Legislation and permitting 
@@ -419,7 +419,7 @@ Laws and regulations regarding multibeam sonar acquisition in State and Territor
 *   Surveys undertaken across areas with access restrictions (e.g., naval waters, commercial ports, or shipping channels). 
 *   Surveys carried out In New South Wales for the purposes of resource exploration (permission through NSW Resources and Energy - Environment and Planning).
 
-_Table C2 Weblinks to state and territory permits_
+_**Table C2:** Weblinks to state and territory permits_
 
 <table>
   <tr>
