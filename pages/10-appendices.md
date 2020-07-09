@@ -241,11 +241,11 @@ Below are some of the terms used in these guidelines. A more extensive list of h
 
 <img src="images/figures/imageB1.png" width="100%">
 
-_**Figure B17** 100% swath coverage with 10-20 % overlap to account for ship role and line keeping (AHO, 2018)_
+_**Figure B1** 100% swath coverage with 10-20 % overlap to account for ship role and line keeping (AHO, 2018)_
 
 <img src="images/figures/imageB2.png" width="100%">
 
-_**Figure B28** 200% swath coverage with 100 % overlap (AHO, 2018)_
+_**Figure B2** 200% swath coverage with 100 % overlap (AHO, 2018)_
 
 **Blunders:** See Error, gross.
 
