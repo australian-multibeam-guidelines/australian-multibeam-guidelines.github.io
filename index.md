@@ -27,7 +27,7 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/introduction#11-scope"><i>1.1 Scope</i></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#12-how-to-use-guidelines"><i>1.2 How to use guidelines</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/introduction#12-how-to-use-these-guidelines"><i>1.2 How to use guidelines</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/introduction#13-related-standards-and-publications"><i>1.3 Related standards and publications</i></a></td>
@@ -42,7 +42,7 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#211-existing-data-coverage">2.1.1 Existing data coverage</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#212-national-bathymetry-priorities">2.1.2 National bathymetry priorities</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#212-national-bathymetry-priorities">2.1.2 National Bathymetry priorities</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/pre-survey-planning#213-ausseabed-coordination-tool">2.1.3 AusSeabed coordination tool</a></td>
@@ -225,22 +225,19 @@ Contributing Authors: N. Barrett, R. Beaman, D. Bergersen, M. Boyd, B. Brace, B.
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#612-report">6.1.2 Report</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-keeping"><i>6.2 Record keeping</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#62-record-of-survey"><i>6.2 Record of survey</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/reports#621-logs">6.2.1 Logs</a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of survey</a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/reports#622-report-of-survey">6.2.2 Report of Survey</a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/data-release"><strong>7. Data Release</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#71-final-qaqc"><i>7.1 Final QA/QC</i></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed"><i>7.2 Data submission to AusSeabed</i></a></td>
+    <td><a href="https://australian-multibeam-guidelines.github.io/data-release#72-data-submission-to-ausseabed"><i>7.1 Data submission to AusSeabed</i></a></td>
   </tr>
   <tr>
     <td><a href="https://australian-multibeam-guidelines.github.io/marine-monitoring"><strong>8. Multibeam Acoustics for Marine Monitoring</strong></a></td>
