@@ -650,7 +650,7 @@ _**Table G2:** HIPP standards for hydrographic surveys (AHO, 2018)_
 
 # Appendix H – Records templates
 
-The following appendix provides suggested templates for Records that should be produced during a seabed mapping survey. These templates can also be downloaded on the [AusSeabed](http://www.ausseabed.gov.au/resources/guidelines) website (with the exception of the AusSeabed required metadata table.
+The following appendix provides suggested templates for records that should be produced during a seabed mapping survey. These templates can also be downloaded on the [AusSeabed](http://www.ausseabed.gov.au/tools/ausseabed-record-templates) website.
 
 # _H.1 Mobilisation, calibration and validation report_
 
