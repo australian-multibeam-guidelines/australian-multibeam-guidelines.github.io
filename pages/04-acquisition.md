@@ -48,7 +48,7 @@ It is recommended that the system settings during transit data acquisition be se
 Unless a deep water CTD or XBT cast is available throughout the transit and when water depth is greater than 200m, a generic SVP tool, such as the [Hydroffice Sound Speed Manager](https://www.hydroffice.org/soundspeed/main) tool can be used to improve profiles. Should no SVP option be available, the sound velocity should be set to 1500m/sec.
 
 # 4.4 Ancillary systems
-# _4.4.1 Sound velocity Profile_
+# _4.4.1 Sound velocity profile_
 It is recommended that: 
 *   for shelf waters (&lt; 200m water depth), at least one SVP be conducted every 24 hours. However, every 6 hours would better align with Bureau of Meteorology (BOM) weather reporting requirements 
 *   for “off the shelf” surveys (> 200 m), SVP may not be necessary daily, but monitoring of the SVP is still recommended as per point below.
