@@ -1,11 +1,13 @@
 ---
 layout: main
 permalink: /
-title: "<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>AusSeabed Australian Multibeam Guidelines"
+title: "AusSeabed Australian Multibeam Guidelines"
 excerpt: ""
 image:
   feature: /banners/multibeam-banner.jpg
 ---
+
+<a href="http://www.ausseabed.gov.au/"><img src="images/ausseabed-logo.png"></a>
 
 <div align="center"><p style="font-size:20px;">Lead Authors: K. Picard, A. Leplastrier, K. Austine, N. Bergersen, R. Cullen, N. Dando, D.Donohue, S. Edwards, T. Ingleton, A. Jordan, V. Lucieer, I. Parnum, J. Siwabessy, M. Spinoccia, R. Talbot-Smith & C. Waterson</p></div><br>
 <img src="images/MBES.jpg" width="100%"><br><br>
