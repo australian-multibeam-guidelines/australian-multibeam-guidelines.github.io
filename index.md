@@ -1,10 +1,7 @@
 ---
 layout: main
 permalink: /
-title: "<a href="default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
-AusSeabed Australian Multibeam Guidelines"
+title: "<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>AusSeabed Australian Multibeam Guidelines"
 excerpt: ""
 image:
   feature: /banners/multibeam-banner.jpg
