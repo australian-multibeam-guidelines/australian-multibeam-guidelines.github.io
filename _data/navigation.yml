@@ -1,50 +1,49 @@
 # Site navigation links
 - title: "Download Field Manual"
-  url: https://australian-multibeam-guidelines.github.io/files/Australian-Multibeam-Guidelines-v2.0.pdf
+  url: https://pelagic-bruvs-field-manual.github.io/files/Chapter-6_Pelagic-BRUV_Field-Manual_V2.pdf
   excerpt: ""
   image: /5x8/download_5x8.jpg
-- title: "1. Introduction"
-  url: https://australian-multibeam-guidelines.github.io/introduction
+- title: "Platform Description"
+  url: https://pelagic-bruvs-field-manual.github.io/platform-description
   excerpt: ""
-  image: /5x8/introduction_teaser.jpg
-- title: "2. Pre-survey Planning"
-  url: https://australian-multibeam-guidelines.github.io/pre-survey-planning
+  image: /5x8/PelagicBRUVS_1.jpg
+- title: "Scope"
+  url: https://pelagic-bruvs-field-manual.github.io/scope
   excerpt: ""
-  image: /5x8/presurvey-planning_teaser.jpg
-- title: "3. Mobilisation, Calibration and Validation"
-  url: https://australian-multibeam-guidelines.github.io/mobilisation-calibration-validation
+  image: /5x8/PelagicBRUVS_2.jpg
+- title: "Pelagic BRUVs in Marine Monitoring"
+  url: https://pelagic-bruvs-field-manual.github.io/pelagic-bruvs-in-marine-monitoring
   excerpt: ""
-  image: /5x8/mobilisation-calibration-validation_teaser.jpg
-- title: "4. Acquisition"
-  url: https://australian-multibeam-guidelines.github.io/acquisition
+  image: /5x8/Marotiri2.jpg
+- title: "Equipment"
+  url: https://pelagic-bruvs-field-manual.github.io/equipment
   excerpt: ""
-  image: /5x8/acquisition_teaser.jpg
-- title: "5. Data Processing"
-  url: https://australian-multibeam-guidelines.github.io/data-processing
+  image: /5x8/02_teaser.jpg
+- title: "Pre-survey Preparations"
+  url: https://pelagic-bruvs-field-manual.github.io/pre-survey-preparations
   excerpt: ""
-  image: /5x8/data-processing_teaser.jpg
-- title: "6. Reports"
-  url: https://australian-multibeam-guidelines.github.io/reports 
+  image: /5x8/04_teaser.jpg
+- title: "Field Procedures"
+  url: https://pelagic-bruvs-field-manual.github.io/field-procedures
   excerpt: ""
-  image: /5x8/reports_teaser.jpg
-- title: "7. Data Release"
-  url: https://australian-multibeam-guidelines.github.io/data-release
+  image: /5x8/03_teaser.jpg
+- title: "Post-survey Procedures"
+  url: https://pelagic-bruvs-field-manual.github.io/post-survey-procedures
   excerpt: ""
-  image: /5x8/data-release_teaser.jpg
-- title: "8. Multibeam Acoustics for Marine Monitoring"
-  url: https://australian-multibeam-guidelines.github.io/marine-monitoring
+  image: /5x8/01_teaser.png
+- title: "Forthcoming Developments"
+  url: https://pelagic-bruvs-field-manual.github.io/forthcoming-developments
   excerpt: ""
-  image: /5x8/marine-monitoring_teaser.jpg
-- title: "9. References"
-  url: https://australian-multibeam-guidelines.github.io/references
+  image: /5x8/05_teaser.jpg
+- title: "Field Manual Maintenance"
+  url: https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: ""
-  image: /5x8/references_teaser.jpg
-- title: "Appendices"
-  url: https://australian-multibeam-guidelines.github.io/appendices
-  excerpt: ""
-  image: /5x8/appendices_teaser.jpg
+  image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "Acknowledgements"
-  url: https://australian-multibeam-guidelines.github.io/acknowledgements
+  url: https://pelagic-bruvs-field-manual.github.io/acknowledgements
   excerpt: ""
   image: /5x8/acknowledgements_teaser.jpg
-
+- title: "References"
+  url: https://pelagic-bruvs-field-manual.github.io/references
+  excerpt: ""
+  image: /5x8/references_teaser.jpg

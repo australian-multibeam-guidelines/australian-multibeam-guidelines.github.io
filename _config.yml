@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Australian Multibeam Guidelines" 
+title: "Pelagic stereo-BRUVs Field Manual" 
 description: "."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: "https:/australian-multibeam-guidelines.github.io"
+url: "https://pelagic-BRUVs-field-manual.github.io"
 feed:
   path: atom.xml
 

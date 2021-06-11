@@ -11,4 +11,13 @@
 <meta name="msapplication-config" content="{{ 'browserconfig.xml' | append: favicon_version }}">
 <meta name="theme-color" content="#000000">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134547681-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-134547681-1');
+</script>
 
+{% include analytics.html %}
